@@ -1,0 +1,158 @@
+{
+    "page": {
+        "hero": {
+            "title": "Ensemble chez Exonetik",
+            "description": "<p>Nous croyons que les gens sont la clé de notre succès. Notre équipe est composée d'experts talentueux qui carburent aux défis inhérents à notre environnement de travail hautement technologique et innovant.</p>",
+            "banner": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_856x383_crop_center-center_none/PageCareer-Together-Haut@3x-compressed.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_1712x767_crop_center-center_none/PageCareer-Together-Haut@3x-compressed.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/PageCareer-Together-Haut@3x-compressed.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_856x383_crop_center-center_none/PageCareer-Together-Haut@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_1712x767_crop_center-center_none/PageCareer-Together-Haut@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/PageCareer-Together-Haut@3x-compressed.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/PageCareer-Together-Haut@3x-compressed.jpg",
+                "width": "3423",
+                "height": "1533"
+            },
+            "link": {
+                "url": "/#available-jobs",
+                "title": "Postes à combler"
+            }
+        },
+        "content": {
+            "description": "Notre culture d’entreprise est axée sur l’amélioration de l’interaction humain-machine, la facilitation du quotidien et la concrétisation de la performance en développant des systèmes hautement dynamiques. Être curieux, s’élever les uns les autres, sortir des sentiers battus et surpasser les attentes sont donc des valeurs qui guident nos actions à chaque instant.",
+            "images": [
+                {
+                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x377_crop_center-center_none/PageCareer-Together-Milieu@3x-compressed_2021-02-11-143349.jpg",
+                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x755_crop_center-center_none/PageCareer-Together-Milieu@3x-compressed_2021-02-11-143349.jpg",
+                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-Together-Milieu@3x-compressed_2021-02-11-143349.jpg",
+                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x377_crop_center-center_none/PageCareer-Together-Milieu@3x-compressed_2021-02-11-143349.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x755_crop_center-center_none/PageCareer-Together-Milieu@3x-compressed_2021-02-11-143349.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-Together-Milieu@3x-compressed_2021-02-11-143349.jpg 3x",
+                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-Together-Milieu@3x-compressed_2021-02-11-143349.jpg",
+                    "width": "2049",
+                    "height": "1509"
+                },
+                {
+                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x437_crop_center-center_none/PageCareer-Together-Bas@3x-compressed_2021-02-11-143706.jpg",
+                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x875_crop_center-center_none/PageCareer-Together-Bas@3x-compressed_2021-02-11-143706.jpg",
+                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-Together-Bas@3x-compressed_2021-02-11-143706.jpg",
+                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x437_crop_center-center_none/PageCareer-Together-Bas@3x-compressed_2021-02-11-143706.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x875_crop_center-center_none/PageCareer-Together-Bas@3x-compressed_2021-02-11-143706.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-Together-Bas@3x-compressed_2021-02-11-143706.jpg 3x",
+                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-Together-Bas@3x-compressed_2021-02-11-143706.jpg",
+                    "width": "2049",
+                    "height": "1749"
+                }
+            ]
+        },
+        "workWithUs": {
+            "title": "Pourquoi travailler avec nous",
+            "slides": [
+                {
+                    "icon": null,
+                    "title": "Rémunération compétitive",
+                    "description": "Nous investissons dans nos gens parce que nous croyons qu’ils sont la clé de notre succès."
+                },
+                {
+                    "icon": null,
+                    "title": "Actionnariat pour employés",
+                    "description": "Nos offrons la possibilité de participer au programme d’actionnariat pour employés permettant ainsi à tous de bénéficier directement du succès de l’entreprise."
+                },
+                {
+                    "icon": null,
+                    "title": "Horaire de travail flexible",
+                    "description": "Nous donnons aux gens la liberté de gérer leurs propres horaires de travail et ainsi avoir un meilleur équilibre travail-vie personnelle."
+                },
+                {
+                    "icon": null,
+                    "title": "Assurance santé pour vous et votre famille",
+                    "description": "Parce que votre bien-être et celui de votre famille nous importe, nous payons la majeure partie de vos cotisations à l’assurance collective."
+                },
+                {
+                    "icon": null,
+                    "title": "Super ambiance de travail",
+                    "description": "Nous travaillons dans des espaces modernes, éclairés et spatieux et nous appliquons les principe de l'Agilité dans tous les aspects de notre travail."
+                },
+                {
+                    "icon": null,
+                    "title": "Le meilleur café en ville",
+                    "description": "Nous ne mentons pas, nous avons VRAIMENT le meilleur café en ville!"
+                }
+            ]
+        },
+        "availableJobsTitle": "Opportunités d'emploi",
+        "availableJobs": [
+            {
+                "title": "Spécialiste en essais et validation de systèmes",
+                "url": "/fr/carrieres/specialiste-en-essais-et-validation-de-systemes",
+                "jsonUrl": "https://www.exonetik.com/fr/api/pages/careers/specialiste-en-essais-et-validation-de-systemes.json",
+                "publicationDate": 1787602320,
+                "location": "Sherbrooke",
+                "type": "Permanent",
+                "slug": "specialiste-en-essais-et-validation-de-systemes"
+            },
+            {
+                "title": "Gestionnaire de produits – Robotique (Product Manager – Robotics)",
+                "url": "/fr/carrieres/gestionnaire-de-produits-robotique-product-manager-robotics",
+                "jsonUrl": "https://www.exonetik.com/fr/api/pages/careers/gestionnaire-de-produits-robotique-product-manager-robotics.json",
+                "publicationDate": 1784553780,
+                "location": "Sherbrooke (Qc)",
+                "type": "Permanent",
+                "slug": "gestionnaire-de-produits-robotique-product-manager-robotics"
+            }
+        ],
+        "spontanousApplication": {
+            "title": "Vous ne voyez pas votre emploi de rêve? Faites-nous parvenir votre candidature!",
+            "banner": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x375_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_2049x750_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-SpontaneousApplication@3x-compressed.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x375_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_2049x750_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-SpontaneousApplication@3x-compressed.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-SpontaneousApplication@3x-compressed.jpg",
+                "width": "4098",
+                "height": "1500"
+            },
+            "link": {
+                "url": "mailto:rh@exonetik.com",
+                "title": "rh@exonetik.com"
+            }
+        },
+        "weLoveTech": {
+            "title": "Passionné de techno ?",
+            "content": {
+                "description": "<p>Nous aimons tous la techno chez Exonetik. Nous en parlons. Nous en sommes passionnés. Nous sommes définitivement des geeks. Si cela vous rejoint, contactez-nous ou suivez nous sur Instagram pour en savoir plus sur notre passion de la techno. </p>",
+                "images": [
+                    "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/career-photo-lovetech-gauche@3x-compressed_2021-01-25-204835.jpg",
+                    "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-WeLoveTech-Droite@3x-compressed.jpg"
+                ]
+            },
+            "link": {
+                "url": "https://www.instagram.com/exonetik/?hl=da",
+                "title": "#welovetech"
+            }
+        }
+    },
+    "seo": {
+        "titleRaw": [],
+        "descriptionRaw": "",
+        "keywords": [],
+        "score": "neutral",
+        "social": {
+            "twitter": {
+                "handle": "",
+                "title": "Careers - Exonetik (EN)",
+                "imageId": null,
+                "description": ""
+            },
+            "facebook": {
+                "handle": "",
+                "title": "Careers - Exonetik (EN)",
+                "imageId": null,
+                "description": ""
+            }
+        },
+        "advanced": {
+            "robots": [],
+            "canonical": null
+        }
+    },
+    "urls": {
+        "en": "/careers",
+        "fr": "/fr/carrieres"
+    }
+}

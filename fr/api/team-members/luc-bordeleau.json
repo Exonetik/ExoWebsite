@@ -1,0 +1,60 @@
+{
+    "member": {
+        "name": "Luc Bordeleau",
+        "title": "Responsable TI",
+        "photo": {
+            "landscape": {},
+            "portrait": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_180x198_crop_center-center_none/LucBordeleau.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_361x396_crop_center-center_none/LucBordeleau.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/LucBordeleau.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_180x198_crop_center-center_none/LucBordeleau.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_361x396_crop_center-center_none/LucBordeleau.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/LucBordeleau.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/LucBordeleau.jpg",
+                "width": "721",
+                "height": "792"
+            }
+        },
+        "linkedin": null,
+        "description": null,
+        "previous": {
+            "name": "Alexandre St-Jean",
+            "id": 7024,
+            "slug": "alexandre-st-jean",
+            "url": "/fr/a-propos/alexandre-st-jean"
+        },
+        "next": {
+            "name": "Pascal Larose",
+            "id": 483,
+            "slug": "pascal-larose",
+            "url": "/fr/a-propos/pascal-larose"
+        }
+    },
+    "seo": {
+        "titleRaw": [],
+        "descriptionRaw": "",
+        "keywords": [],
+        "score": "",
+        "social": {
+            "twitter": {
+                "handle": "",
+                "title": "Luc Bordeleau - Exonetik (EN)",
+                "imageId": "",
+                "description": ""
+            },
+            "facebook": {
+                "handle": "",
+                "title": "Luc Bordeleau - Exonetik (EN)",
+                "imageId": "",
+                "description": ""
+            }
+        },
+        "advanced": {
+            "robots": [],
+            "canonical": ""
+        }
+    },
+    "urls": {
+        "en": "/about-us/luc-bordeleau",
+        "fr": "/fr/a-propos/luc-bordeleau"
+    }
+}

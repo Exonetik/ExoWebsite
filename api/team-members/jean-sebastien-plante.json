@@ -1,0 +1,70 @@
+{
+    "member": {
+        "name": "Jean-Sébastien Plante",
+        "title": "CTO & Co-Founder",
+        "photo": {
+            "landscape": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_576x325_crop_center-center_none/JSP-popup@3x.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1152x650_crop_center-center_none/JSP-popup@3x.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/JSP-popup@3x.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_576x325_crop_center-center_none/JSP-popup@3x.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1152x650_crop_center-center_none/JSP-popup@3x.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/JSP-popup@3x.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/JSP-popup@3x.jpg",
+                "width": "2304",
+                "height": "1299"
+            },
+            "portrait": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x576_crop_center-center_none/JSP-popup_desktop@3x.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x1152_crop_center-center_none/JSP-popup_desktop@3x.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/JSP-popup_desktop@3x.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x576_crop_center-center_none/JSP-popup_desktop@3x.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x1152_crop_center-center_none/JSP-popup_desktop@3x.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/JSP-popup_desktop@3x.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/JSP-popup_desktop@3x.jpg",
+                "width": "2049",
+                "height": "2304"
+            }
+        },
+        "linkedin": "https://www.linkedin.com/in/jean-sebastien-plante-ba99957/",
+        "description": "Jean-Sébastien is a leading expert in the field of magnetorheological fluids, an expertise he developed during his PhD studies at the MIT. As Chief Technology Officer, he now makes sure Exonetik's innovation pipeline remains competitive.",
+        "previous": {
+            "name": "Pascal Larose",
+            "id": 483,
+            "slug": "pascal-larose",
+            "url": "/about-us/pascal-larose"
+        },
+        "next": {
+            "name": "Guifré Juliò",
+            "id": 485,
+            "slug": "guifre-julio",
+            "url": "/about-us/guifre-julio"
+        }
+    },
+    "seo": {
+        "titleRaw": {
+            "1": "Mathieu Vinette"
+        },
+        "descriptionRaw": "",
+        "keywords": [],
+        "score": "",
+        "social": {
+            "twitter": {
+                "handle": "",
+                "title": "Jean-Sébastien Plante - Exonetik (EN)",
+                "imageId": "",
+                "description": ""
+            },
+            "facebook": {
+                "handle": "",
+                "title": "Jean-Sébastien Plante - Exonetik (EN)",
+                "imageId": "",
+                "description": ""
+            }
+        },
+        "advanced": {
+            "robots": [],
+            "canonical": ""
+        }
+    },
+    "urls": {
+        "en": "/about-us/jean-sebastien-plante",
+        "fr": "/fr/a-propos/jean-sebastien"
+    }
+}

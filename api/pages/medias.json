@@ -1,0 +1,36 @@
+{
+    "page": {
+        "title": "Products",
+        "shortDescription": "<p>Discover our products and our quality certification</p>"
+    },
+    "seo": {
+        "titleRaw": {
+            "1": "Media"
+        },
+        "descriptionRaw": "",
+        "keywords": [],
+        "score": "",
+        "social": {
+            "twitter": {
+                "handle": "",
+                "title": "Medias - Exonetik (EN)",
+                "imageId": "",
+                "description": ""
+            },
+            "facebook": {
+                "handle": "",
+                "title": "Medias - Exonetik (EN)",
+                "imageId": "",
+                "description": ""
+            }
+        },
+        "advanced": {
+            "robots": [],
+            "canonical": ""
+        }
+    },
+    "urls": {
+        "en": "/medias",
+        "fr": "/fr/medias"
+    }
+}

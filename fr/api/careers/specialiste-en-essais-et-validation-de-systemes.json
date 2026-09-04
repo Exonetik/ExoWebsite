@@ -1,0 +1,68 @@
+{
+    "career": {
+        "title": "Spécialiste en essais et validation de systèmes",
+        "publicationDate": 1787602320,
+        "shortDescription": "<p><strong>Développement de bancs d'essais | LabVIEW | Validation &amp;\nVérification</strong></p>",
+        "location": "Sherbrooke",
+        "type": "Permanent",
+        "description": "Tu aimes comprendre comment un système fonctionne... et surtout pourquoi il ne fonctionne pas? <br />\n <br />\nChez Exonetik, tu ressentiras l'effervescence d'une start-up et l'énergie d'une entreprise de haute technologie en pleine croissance. <br />\n <br />\nIci, tu ne développeras pas seulement des bancs d'essais : tu contribueras directement au développement de technologies innovantes en démontrant que nos produits répondent réellement aux exigences de performance, de qualité et de fiabilité. <br />\n <br />\nNous recherchons une personne curieuse, rigoureuse et passionnée par la programmation, les essais et le déverminage de systèmes complexes. <br />\n <br />\nCe poste est pour toi si... <br />\n• Tu aimes brancher des équipements, instrumenter et créer des bancs d'essais. <br />\n• Tu prends plaisir à comprendre pourquoi un système ne fonctionne pas. <br />\n• Tu préfères le laboratoire à la conception pure. <br />\n• Tu aimes programmer autant que manipuler du matériel. <br />\n• Tu transformes naturellement des exigences en essais concrets. <br />\n• Tu apprécies analyser des données et résoudre des problèmes techniques. <br />\n• Tu trouves qu'un produit n'est réellement terminé que lorsqu'il est démontré qu'il fonctionne. <br />\n\t <br />\nTu seras responsable de développer les moyens d'essais permettant de valider nos produits tout au long de leur développement. Plus précisément, tu seras appelé à : <br />\n• Concevoir, assembler, instrumenter et mettre en route des bancs d'essais; <br />\n• Développer des applications d'essais automatisés sous NI LabVIEW; <br />\n• Élaborer les plans de tests, les procédures d'essais et les critères d'acceptation; <br />\n• Réaliser les essais de validation et de vérification de systèmes mécaniques, électroniques et logiciels; <br />\n• Effectuer l'acquisition de données, analyser les résultats et documenter les conclusions; <br />\n• Participer au déverminage des prototypes et identifier les causes des défaillances; <br />\n• Collaborer avec les équipes de conception afin d'améliorer les produits; <br />\n• Rédiger les procédures, rapports et documents techniques; <br />\n• Contribuer à la conception des nouveaux produits afin de faciliter leur validation et leur mise à l'essai. <br />\n\t <br />\nLe profil qui nous fera dire « c'est lui » ou « c'est elle » <br />\nTu possèdes : <br />\n• Un DEC ou un BAC dans un domaine pertinent (génie électrique, électronique, logiciel, mécatronique, automatisation ou équivalent); <br />\n• De 2 à 5 années d'expérience en développement ou en réalisation de tests (ou davantage selon ton profil); <br />\n• Une expérience avec NI LabVIEW (atout majeur); <br />\n• Une bonne connaissance des systèmes d'acquisition de données et de l'instrumentation; <br />\n• Une expérience avec les équipements de laboratoire (oscilloscope, multimètre, alimentation, DAQ, etc.); <br />\n• Une excellente capacité d'analyse et de résolution de problèmes; <br />\n• De bonnes aptitudes en rédaction technique; <br />\n• Un bon bilinguisme (français et anglais, oral et écrit); <br />\n• Une bonne capacité à gérer plusieurs dossiers simultanément et à respecter des échéanciers. <br />\n\t <br />\nCe qui fera réellement la différence <br />\nNous recherchons une personne qui est passionnée par la validation et la vérification de systèmes intégrés, c'est-à-dire le côté droit du cycle en V. <br />\n <br />\nTu aimes pousser un système dans ses limites, comprendre les causes des défaillances, améliorer les ses performances et démontrer, preuves à l'appui, qu'un produit répond à ses exigences. <br />\n <br />\nChez Exonetik, nous croyons qu'un produit n'a de valeur que lorsqu'il a prouvé sa robustesse. Le concevoir est une étape importante; le pousser jusqu'à ses limites pour démontrer qu'il fonctionnera dans le monde réel en est une encore plus essentielle. <br />\n <br />\nSi tu préfères démontrer qu'un produit fonctionne plutôt que simplement le concevoir, tu risques de te plaire chez nous. <br />\n <br />\nPourquoi Exonetik? <br />\nChez Exonetik, les idées se transforment rapidement en prototypes… et les prototypes deviennent des produits. <br />\nTu évolueras dans une équipe multidisciplinaire où la collaboration, l'innovation et l'autonomie font partie du quotidien. Tes idées auront un impact réel sur les technologies que nous développons. <br />\n <br />\nCe défi te fait vibrer? <br />\nFais-nous parvenir ta candidature. Nous avons hâte de découvrir ce que tu pourras apporter à notre équipe à rh@exonetik.com",
+        "availableJobsTitle": "Opportunités d'emploi",
+        "availableJobs": [
+            {
+                "title": "Gestionnaire de produits – Robotique (Product Manager – Robotics)",
+                "url": "/fr/carrieres/gestionnaire-de-produits-robotique-product-manager-robotics",
+                "jsonUrl": "https://www.exonetik.com/fr/api/careers/7103.json",
+                "publicationDate": 1784553780,
+                "location": "Sherbrooke (Qc)",
+                "type": "Permanent",
+                "slug": "gestionnaire-de-produits-robotique-product-manager-robotics"
+            }
+        ],
+        "spontanousApplication": {
+            "title": "Vous ne voyez pas votre emploi de rêve? Faites-nous parvenir votre candidature!",
+            "banner": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x375_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_2049x750_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-SpontaneousApplication@3x-compressed.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x375_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_2049x750_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-SpontaneousApplication@3x-compressed.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-SpontaneousApplication@3x-compressed.jpg",
+                "width": "4098",
+                "height": "1500"
+            },
+            "link": {
+                "url": "mailto:rh@exonetik.com",
+                "title": "rh@exonetik.com"
+            }
+        }
+    },
+    "seo": {
+        "titleRaw": {
+            "1": "Spécialiste en essais et validation de systèmes"
+        },
+        "descriptionRaw": "",
+        "keywords": [],
+        "score": "",
+        "social": {
+            "twitter": {
+                "handle": "",
+                "title": " - Exonetik (EN)",
+                "imageId": "",
+                "description": ""
+            },
+            "facebook": {
+                "handle": "",
+                "title": " - Exonetik (EN)",
+                "imageId": "",
+                "description": ""
+            }
+        },
+        "advanced": {
+            "robots": [],
+            "canonical": ""
+        }
+    },
+    "urls": {
+        "en": "/careers/systems-test-validation-specialist",
+        "fr": "/fr/carrieres/specialiste-en-essais-et-validation-de-systemes"
+    }
+}

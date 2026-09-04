@@ -1,0 +1,68 @@
+{
+    "member": {
+        "name": "Etienne Bellerose",
+        "title": "Candidate to the Embedded Systems Engineer profession",
+        "photo": {
+            "landscape": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_750x1000_crop_center-center_none/Etienne-Bellerose.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1500x2000_crop_center-center_none/Etienne-Bellerose.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Etienne-Bellerose.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_750x1000_crop_center-center_none/Etienne-Bellerose.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1500x2000_crop_center-center_none/Etienne-Bellerose.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Etienne-Bellerose.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Etienne-Bellerose.jpg",
+                "width": "3000",
+                "height": "4000"
+            },
+            "portrait": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_750x1000_crop_center-center_none/Etienne-Bellerose.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1500x2000_crop_center-center_none/Etienne-Bellerose.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Etienne-Bellerose.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_750x1000_crop_center-center_none/Etienne-Bellerose.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1500x2000_crop_center-center_none/Etienne-Bellerose.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Etienne-Bellerose.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Etienne-Bellerose.jpg",
+                "width": "3000",
+                "height": "4000"
+            }
+        },
+        "linkedin": null,
+        "description": "As a candidate to the Embedded Systems Engineer (ESE) profession, Etienne is involved in the software development and deployment. His technical skills were developed during his internship at Exonetik. With his analytical and cooperative spirit, developed among other things by his keen interest in board games, Etienne is one of the software team members essential to the company's success.",
+        "previous": {
+            "name": "Donald Brouillard",
+            "id": 6054,
+            "slug": "donald-brouillard",
+            "url": "/about-us/donald-brouillard"
+        },
+        "next": {
+            "name": "Alexandre St-Jean",
+            "id": 7024,
+            "slug": "alexandre-st-jean",
+            "url": "/about-us/alexandre-st-jean"
+        }
+    },
+    "seo": {
+        "titleRaw": [],
+        "descriptionRaw": "",
+        "keywords": [],
+        "score": "",
+        "social": {
+            "twitter": {
+                "handle": "",
+                "title": "Etienne Bellerose - Exonetik (EN)",
+                "imageId": "",
+                "description": ""
+            },
+            "facebook": {
+                "handle": "",
+                "title": "Etienne Bellerose - Exonetik (EN)",
+                "imageId": "",
+                "description": ""
+            }
+        },
+        "advanced": {
+            "robots": [],
+            "canonical": ""
+        }
+    },
+    "urls": {
+        "en": "/about-us/etienne-bellerose",
+        "fr": "/fr/a-propos/etienne-bellerose"
+    }
+}

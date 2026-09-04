@@ -1,0 +1,86 @@
+{
+    "career": {
+        "title": "Product Manager – Robotics",
+        "publicationDate": 1784553780,
+        "shortDescription": "<p><strong>Transforming the robotics industry.</strong></p>\n<p>At Exonetik, our team is developing technology that pushes the limits of today’s robotics: safe proximity and contact with humans, applications that have until now been difficult to robotize, and faster, simpler deployment at customer sites.</p>\n<p>Exonetik has a unique, patented technology and the ambition to turn it into a new line of robots. The challenge now is to transform this technology into a product: define its positioning and map its path to market.</p>\n<p> </p>",
+        "location": "Sherbrooke (Qc)",
+        "type": "Permanent",
+        "description": "<p><strong>Your mission</strong></p>\nIn your role, you will be the link between customers, the market, and our engineering teams in order to define the right product, for the right market segments, with the right priorities.<br />\n<br />\n<p>You will combine strategic analysis, team collaboration, and a hands-on presence in the field to understand customer needs and market opportunities, then translate them into a clear and inspiring product vision.</p>\nYour decisions will determine more than the product’s success: they will shape the company’s strategic direction.<br />\n<br />\n<p><strong>You will contribute to:</strong></p>\n- Defining the product vision and strategy from the ground up.<br />\n- Analyzing and understanding markets, segments, use cases, and competitors.<br />\n- Developing the value proposition and positioning.<br />\n- Defining and supporting go-to-market plans and product launches.<br />\n- Supporting complex B2B sales cycles.<br />\n- Working closely with our engineering teams.<br />\n<br />\n<p><strong>You are probably the right person if...</strong></p>\n<p>- You like building rather than maintaining. Ambiguity does not paralyze you; it energizes you.<br />\n- You are curious and enjoy learning directly from customers.<br />\n- You turn ambiguity into strategy without waiting for someone to give you a framework.<br />\n- You do not need a large team to make an impact.<br />\n- You have significant experience (7 to 10 years) in product or commercial strategy in a B2B technology environment. Whether that comes from a business/marketing degree, an engineering background, or a more atypical path does not matter.<br />\n- You are available for regular in-office presence and customer visits.</p>\n<br />\n<p><strong>Why Exonetik?</strong></p>\n<p>Exonetik has a unique, patented technology and the ambition to transform an industry. What is missing now is the person who will bridge this technology and its market.</p>\nYou will not be joining to optimize a mature product. You will define what it becomes and see your decisions translate directly into the company’s strategic direction.<br />\n<br />\n<p>At Exonetik, you will have the freedom to propose, the responsibility to decide, and the satisfaction of seeing your ideas come to life.</p>\nDoes this opportunity speak to you? We would like to meet you.<br />\n<br />\n<br />\nSend your resume to <a href=\"mailto:hr@exonetik.com\">hr@exonetik.com</a><br />\n<br />\n<br />\n",
+        "availableJobsTitle": "Job Opportunities",
+        "availableJobs": [
+            {
+                "title": "Systems Test & Validation Specialist",
+                "url": "/careers/systems-test-validation-specialist",
+                "jsonUrl": "https://www.exonetik.com/api/careers/7135.json",
+                "publicationDate": 1787602320,
+                "location": "Sherbrooke",
+                "type": "Permanent",
+                "slug": "systems-test-validation-specialist"
+            },
+            {
+                "title": "Ingénieur(e) en simulation et contrôle (Volet robotique)",
+                "url": "/careers/ingenieure-en-simulation-et-controle-volet-robotique",
+                "jsonUrl": "https://www.exonetik.com/api/careers/7087.json",
+                "publicationDate": 1773943920,
+                "location": "Sherbrooke",
+                "type": "Permanent",
+                "slug": "ingenieure-en-simulation-et-controle-volet-robotique"
+            },
+            {
+                "title": "Ingénieur(e) mécanique en conception de systèmes robotiques",
+                "url": "/careers/ingenieur-e-mecanique-en-conception-de-systemes-robotiques",
+                "jsonUrl": "https://www.exonetik.com/api/careers/7068.json",
+                "publicationDate": 1773943320,
+                "location": "Sherbrooke",
+                "type": "Permanent",
+                "slug": "ingenieur-e-mecanique-en-conception-de-systemes-robotiques"
+            }
+        ],
+        "spontanousApplication": {
+            "title": "Don't see your dream job? Be spontanous, send us your resume!",
+            "banner": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x375_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_2049x750_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-SpontaneousApplication@3x-compressed.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x375_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_2049x750_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-SpontaneousApplication@3x-compressed.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-SpontaneousApplication@3x-compressed.jpg",
+                "width": "4098",
+                "height": "1500"
+            },
+            "link": {
+                "url": "mailto:hr@exonetik.com",
+                "title": "hr@exonetik.com"
+            }
+        }
+    },
+    "seo": {
+        "titleRaw": {
+            "1": "Product Manager – Robotics"
+        },
+        "descriptionRaw": "",
+        "keywords": [],
+        "score": "",
+        "social": {
+            "twitter": {
+                "handle": "",
+                "title": "Gestionnaire de produits – Robotique (Product Manager – Robotics) - Exonetik (FR)",
+                "imageId": "",
+                "description": ""
+            },
+            "facebook": {
+                "handle": "",
+                "title": "Gestionnaire de produits – Robotique (Product Manager – Robotics) - Exonetik (FR)",
+                "imageId": "",
+                "description": ""
+            }
+        },
+        "advanced": {
+            "robots": [],
+            "canonical": ""
+        }
+    },
+    "urls": {
+        "en": "/careers/gestionnaire-de-produits-robotique-product-manager-robotics",
+        "fr": "/fr/carrieres/gestionnaire-de-produits-robotique-product-manager-robotics"
+    }
+}

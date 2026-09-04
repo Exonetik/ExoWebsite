@@ -1,0 +1,21 @@
+{
+  "totalUrls": 88,
+  "assetsSaved": 137,
+  "externalHosts": [
+    "www.googletagmanager.com",
+    "www.google-analytics.com",
+    "vimeo.com",
+    "s3.us-east-2.amazonaws.com",
+    "player.vimeo.com",
+    "f.vimeocdn.com",
+    "i.vimeocdn.com",
+    "arclight.vimeo.com",
+    "vod-adaptive-ak.vimeocdn.com",
+    "lensflare.vimeo.com",
+    "maps.googleapis.com",
+    "maps.gstatic.com",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com"
+  ],
+  "errors": []
+}

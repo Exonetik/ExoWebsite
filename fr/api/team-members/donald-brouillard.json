@@ -1,0 +1,68 @@
+{
+    "member": {
+        "name": "Donald Brouillard",
+        "title": "Candidat à la profession d'ingénieur mécanique",
+        "photo": {
+            "landscape": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_750x1000_crop_center-center_none/Donald-Brouillard-1.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1500x2000_crop_center-center_none/Donald-Brouillard-1.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Donald-Brouillard-1.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_750x1000_crop_center-center_none/Donald-Brouillard-1.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1500x2000_crop_center-center_none/Donald-Brouillard-1.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Donald-Brouillard-1.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Donald-Brouillard-1.jpg",
+                "width": "3000",
+                "height": "4000"
+            },
+            "portrait": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_750x1000_crop_center-center_none/Donald-Brouillard-1.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1500x2000_crop_center-center_none/Donald-Brouillard-1.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Donald-Brouillard-1.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_750x1000_crop_center-center_none/Donald-Brouillard-1.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1500x2000_crop_center-center_none/Donald-Brouillard-1.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Donald-Brouillard-1.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Donald-Brouillard-1.jpg",
+                "width": "3000",
+                "height": "4000"
+            }
+        },
+        "linkedin": null,
+        "description": "En tant que candidat à la profession d’ingénieur mécanique (CPI), Donald se spécialise en conception mécanique. Il a su mettre à profit ses aptitudes en conception par l’entremise de ses stages chez Exonetik. De nature autodidacte et passionné de conception ainsi que de la réalisation de ses projets personnels automobiles/matériaux composites, Donald met à contribution son talent et son expertise afin de participer à la réussite de l’entreprise.",
+        "previous": {
+            "name": "Gabriel Dubé-Constantin",
+            "id": 6047,
+            "slug": "gabriel-dube-constantin",
+            "url": "/fr/a-propos/gabriel-dube-constantin"
+        },
+        "next": {
+            "name": "Etienne Bellerose",
+            "id": 6075,
+            "slug": "etienne-bellerose",
+            "url": "/fr/a-propos/etienne-bellerose"
+        }
+    },
+    "seo": {
+        "titleRaw": [],
+        "descriptionRaw": "",
+        "keywords": [],
+        "score": "",
+        "social": {
+            "twitter": {
+                "handle": "",
+                "title": "Donald Brouillard - Exonetik (EN)",
+                "imageId": "",
+                "description": ""
+            },
+            "facebook": {
+                "handle": "",
+                "title": "Donald Brouillard - Exonetik (EN)",
+                "imageId": "",
+                "description": ""
+            }
+        },
+        "advanced": {
+            "robots": [],
+            "canonical": ""
+        }
+    },
+    "urls": {
+        "en": "/about-us/donald-brouillard",
+        "fr": "/fr/a-propos/donald-brouillard"
+    }
+}

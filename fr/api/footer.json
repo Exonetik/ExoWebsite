@@ -1,0 +1,51 @@
+{
+    "data": [
+        {
+            "footer": [
+                {
+                    "title": null,
+                    "links": [
+                        {
+                            "url": "/fr/",
+                            "title": "Accueil"
+                        },
+                        {
+                            "url": "/fr/technologie",
+                            "title": "Technologie"
+                        },
+                        {
+                            "url": "/fr/a-propos",
+                            "title": "À propos"
+                        },
+                        {
+                            "url": "/fr/carrieres",
+                            "title": "Carrières"
+                        },
+                        {
+                            "url": "/fr/medias",
+                            "title": "Médias"
+                        },
+                        {
+                            "url": "/fr/contactez-nous",
+                            "title": "Contact"
+                        },
+                        {
+                            "url": "/fr/turbo",
+                            "title": "Turbo"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "total": 1,
+            "count": 1,
+            "per_page": 10,
+            "current_page": 1,
+            "total_pages": 1,
+            "links": {}
+        }
+    }
+}

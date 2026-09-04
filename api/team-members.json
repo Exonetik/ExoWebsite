@@ -1,0 +1,462 @@
+{
+    "data": [
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/pascal-larose.json",
+            "name": "Pascal Larose",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x576_crop_center-center_none/PL-popup_desktop@3x.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x1152_crop_center-center_none/PL-popup_desktop@3x.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PL-popup_desktop@3x.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x576_crop_center-center_none/PL-popup_desktop@3x.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x1152_crop_center-center_none/PL-popup_desktop@3x.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PL-popup_desktop@3x.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PL-popup_desktop@3x.jpg",
+                "width": "2049",
+                "height": "2304"
+            },
+            "slug": "pascal-larose",
+            "title": "CEO & Co-Founder",
+            "url": "/about-us/pascal-larose"
+        },
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/jean-sebastien-plante.json",
+            "name": "Jean-Sébastien Plante",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x576_crop_center-center_none/JSP-popup_desktop@3x.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x1152_crop_center-center_none/JSP-popup_desktop@3x.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/JSP-popup_desktop@3x.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x576_crop_center-center_none/JSP-popup_desktop@3x.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x1152_crop_center-center_none/JSP-popup_desktop@3x.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/JSP-popup_desktop@3x.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/JSP-popup_desktop@3x.jpg",
+                "width": "2049",
+                "height": "2304"
+            },
+            "slug": "jean-sebastien-plante",
+            "title": "CTO & Co-Founder",
+            "url": "/about-us/jean-sebastien-plante"
+        },
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/guifre-julio.json",
+            "name": "Guifré Juliò",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/GJ-popup_desktop@3x.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/GJ-popup_desktop@3x.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/GJ-popup_desktop@3x.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/GJ-popup_desktop@3x.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/GJ-popup_desktop@3x.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/GJ-popup_desktop@3x.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/GJ-popup_desktop@3x.jpg",
+                "width": "2052",
+                "height": "2304"
+            },
+            "slug": "guifre-julio",
+            "title": "Aerospace Lead Engineer & Co-Founder - Privacy Officer",
+            "url": "/about-us/guifre-julio"
+        },
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/marc-denninger.json",
+            "name": "Marc Denninger",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x576_crop_center-center_none/MD-popup_desktop@3x.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x1152_crop_center-center_none/MD-popup_desktop@3x.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/MD-popup_desktop@3x.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x576_crop_center-center_none/MD-popup_desktop@3x.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x1152_crop_center-center_none/MD-popup_desktop@3x.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/MD-popup_desktop@3x.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/MD-popup_desktop@3x.jpg",
+                "width": "2049",
+                "height": "2304"
+            },
+            "slug": "marc-denninger",
+            "title": "Senior Mechanical Design Engineer & Co-Founder",
+            "url": "/about-us/marc-denninger"
+        },
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/francois-lessard.json",
+            "name": "François Lessard",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x576_crop_center-center_none/FL-popup_desktop@3x.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x1152_crop_center-center_none/FL-popup_desktop@3x.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/FL-popup_desktop@3x.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x576_crop_center-center_none/FL-popup_desktop@3x.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x1152_crop_center-center_none/FL-popup_desktop@3x.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/FL-popup_desktop@3x.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/FL-popup_desktop@3x.jpg",
+                "width": "2049",
+                "height": "2304"
+            },
+            "slug": "francois-lessard",
+            "title": "Electrical & Software Lead Engineer",
+            "url": "/about-us/francois-lessard"
+        },
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/claude-camire.json",
+            "name": "Claude Camiré",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x576_crop_center-center_none/CC-popup_desktop@3x.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x1152_crop_center-center_none/CC-popup_desktop@3x.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/CC-popup_desktop@3x.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x576_crop_center-center_none/CC-popup_desktop@3x.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x1152_crop_center-center_none/CC-popup_desktop@3x.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/CC-popup_desktop@3x.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/CC-popup_desktop@3x.jpg",
+                "width": "2049",
+                "height": "2304"
+            },
+            "slug": "claude-camire",
+            "title": "Embedded Software Engineer",
+            "url": "/about-us/claude-camire"
+        },
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/olivier-lussier.json",
+            "name": "Olivier Lussier",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/OL-popup@3x-compressed.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/OL-popup@3x-compressed.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/OL-popup@3x-compressed.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/OL-popup@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/OL-popup@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/OL-popup@3x-compressed.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/OL-popup@3x-compressed.jpg",
+                "width": "2052",
+                "height": "2304"
+            },
+            "slug": "olivier-lussier",
+            "title": "Production Lead Engineer",
+            "url": "/about-us/olivier-lussier"
+        },
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/jerome-marchand.json",
+            "name": "Jérôme Marchand",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/JN-popup@3x-compressed_2021-02-15-181507.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/JN-popup@3x-compressed_2021-02-15-181507.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/JN-popup@3x-compressed_2021-02-15-181507.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/JN-popup@3x-compressed_2021-02-15-181507.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/JN-popup@3x-compressed_2021-02-15-181507.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/JN-popup@3x-compressed_2021-02-15-181507.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/JN-popup@3x-compressed_2021-02-15-181507.jpg",
+                "width": "2052",
+                "height": "2304"
+            },
+            "slug": "jerome-marchand",
+            "title": "Electrical Design Engineer",
+            "url": "/about-us/jerome-marchand"
+        },
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/patrick-chouinard.json",
+            "name": "Patrick Chouinard",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x576_crop_center-center_none/PC-popup_desktop@3x.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x1152_crop_center-center_none/PC-popup_desktop@3x.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PC-popup_desktop@3x.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x576_crop_center-center_none/PC-popup_desktop@3x.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x1152_crop_center-center_none/PC-popup_desktop@3x.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PC-popup_desktop@3x.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PC-popup_desktop@3x.jpg",
+                "width": "2049",
+                "height": "2304"
+            },
+            "slug": "patrick-chouinard",
+            "title": "Automotive Lead Engineer",
+            "url": "/about-us/patrick-chouinard"
+        },
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/jean-philippe-lucking-bigue.json",
+            "name": "Jean-Philippe Lucking Bigué",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/JPL-popup@3x-compressed.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/JPL-popup@3x-compressed.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/JPL-popup@3x-compressed.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/JPL-popup@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/JPL-popup@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/JPL-popup@3x-compressed.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/JPL-popup@3x-compressed.jpg",
+                "width": "2052",
+                "height": "2304"
+            },
+            "slug": "jean-philippe-lucking-bigue",
+            "title": "Robotics Lead Engineer",
+            "url": "/about-us/jean-philippe-lucking-bigue"
+        },
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/benoit-picard.json",
+            "name": "Benoît Picard",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/BP-popup@3x-compressed.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/BP-popup@3x-compressed.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/BP-popup@3x-compressed.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/BP-popup@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/BP-popup@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/BP-popup@3x-compressed.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/BP-popup@3x-compressed.jpg",
+                "width": "2052",
+                "height": "2304"
+            },
+            "slug": "benoit-picard",
+            "title": "Turbine Lead Engineer",
+            "url": "/about-us/benoit-picard"
+        },
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/louis-philippe-jean.json",
+            "name": "Louis-Philippe Jean",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/LPJ-popup@3x-compressed.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/LPJ-popup@3x-compressed.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/LPJ-popup@3x-compressed.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/LPJ-popup@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/LPJ-popup@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/LPJ-popup@3x-compressed.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/LPJ-popup@3x-compressed.jpg",
+                "width": "2052",
+                "height": "2304"
+            },
+            "slug": "louis-philippe-jean",
+            "title": "Mechanical Engineer",
+            "url": "/about-us/louis-philippe-jean"
+        },
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/vincent-veilleux.json",
+            "name": "Vincent Veilleux",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/VV-popup@3x-compressed.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/VV-popup@3x-compressed.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/VV-popup@3x-compressed.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/VV-popup@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/VV-popup@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/VV-popup@3x-compressed.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/VV-popup@3x-compressed.jpg",
+                "width": "2052",
+                "height": "2304"
+            },
+            "slug": "vincent-veilleux",
+            "title": "Jr Software Engineer",
+            "url": "/about-us/vincent-veilleux"
+        },
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/carlos-ramirez-licea.json",
+            "name": "Carlos Ramirez Licea",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/CR-popup@3x-compressed.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/CR-popup@3x-compressed.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/CR-popup@3x-compressed.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/CR-popup@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/CR-popup@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/CR-popup@3x-compressed.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/CR-popup@3x-compressed.jpg",
+                "width": "2052",
+                "height": "2304"
+            },
+            "slug": "carlos-ramirez-licea",
+            "title": "Jr Electrical Engineer",
+            "url": "/about-us/carlos-ramirez-licea"
+        },
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/jonathan-nadeau.json",
+            "name": "Jonathan Nadeau",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x576_crop_center-center_none/JM-popup@3x-compressed_2021-02-12-185432.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x1152_crop_center-center_none/JM-popup@3x-compressed_2021-02-12-185432.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/JM-popup@3x-compressed_2021-02-12-185432.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x576_crop_center-center_none/JM-popup@3x-compressed_2021-02-12-185432.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x1152_crop_center-center_none/JM-popup@3x-compressed_2021-02-12-185432.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/JM-popup@3x-compressed_2021-02-12-185432.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/JM-popup@3x-compressed_2021-02-12-185432.jpg",
+                "width": "2049",
+                "height": "2304"
+            },
+            "slug": "jonathan-nadeau",
+            "title": "Test Engineer",
+            "url": "/about-us/jonathan-nadeau"
+        },
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/mathieu-parent.json",
+            "name": "Mathieu Parent",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/MP-popup@3x-compressed.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/MP-popup@3x-compressed.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/MP-popup@3x-compressed.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/MP-popup@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/MP-popup@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/MP-popup@3x-compressed.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/MP-popup@3x-compressed.jpg",
+                "width": "2052",
+                "height": "2304"
+            },
+            "slug": "mathieu-parent",
+            "title": "Test Engineer",
+            "url": "/about-us/mathieu-parent"
+        },
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/paul-cuerrier.json",
+            "name": "Paul Cuerrier",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/PC-popup@3x-compressed.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/PC-popup@3x-compressed.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PC-popup@3x-compressed.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/PC-popup@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/PC-popup@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PC-popup@3x-compressed.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PC-popup@3x-compressed.jpg",
+                "width": "2052",
+                "height": "2304"
+            },
+            "slug": "paul-cuerrier",
+            "title": "Electrical Engineer",
+            "url": "/about-us/paul-cuerrier"
+        },
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/william-east.json",
+            "name": "William East",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/WE-popup@3x-compressed.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/WE-popup@3x-compressed.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/WE-popup@3x-compressed.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/WE-popup@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/WE-popup@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/WE-popup@3x-compressed.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/WE-popup@3x-compressed.jpg",
+                "width": "2052",
+                "height": "2304"
+            },
+            "slug": "william-east",
+            "title": "Jr Mechanical Design Engineer",
+            "url": "/about-us/william-east"
+        },
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/sonia-houle.json",
+            "name": "Sonia Houle",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/SH-popup-3x.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/SH-popup-3x.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/SH-popup-3x.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/SH-popup-3x.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/SH-popup-3x.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/SH-popup-3x.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/SH-popup-3x.jpg",
+                "width": "2052",
+                "height": "2304"
+            },
+            "slug": "sonia-houle",
+            "title": "Financial Director",
+            "url": "/about-us/sonia-houle"
+        },
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/mathieu-gervais.json",
+            "name": "Mathieu Gervais",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/MG-popup-3x.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/MG-popup-3x.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/MG-popup-3x.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/MG-popup-3x.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/MG-popup-3x.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/MG-popup-3x.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/MG-popup-3x.jpg",
+                "width": "2052",
+                "height": "2304"
+            },
+            "slug": "mathieu-gervais",
+            "title": "Jr Mechanical Engineer",
+            "url": "/about-us/mathieu-gervais"
+        },
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/patrick-dubois.json",
+            "name": "Patrick Dubois",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/PD-popup-3x.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/PD-popup-3x.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PD-popup-3x.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/PD-popup-3x.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/PD-popup-3x.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PD-popup-3x.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PD-popup-3x.jpg",
+                "width": "2052",
+                "height": "2304"
+            },
+            "slug": "patrick-dubois",
+            "title": "Jr Mechanical Engineer",
+            "url": "/about-us/patrick-dubois"
+        },
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/melanie-charbonneau.json",
+            "name": "Mélanie Charbonneau",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_750x1000_crop_center-center_none/Mélanie-Charbonneau-modifiée-et-récente.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1500x2000_crop_center-center_none/Mélanie-Charbonneau-modifiée-et-récente.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Mélanie-Charbonneau-modifiée-et-récente.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_750x1000_crop_center-center_none/Mélanie-Charbonneau-modifiée-et-récente.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1500x2000_crop_center-center_none/Mélanie-Charbonneau-modifiée-et-récente.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Mélanie-Charbonneau-modifiée-et-récente.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Mélanie-Charbonneau-modifiée-et-récente.jpg",
+                "width": "3000",
+                "height": "4000"
+            },
+            "slug": "melanie-charbonneau",
+            "title": "Quality Coordinator",
+            "url": "/about-us/melanie-charbonneau"
+        },
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/william-forret.json",
+            "name": "William Forret",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/WF-popup-3x.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/WF-popup-3x.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/WF-popup-3x.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/WF-popup-3x.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/WF-popup-3x.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/WF-popup-3x.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/WF-popup-3x.jpg",
+                "width": "2052",
+                "height": "2304"
+            },
+            "slug": "william-forret",
+            "title": "Mechanical engineering technologist",
+            "url": "/about-us/william-forret"
+        },
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/gabriel-dube-constantin.json",
+            "name": "Gabriel Dubé-Constantin",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/Gabriel-Dubé-Constantin.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/Gabriel-Dubé-Constantin.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Gabriel-Dubé-Constantin.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/Gabriel-Dubé-Constantin.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/Gabriel-Dubé-Constantin.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Gabriel-Dubé-Constantin.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Gabriel-Dubé-Constantin.jpg",
+                "width": "2052",
+                "height": "2304"
+            },
+            "slug": "gabriel-dube-constantin",
+            "title": "Candidate to profession of mechanical engineer",
+            "url": "/about-us/gabriel-dube-constantin"
+        },
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/donald-brouillard.json",
+            "name": "Donald Brouillard",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_750x1000_crop_center-center_none/Donald-Brouillard-1.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1500x2000_crop_center-center_none/Donald-Brouillard-1.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Donald-Brouillard-1.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_750x1000_crop_center-center_none/Donald-Brouillard-1.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1500x2000_crop_center-center_none/Donald-Brouillard-1.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Donald-Brouillard-1.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Donald-Brouillard-1.jpg",
+                "width": "3000",
+                "height": "4000"
+            },
+            "slug": "donald-brouillard",
+            "title": "Candidate to the profession of Mechanical Engineer",
+            "url": "/about-us/donald-brouillard"
+        },
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/etienne-bellerose.json",
+            "name": "Etienne Bellerose",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_750x1000_crop_center-center_none/Etienne-Bellerose.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1500x2000_crop_center-center_none/Etienne-Bellerose.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Etienne-Bellerose.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_750x1000_crop_center-center_none/Etienne-Bellerose.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1500x2000_crop_center-center_none/Etienne-Bellerose.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Etienne-Bellerose.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Etienne-Bellerose.jpg",
+                "width": "3000",
+                "height": "4000"
+            },
+            "slug": "etienne-bellerose",
+            "title": "Candidate to the Embedded Systems Engineer profession",
+            "url": "/about-us/etienne-bellerose"
+        },
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/alexandre-st-jean.json",
+            "name": "Alexandre St-Jean",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_294x387_crop_center-center_none/AlexStJean_2026-03-18-184107_bqoq.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_588x773_crop_center-center_none/AlexStJean_2026-03-18-184107_bqoq.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/AlexStJean_2026-03-18-184107_bqoq.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_294x387_crop_center-center_none/AlexStJean_2026-03-18-184107_bqoq.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_588x773_crop_center-center_none/AlexStJean_2026-03-18-184107_bqoq.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/AlexStJean_2026-03-18-184107_bqoq.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/AlexStJean_2026-03-18-184107_bqoq.jpg",
+                "width": "1175",
+                "height": "1546"
+            },
+            "slug": "alexandre-st-jean",
+            "title": "Candidate to the Mechanical Engineer Profession",
+            "url": "/about-us/alexandre-st-jean"
+        },
+        {
+            "jsonUrl": "https://www.exonetik.com/api/team-members/luc-bordeleau.json",
+            "name": "Luc Bordeleau",
+            "photo": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_180x198_crop_center-center_none/LucBordeleau.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_361x396_crop_center-center_none/LucBordeleau.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/LucBordeleau.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_180x198_crop_center-center_none/LucBordeleau.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_361x396_crop_center-center_none/LucBordeleau.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/LucBordeleau.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/LucBordeleau.jpg",
+                "width": "721",
+                "height": "792"
+            },
+            "slug": "luc-bordeleau",
+            "title": "IT Manager",
+            "url": "/about-us/luc-bordeleau"
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "total": 28,
+            "count": 28,
+            "per_page": -1,
+            "current_page": 1,
+            "total_pages": -28,
+            "links": {}
+        }
+    }
+}

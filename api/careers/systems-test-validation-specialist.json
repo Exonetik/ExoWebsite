@@ -1,0 +1,84 @@
+{
+    "career": {
+        "title": "Systems Test & Validation Specialist",
+        "publicationDate": 1787602320,
+        "shortDescription": "<p>Test Bench Development | LabVIEW | Validation &amp; Verification</p>",
+        "location": "Sherbrooke",
+        "type": "Permanent",
+        "description": "Do you love understanding how a system works... and especially why it doesn't?<br />\n<br />\nAt Exonetik, you'll experience the excitement of a startup combined with the energy of a rapidly growing high-tech company.<br />\n<br />\nHere, you won't just develop test benches. You'll directly contribute to the development of innovative technologies by demonstrating that our products truly meet performance, quality, and reliability requirements.<br />\n<br />\nWe are looking for a curious, rigorous, and passionate individual who enjoys programming, testing, and troubleshooting complex systems.<br />\n<br />\nThis position is for you if...<br />\nYou enjoy connecting equipment, adding instrumentation, and building test benches.<br />\nYou take pleasure in understanding why a system is not working.<br />\nYou prefer working in the lab over pure design activities.<br />\nYou enjoy programming just as much as working with hardware.<br />\nYou naturally turn requirements into concrete test cases.<br />\nYou enjoy analyzing data and solving technical problems.<br />\nYou believe a product is only truly finished once it has been proven to work.<br />\nYour Role<br />\n<br />\nYou will be responsible for developing the testing capabilities required to validate our products throughout their development lifecycle. More specifically, you will:<br />\n<br />\nDesign, assemble, instrument, and commission test benches.<br />\nDevelop automated test applications using NI LabVIEW.<br />\nCreate test plans, test procedures, and acceptance criteria.<br />\nPerform validation and verification testing of mechanical, electronic, and software systems.<br />\nAcquire data, analyze results, and document findings.<br />\nParticipate in prototype debugging and identify root causes of failures.<br />\nCollaborate with design teams to improve products.<br />\nPrepare procedures, reports, and technical documentation.<br />\nContribute to the design of new products to facilitate validation and testing.<br />\nThe Ideal Candidate<br />\n<br />\nYou possess:<br />\n<br />\nA College Diploma (DEC) or Bachelor's Degree in a relevant field (Electrical Engineering, Electronics, Software Engineering, Mechatronics, Automation, or equivalent).<br />\n2 to 5 years of experience in test development or test execution (or more, depending on your profile).<br />\nExperience with NI LabVIEW (a major asset).<br />\nStrong knowledge of data acquisition systems and instrumentation.<br />\nExperience using laboratory equipment such as oscilloscopes, multimeters, power supplies, DAQ systems, etc.<br />\nExcellent analytical and problem-solving skills.<br />\nStrong technical writing abilities.<br />\nGood bilingual proficiency in both French and English, written and spoken.<br />\nThe ability to manage multiple projects simultaneously while meeting deadlines.<br />\nWhat Will Truly Set You Apart<br />\n<br />\nWe are looking for someone passionate about integrated systems validation and verification, specifically the right-hand side of the V-model development lifecycle.<br />\n<br />\nYou enjoy pushing systems to their limits, understanding the causes of failures, improving performance, and demonstrating with evidence that a product meets its requirements.<br />\n<br />\nAt Exonetik, we believe a product only has value once its robustness has been proven. Designing it is important, but pushing it to its limits to demonstrate it will perform in the real world is even more essential.<br />\n<br />\nIf you would rather prove that a product works than simply design it, you'll likely thrive with us.<br />\n<br />\nWhy Exonetik?<br />\n<br />\nAt Exonetik, ideas quickly become prototypes, and prototypes become products.<br />\n<br />\nYou will work within a multidisciplinary team where collaboration, innovation, and autonomy are part of everyday life. Your ideas will have a real impact on the technologies we develop.<br />\n<br />\nExcited by This Challenge?<br />\n<br />\nSend us your application. We look forward to learning what you can bring to our team.<br />\n<br />\nrh@exonetik.com",
+        "availableJobsTitle": "Job Opportunities",
+        "availableJobs": [
+            {
+                "title": "Product Manager – Robotics",
+                "url": "/careers/gestionnaire-de-produits-robotique-product-manager-robotics",
+                "jsonUrl": "https://www.exonetik.com/api/careers/7103.json",
+                "publicationDate": 1784553780,
+                "location": "Sherbrooke (Qc)",
+                "type": "Permanent",
+                "slug": "gestionnaire-de-produits-robotique-product-manager-robotics"
+            },
+            {
+                "title": "Ingénieur(e) en simulation et contrôle (Volet robotique)",
+                "url": "/careers/ingenieure-en-simulation-et-controle-volet-robotique",
+                "jsonUrl": "https://www.exonetik.com/api/careers/7087.json",
+                "publicationDate": 1773943920,
+                "location": "Sherbrooke",
+                "type": "Permanent",
+                "slug": "ingenieure-en-simulation-et-controle-volet-robotique"
+            },
+            {
+                "title": "Ingénieur(e) mécanique en conception de systèmes robotiques",
+                "url": "/careers/ingenieur-e-mecanique-en-conception-de-systemes-robotiques",
+                "jsonUrl": "https://www.exonetik.com/api/careers/7068.json",
+                "publicationDate": 1773943320,
+                "location": "Sherbrooke",
+                "type": "Permanent",
+                "slug": "ingenieur-e-mecanique-en-conception-de-systemes-robotiques"
+            }
+        ],
+        "spontanousApplication": {
+            "title": "Don't see your dream job? Be spontanous, send us your resume!",
+            "banner": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x375_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_2049x750_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-SpontaneousApplication@3x-compressed.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x375_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_2049x750_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-SpontaneousApplication@3x-compressed.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-SpontaneousApplication@3x-compressed.jpg",
+                "width": "4098",
+                "height": "1500"
+            },
+            "link": {
+                "url": "mailto:hr@exonetik.com",
+                "title": "hr@exonetik.com"
+            }
+        }
+    },
+    "seo": {
+        "titleRaw": [],
+        "descriptionRaw": "",
+        "keywords": [],
+        "score": "",
+        "social": {
+            "twitter": {
+                "handle": "",
+                "title": "Systems Test & Validation Specialist - Exonetik (EN)",
+                "imageId": "",
+                "description": ""
+            },
+            "facebook": {
+                "handle": "",
+                "title": "Systems Test & Validation Specialist - Exonetik (EN)",
+                "imageId": "",
+                "description": ""
+            }
+        },
+        "advanced": {
+            "robots": [],
+            "canonical": ""
+        }
+    },
+    "urls": {
+        "en": "/careers/systems-test-validation-specialist",
+        "fr": "/fr/carrieres/specialiste-en-essais-et-validation-de-systemes"
+    }
+}

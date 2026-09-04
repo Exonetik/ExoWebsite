@@ -1,0 +1,376 @@
+{
+    "page": {
+        "hero": {
+            "title": "Technology",
+            "description": "<p>We make high performance magnetorheological fluid (MR) actuators to empower people through greater human/machine interaction.</p>",
+            "banner": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_856x383_crop_center-center_none/Technology-visuel-haut@3x-compressed.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_1712x767_crop_center-center_none/Technology-visuel-haut@3x-compressed.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/Technology-visuel-haut@3x-compressed.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_856x383_crop_center-center_none/Technology-visuel-haut@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_1712x767_crop_center-center_none/Technology-visuel-haut@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/Technology-visuel-haut@3x-compressed.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/Technology-visuel-haut@3x-compressed.jpg",
+                "width": "3423",
+                "height": "1533"
+            }
+        },
+        "content": {
+            "description": "Our technology is already creating value in several industries and applications where precision, reliability, and safety are essential.",
+            "images": [
+                {
+                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x377_crop_center-center_none/54I4958@3x-compressed.jpg",
+                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x755_crop_center-center_none/54I4958@3x-compressed.jpg",
+                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/54I4958@3x-compressed.jpg",
+                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x377_crop_center-center_none/54I4958@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x755_crop_center-center_none/54I4958@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/54I4958@3x-compressed.jpg 3x",
+                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/54I4958@3x-compressed.jpg",
+                    "width": "2049",
+                    "height": "1509"
+                },
+                {
+                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x437_crop_center-center_none/54I5327@3x-compressed.jpg",
+                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x875_crop_center-center_none/54I5327@3x-compressed.jpg",
+                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/54I5327@3x-compressed.jpg",
+                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x437_crop_center-center_none/54I5327@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x875_crop_center-center_none/54I5327@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/54I5327@3x-compressed.jpg 3x",
+                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/54I5327@3x-compressed.jpg",
+                    "width": "2049",
+                    "height": "1749"
+                }
+            ]
+        },
+        "advantages": {
+            "title": "Advantages of our MR actuator technology",
+            "slides": [
+                {
+                    "title": "High dynamic performance",
+                    "description": "High bandwidth, high speed, unbeatable torque-to-inertia ratio and zero backlash"
+                },
+                {
+                    "title": "Highly backdrivable",
+                    "description": "Low friction, low inertia, ajustable impedance"
+                },
+                {
+                    "title": "Lightweight",
+                    "description": "Compact and torque-dense"
+                },
+                {
+                    "title": "Cost-effective",
+                    "description": "No tight component tolerance and simple architecture"
+                },
+                {
+                    "title": "Safe",
+                    "description": "Programmable power-off torque, inherent torque-limiting, impact resistance and build-in redundancy"
+                }
+            ]
+        },
+        "highDynamicPerformance": {
+            "title": "High dynamic performance",
+            "subtitle": "As strong as direct drive motors and as lightweight as harmonic drive motors.",
+            "shortVideoUrl": "https://vimeo.com/511155954",
+            "fullVideoUrl": "https://vimeo.com/510859197",
+            "videoDescription": "<p><strong>Exonetik MR Technology</strong></p>\n<p>Learn more about our high performant actuator system based on our patented Magnetorheological Fluid Technology</p>"
+        },
+        "exonetikVsOthers": {
+            "title": "Exonetik vs competition",
+            "subtitle": "Exonetik MR actuators have more advantages than any existing actuator system",
+            "table": [
+                [
+                    "category",
+                    "directDriveMotor",
+                    "gearedMotor",
+                    "exonetikMrActuator"
+                ],
+                {
+                    "category": "High bandwidth",
+                    "directDriveMotor": "1",
+                    "gearedMotor": "",
+                    "exonetikMrActuator": "1"
+                },
+                {
+                    "category": "High torque density",
+                    "directDriveMotor": "",
+                    "gearedMotor": "1",
+                    "exonetikMrActuator": "1"
+                },
+                {
+                    "category": "Low inertia",
+                    "directDriveMotor": "1",
+                    "gearedMotor": "",
+                    "exonetikMrActuator": "1"
+                },
+                {
+                    "category": "High backdrivability",
+                    "directDriveMotor": "1",
+                    "gearedMotor": "",
+                    "exonetikMrActuator": "1"
+                }
+            ]
+        },
+        "businessSectors": {
+            "title": "Business sectors",
+            "subtitle": null,
+            "sectors": [
+                {
+                    "id": "robotics",
+                    "title": "Robotics",
+                    "shortDescription": "We believe in robots that empower people to perform better. Exonetik’s MR actuators offer high dynamic performance, low friction, low inertia and ajustable impedance.",
+                    "longDescription": "<p>We believe in robots that empower people to perform better. Current collaborative robots are limited in speed and payload to stay safe around people. With Exonetik’s MR actuator and robotic joint topology, we can offer a robot liberated from current constraints, while respecting safety measures.</p>\n<p>We have been trusted by the Canadian Space Agency and the Canadian National Research Council to develop innovative collaborative robotic solutions that enable people to achieve better results and solve complex challenges in space or in advanced manufacturing.</p>\n<p>Exonetik's MR actuators and robotic joints enable fast and safe lightweight robots with high dynamic performance, impact resistance, no friction or backlash, and extremely low-reflected inertia compared to conventional geared motors.<br />\n<br />\n</p>\n",
+                    "images": {
+                        "home": [
+                            {
+                                "alt": "robotics 1",
+                                "photo": {
+                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x377_crop_center-center_none/Robotics-gauche@3x-compressed.jpg",
+                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x755_crop_center-center_none/Robotics-gauche@3x-compressed.jpg",
+                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Robotics-gauche@3x-compressed.jpg",
+                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x377_crop_center-center_none/Robotics-gauche@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x755_crop_center-center_none/Robotics-gauche@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Robotics-gauche@3x-compressed.jpg 3x",
+                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Robotics-gauche@3x-compressed.jpg",
+                                    "width": "2049",
+                                    "height": "1509"
+                                }
+                            },
+                            {
+                                "alt": "robotics 2",
+                                "photo": {
+                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_171x224_crop_center-center_none/Robotics-droite@3x.jpg",
+                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_342x449_crop_center-center_none/Robotics-droite@3x.jpg",
+                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Robotics-droite@3x.jpg",
+                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_171x224_crop_center-center_none/Robotics-droite@3x.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_342x449_crop_center-center_none/Robotics-droite@3x.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Robotics-droite@3x.jpg 3x",
+                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Robotics-droite@3x.jpg",
+                                    "width": "684",
+                                    "height": "897"
+                                }
+                            }
+                        ],
+                        "technology": [
+                            {
+                                "alt": null,
+                                "photo": {
+                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_342x509_crop_center-center_none/Tech-Robotics-droite-grand@3x-compressed.jpg",
+                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_684x1017_crop_center-center_none/Tech-Robotics-droite-grand@3x-compressed.jpg",
+                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Robotics-droite-grand@3x-compressed.jpg",
+                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_342x509_crop_center-center_none/Tech-Robotics-droite-grand@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_684x1017_crop_center-center_none/Tech-Robotics-droite-grand@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Robotics-droite-grand@3x-compressed.jpg 3x",
+                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Robotics-droite-grand@3x-compressed.jpg",
+                                    "width": "1368",
+                                    "height": "2034"
+                                }
+                            },
+                            {
+                                "alt": null,
+                                "photo": {
+                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_171x239_crop_center-center_none/Tech-Robotics-droite-petit@3x-compressed.jpg",
+                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_342x479_crop_center-center_none/Tech-Robotics-droite-petit@3x-compressed.jpg",
+                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Robotics-droite-petit@3x-compressed.jpg",
+                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_171x239_crop_center-center_none/Tech-Robotics-droite-petit@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_342x479_crop_center-center_none/Tech-Robotics-droite-petit@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Robotics-droite-petit@3x-compressed.jpg 3x",
+                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Robotics-droite-petit@3x-compressed.jpg",
+                                    "width": "684",
+                                    "height": "957"
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "aerospace",
+                    "title": "Aerospace",
+                    "shortDescription": "<p>Our high-speed and force-dense actuators bring value to a number of applications in the aerospace sector in form of new high-performance solutions.</p>",
+                    "longDescription": "<p>We are a trusted partner for clients in the Aerospace sector, where our high-speed and force-dense actuators can ensure safety features and bring value in form of new high-performance solutions.</p>\n<p>In collaboration with Bell Flight, we are currently adding haptic feedback to helicopter controls and seats with our magnetorheological actuators to give pilots an understanding of the helicopter’s condition through the transmission of real-time tactile signals to their hands and back. Our technology gives pilots better situational awareness of the flight envelope. As a result, there will be less need for maintenance on helicopters as fewer pilots will unknowingly exceed rotorcraft limits.</p>",
+                    "images": {
+                        "home": [
+                            {
+                                "alt": "aerospace",
+                                "photo": {
+                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_427x437_crop_center-center_none/Aerospace-droite@3x-compressed.jpg",
+                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_854x875_crop_center-center_none/Aerospace-droite@3x-compressed.jpg",
+                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Aerospace-droite@3x-compressed.jpg",
+                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_427x437_crop_center-center_none/Aerospace-droite@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_854x875_crop_center-center_none/Aerospace-droite@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Aerospace-droite@3x-compressed.jpg 3x",
+                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Aerospace-droite@3x-compressed.jpg",
+                                    "width": "1707",
+                                    "height": "1749"
+                                }
+                            },
+                            {
+                                "alt": "aerospace-2",
+                                "photo": {
+                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_171x385_crop_center-center_none/Aerospace-gauche@3x-compressed.jpg",
+                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_342x770_crop_center-center_none/Aerospace-gauche@3x-compressed.jpg",
+                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Aerospace-gauche@3x-compressed.jpg",
+                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_171x385_crop_center-center_none/Aerospace-gauche@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_342x770_crop_center-center_none/Aerospace-gauche@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Aerospace-gauche@3x-compressed.jpg 3x",
+                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Aerospace-gauche@3x-compressed.jpg",
+                                    "width": "684",
+                                    "height": "1539"
+                                }
+                            }
+                        ],
+                        "technology": [
+                            {
+                                "alt": null,
+                                "photo": {
+                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_768x515_crop_center-center_none/Tech-aerospace-dessus@3x-compressed.jpg",
+                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1536x1031_crop_center-center_none/Tech-aerospace-dessus@3x-compressed.jpg",
+                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-aerospace-dessus@3x-compressed.jpg",
+                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_768x515_crop_center-center_none/Tech-aerospace-dessus@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1536x1031_crop_center-center_none/Tech-aerospace-dessus@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-aerospace-dessus@3x-compressed.jpg 3x",
+                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-aerospace-dessus@3x-compressed.jpg",
+                                    "width": "3072",
+                                    "height": "2061"
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "automotive",
+                    "title": "Automotive",
+                    "shortDescription": "<p>We help clients turn passive applications into active high-performance applications, such as vibration cancellation in active seats and road bump cancellation in active vehicle suspensions.</p>",
+                    "longDescription": "<p>Exonetik is a key partner in the automotive industry. We offer value-adding technological solutions to respond to our customers’ requirements by turning passive applications into active high-performance applications, such as vibration cancellation in active seats and road bump cancellation in active vehicle suspensions. Our MR actuators increase vehicle and road safety and give the end-user a better and more smooth driving experience.</p>\n<p>With Magna International, Exonetik has created an Active Seat Suspension System with our MR actuators reducing the vibrations of the seat with up to 78% on rough roads. Our suspension system will have a significant impact on the truck industry and the quality of life of truck drivers. Annual revenue losses of the trucking industry are estimated at $1.4bn due to health issues including musculoskeletal disorder caused by vibrations induced by the road.</p>",
+                    "images": {
+                        "home": [
+                            {
+                                "alt": "Automotive1",
+                                "photo": {
+                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_256x369_crop_center-center_none/Automotive-gauche@3x-compressed_2021-01-25-211404.jpg",
+                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x738_crop_center-center_none/Automotive-gauche@3x-compressed_2021-01-25-211404.jpg",
+                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Automotive-gauche@3x-compressed_2021-01-25-211404.jpg",
+                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_256x369_crop_center-center_none/Automotive-gauche@3x-compressed_2021-01-25-211404.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x738_crop_center-center_none/Automotive-gauche@3x-compressed_2021-01-25-211404.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Automotive-gauche@3x-compressed_2021-01-25-211404.jpg 3x",
+                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Automotive-gauche@3x-compressed_2021-01-25-211404.jpg",
+                                    "width": "1023",
+                                    "height": "1476"
+                                }
+                            },
+                            {
+                                "alt": "automotive2",
+                                "photo": {
+                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_171x275_crop_center-center_none/Automotive-droite@3x.jpg",
+                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_342x551_crop_center-center_none/Automotive-droite@3x.jpg",
+                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Automotive-droite@3x.jpg",
+                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_171x275_crop_center-center_none/Automotive-droite@3x.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_342x551_crop_center-center_none/Automotive-droite@3x.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Automotive-droite@3x.jpg 3x",
+                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Automotive-droite@3x.jpg",
+                                    "width": "684",
+                                    "height": "1101"
+                                }
+                            }
+                        ],
+                        "technology": [
+                            {
+                                "alt": null,
+                                "photo": {
+                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_256x396_crop_center-center_none/Tech-Automotive-droite@3x-compressed.jpg",
+                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x792_crop_center-center_none/Tech-Automotive-droite@3x-compressed.jpg",
+                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Automotive-droite@3x-compressed.jpg",
+                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_256x396_crop_center-center_none/Tech-Automotive-droite@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x792_crop_center-center_none/Tech-Automotive-droite@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Automotive-droite@3x-compressed.jpg 3x",
+                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Automotive-droite@3x-compressed.jpg",
+                                    "width": "1023",
+                                    "height": "1584"
+                                }
+                            },
+                            {
+                                "alt": null,
+                                "photo": {
+                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_256x369_crop_center-center_none/Tech-Automotive-gauche@3x-compressed.jpg",
+                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x738_crop_center-center_none/Tech-Automotive-gauche@3x-compressed.jpg",
+                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Automotive-gauche@3x-compressed.jpg",
+                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_256x369_crop_center-center_none/Tech-Automotive-gauche@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x738_crop_center-center_none/Tech-Automotive-gauche@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Automotive-gauche@3x-compressed.jpg 3x",
+                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Automotive-gauche@3x-compressed.jpg",
+                                    "width": "1023",
+                                    "height": "1476"
+                                }
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "medical-human-performance",
+                    "title": "Medical & Human Performance",
+                    "shortDescription": "<p>In rehabilitation, fitness and medical devices, Exonetik MR actuators can provide a better feeling for the end-user as our technology follows the human motion and gives a transparent assistance or restriction.</p>",
+                    "longDescription": "<p>In rehabilitation, medical or fitness devices, Exonetik MR actuators can provide a better feeling for the end-user as our technology follows the human motion and gives a transparent assistance or restriction. </p>\n<p>In rehabilitation, MR actuators enable real time force feedback and data collection allowing the caregiver to go further into their therapeutic interventions in a safe manner while measuring patient progress. Among the benefits of our technology are less physical work for the therapist, faster progression of the patient, measuring patient progress (Data driven with AI possibility), going further into the therapeutic interventions, and allowing a larger exercises variety.</p>",
+                    "images": {
+                        "home": [
+                            {
+                                "alt": null,
+                                "photo": {
+                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_427x437_crop_center-center_none/Human-performance-droite@3x-compressed.jpg",
+                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_854x875_crop_center-center_none/Human-performance-droite@3x-compressed.jpg",
+                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Human-performance-droite@3x-compressed.jpg",
+                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_427x437_crop_center-center_none/Human-performance-droite@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_854x875_crop_center-center_none/Human-performance-droite@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Human-performance-droite@3x-compressed.jpg 3x",
+                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Human-performance-droite@3x-compressed.jpg",
+                                    "width": "1707",
+                                    "height": "1749"
+                                }
+                            },
+                            {
+                                "alt": null,
+                                "photo": {
+                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_171x385_crop_center-center_none/Human-performance-gauche@3x-compressed.jpg",
+                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_342x770_crop_center-center_none/Human-performance-gauche@3x-compressed.jpg",
+                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Human-performance-gauche@3x-compressed.jpg",
+                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_171x385_crop_center-center_none/Human-performance-gauche@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_342x770_crop_center-center_none/Human-performance-gauche@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Human-performance-gauche@3x-compressed.jpg 3x",
+                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Human-performance-gauche@3x-compressed.jpg",
+                                    "width": "684",
+                                    "height": "1539"
+                                }
+                            }
+                        ],
+                        "technology": [
+                            {
+                                "alt": null,
+                                "photo": {
+                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x437_crop_center-center_none/Tech-Human-performance-droite@3x-compressed.jpg",
+                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x875_crop_center-center_none/Tech-Human-performance-droite@3x-compressed.jpg",
+                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Human-performance-droite@3x-compressed.jpg",
+                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x437_crop_center-center_none/Tech-Human-performance-droite@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x875_crop_center-center_none/Tech-Human-performance-droite@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Human-performance-droite@3x-compressed.jpg 3x",
+                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Human-performance-droite@3x-compressed.jpg",
+                                    "width": "2049",
+                                    "height": "1749"
+                                }
+                            },
+                            {
+                                "alt": null,
+                                "photo": {
+                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x377_crop_center-center_none/Tech-Human-performance-gauche@3x-compressed.jpg",
+                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x755_crop_center-center_none/Tech-Human-performance-gauche@3x-compressed.jpg",
+                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Human-performance-gauche@3x-compressed.jpg",
+                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x377_crop_center-center_none/Tech-Human-performance-gauche@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x755_crop_center-center_none/Tech-Human-performance-gauche@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Human-performance-gauche@3x-compressed.jpg 3x",
+                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Human-performance-gauche@3x-compressed.jpg",
+                                    "width": "2049",
+                                    "height": "1509"
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "contact": {
+            "title": "How can we help?",
+            "subtitle": "Please reach out to us to tell us more about the solution you are looking for and see if there is a fit with our MR technology."
+        }
+    },
+    "seo": {
+        "titleRaw": {
+            "1": "Technology"
+        },
+        "descriptionRaw": "",
+        "keywords": [],
+        "score": "",
+        "social": {
+            "twitter": {
+                "handle": "",
+                "title": "Technology - Exonetik (EN)",
+                "imageId": "",
+                "description": ""
+            },
+            "facebook": {
+                "handle": "",
+                "title": "Technology - Exonetik (EN)",
+                "imageId": "",
+                "description": ""
+            }
+        },
+        "advanced": {
+            "robots": [],
+            "canonical": ""
+        }
+    },
+    "urls": {
+        "en": "/technology",
+        "fr": "/fr/technologie"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "data": [
+        {
+            "footer": [
+                {
+                    "title": null,
+                    "links": [
+                        {
+                            "url": "/",
+                            "title": "Home"
+                        },
+                        {
+                            "url": "/technology",
+                            "title": "Technology"
+                        },
+                        {
+                            "url": "/about-us",
+                            "title": "About us"
+                        },
+                        {
+                            "url": "/careers",
+                            "title": "Careers"
+                        },
+                        {
+                            "url": "/medias",
+                            "title": "Medias"
+                        },
+                        {
+                            "url": "/contact-us",
+                            "title": "Contact us"
+                        },
+                        {
+                            "url": "/turbo",
+                            "title": "Turbo"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "total": 1,
+            "count": 1,
+            "per_page": 10,
+            "current_page": 1,
+            "total_pages": 1,
+            "links": {}
+        }
+    }
+}

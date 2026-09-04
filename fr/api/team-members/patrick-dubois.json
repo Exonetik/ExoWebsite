@@ -1,0 +1,60 @@
+{
+    "member": {
+        "name": "Patrick Dubois",
+        "title": "Ingénieur mécanique jr",
+        "photo": {
+            "landscape": {},
+            "portrait": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/PD-popup-3x.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/PD-popup-3x.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PD-popup-3x.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/PD-popup-3x.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/PD-popup-3x.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PD-popup-3x.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PD-popup-3x.jpg",
+                "width": "2052",
+                "height": "2304"
+            }
+        },
+        "linkedin": null,
+        "description": "Détenteur d’un doctorat en génie mécanique, Patrick aidera l’entreprise à amener notre technologie Turbo sur le marché avec ses connaissances en céramiques techniques. Il est tout autant à l’aise dans la théorie que dans les essais des prototypes.",
+        "previous": {
+            "name": "Mathieu Gervais",
+            "id": 5964,
+            "slug": "mathieu-gervais",
+            "url": "/fr/a-propos/mathieu-gervais"
+        },
+        "next": {
+            "name": "Mélanie Charbonneau",
+            "id": 5998,
+            "slug": "melanie-chabonneau",
+            "url": "/fr/a-propos/melanie-chabonneau"
+        }
+    },
+    "seo": {
+        "titleRaw": [],
+        "descriptionRaw": "",
+        "keywords": [],
+        "score": "",
+        "social": {
+            "twitter": {
+                "handle": "",
+                "title": "Patrick Dubois - Exonetik (EN)",
+                "imageId": "",
+                "description": ""
+            },
+            "facebook": {
+                "handle": "",
+                "title": "Patrick Dubois - Exonetik (EN)",
+                "imageId": "",
+                "description": ""
+            }
+        },
+        "advanced": {
+            "robots": [],
+            "canonical": ""
+        }
+    },
+    "urls": {
+        "en": "/about-us/patrick-dubois",
+        "fr": "/fr/a-propos/patrick-dubois"
+    }
+}

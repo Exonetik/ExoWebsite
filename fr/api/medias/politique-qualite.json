@@ -1,0 +1,58 @@
+{
+    "media": {
+        "title": "Politique Qualité",
+        "url": "/fr/medias/politique-qualite",
+        "shortDescription": "<p><span dir=\"ltr\"></span>La raison d’être d’Exonetik est de repousser les limites de la synergie entre les humains et les machines.</p>\n\n",
+        "banner": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg",
+        "content": [
+            {
+                "type": "text",
+                "sectionTitle": null,
+                "text": "<br />\n<br />\n<span dir=\"ltr\"></span>\n<p><strong>EXONETIK S’ENGAGE À :</strong></p>\nGarantir la satisfaction de ses clients sur les idées proposées grâce à une collaboration hors pair<br />\n<br />\n<p>Offrir des opportunités à ses clients de se démarquer sur le marché grâce à une technologie exceptionnelle</p>\n<br />\n<p><strong>AFIN DE RENCONTRER SES ENGAGEMENTS, L’APPROCHE D’EXONETIK CONSISTE À :</strong></p>\n<p>- Mettre en place des processus et un système de gestion de la qualité rigoureux et efficace et en constante amélioration.</p>\n<p>- Respecter toutes les lois et réglementations applicables.</p>\n<p>- Maintenir un environnement de travail sûr et sain pour nos employés.</p>\n<p>- Communiquer ouvertement et honnêtement avec toutes nos parties prenantes, y compris nos employés, nos clients et nos fournisseurs.</p>\n<p>- Promouvoir l’engagement de nos employés à travers une atmosphère conviviale en favorisant la collaboration des talents, tout en préservant l’équilibre entre la vie professionnelle et personnelle.</p>\n<br />\n<br />\n<span dir=\"ltr\"></span>\n<p>Nous sommes certifiés ISO 9001:2015 depuis décembre 2023.</p>\n <br />\n<br />\n<br />\n<br />\n<br />\n<br />\n<br />\n<br />\n<br />\n<br />\n<br />\n"
+            }
+        ],
+        "nextMedia": {
+            "title": "Fiche technique des bras robotiques Exonetik",
+            "id": 6910,
+            "slug": "fiche-technique-des-bras-robotiques-exonetik",
+            "url": "/fr/medias/fiche-technique-des-bras-robotiques-exonetik",
+            "banner": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_67x99_crop_center-center_none/Exonetik-robotic-arms.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_134x197_crop_center-center_none/Exonetik-robotic-arms.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/Exonetik-robotic-arms.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_67x99_crop_center-center_none/Exonetik-robotic-arms.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_134x197_crop_center-center_none/Exonetik-robotic-arms.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/Exonetik-robotic-arms.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/Exonetik-robotic-arms.jpg",
+                "width": "267",
+                "height": "394"
+            }
+        }
+    },
+    "seo": {
+        "titleRaw": [],
+        "descriptionRaw": "",
+        "keywords": [],
+        "score": "",
+        "social": {
+            "twitter": {
+                "handle": "",
+                "title": "Politique Qualité - Exonetik (FR)",
+                "imageId": "",
+                "description": ""
+            },
+            "facebook": {
+                "handle": "",
+                "title": "Politique Qualité - Exonetik (FR)",
+                "imageId": "",
+                "description": ""
+            }
+        },
+        "advanced": {
+            "robots": [],
+            "canonical": ""
+        }
+    },
+    "urls": {
+        "en": "/medias/politique-qualite",
+        "fr": "/fr/medias/politique-qualite"
+    }
+}

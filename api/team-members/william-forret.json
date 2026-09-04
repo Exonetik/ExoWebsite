@@ -1,0 +1,60 @@
+{
+    "member": {
+        "name": "William Forret",
+        "title": "Mechanical engineering technologist",
+        "photo": {
+            "landscape": {},
+            "portrait": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/WF-popup-3x.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/WF-popup-3x.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/WF-popup-3x.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/WF-popup-3x.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/WF-popup-3x.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/WF-popup-3x.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/WF-popup-3x.jpg",
+                "width": "2052",
+                "height": "2304"
+            }
+        },
+        "linkedin": null,
+        "description": "Robotics enthusiast and mechanical engineering technician, William supports production and prototyping activities so that customers always receive products that exceed their expectations. Complex mechanical systems really hold no secrets for him.",
+        "previous": {
+            "name": "Mélanie Charbonneau",
+            "id": 5998,
+            "slug": "melanie-charbonneau",
+            "url": "/about-us/melanie-charbonneau"
+        },
+        "next": {
+            "name": "Gabriel Dubé-Constantin",
+            "id": 6047,
+            "slug": "gabriel-dube-constantin",
+            "url": "/about-us/gabriel-dube-constantin"
+        }
+    },
+    "seo": {
+        "titleRaw": [],
+        "descriptionRaw": "",
+        "keywords": [],
+        "score": "",
+        "social": {
+            "twitter": {
+                "handle": "",
+                "title": "William Forret - Exonetik (EN)",
+                "imageId": "",
+                "description": ""
+            },
+            "facebook": {
+                "handle": "",
+                "title": "William Forret - Exonetik (EN)",
+                "imageId": "",
+                "description": ""
+            }
+        },
+        "advanced": {
+            "robots": [],
+            "canonical": ""
+        }
+    },
+    "urls": {
+        "en": "/about-us/william-forret",
+        "fr": "/fr/a-propos/william-forret"
+    }
+}

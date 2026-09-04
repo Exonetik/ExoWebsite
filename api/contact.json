@@ -1,0 +1,28 @@
+{
+    "email": "contact@exonetik.com",
+    "addresses": [
+        {
+            "address": {
+                "label": "Exonetik Inc",
+                "streetNumber": 3500,
+                "extension": null,
+                "streetName": "Boulevard Industriel",
+                "postalCode": "J1L1V8",
+                "city": "Sherbrooke",
+                "region": "QC",
+                "country": "Canada"
+            }
+        }
+    ],
+    "socialMedias": [
+        {
+            "label": "Instagram",
+            "url": "https://instagram.com/exonetik?igshid=1amg6yidaychk"
+        },
+        {
+            "label": "LinkedIn",
+            "url": "https://www.linkedin.com/company/exonetik-inc-/?originalSubdomain=ca"
+        }
+    ],
+    "phoneNumber": "+1 (819) 481 2317"
+}

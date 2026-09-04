@@ -1,0 +1,60 @@
+{
+    "member": {
+        "name": "Mélanie Charbonneau",
+        "title": "Quality Coordinator",
+        "photo": {
+            "landscape": {},
+            "portrait": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_750x1000_crop_center-center_none/Mélanie-Charbonneau-modifiée-et-récente.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1500x2000_crop_center-center_none/Mélanie-Charbonneau-modifiée-et-récente.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Mélanie-Charbonneau-modifiée-et-récente.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_750x1000_crop_center-center_none/Mélanie-Charbonneau-modifiée-et-récente.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1500x2000_crop_center-center_none/Mélanie-Charbonneau-modifiée-et-récente.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Mélanie-Charbonneau-modifiée-et-récente.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Mélanie-Charbonneau-modifiée-et-récente.jpg",
+                "width": "3000",
+                "height": "4000"
+            }
+        },
+        "linkedin": null,
+        "description": "Golf enthusiast and quality assurance professional with over 20 years of experience, Mélanie is responsible for ensuring that Exonetik's activities exceed customer expectations. Always on the lookout for improving our processes, she also ensures that we comply with all regulatory requirements.",
+        "previous": {
+            "name": "Patrick Dubois",
+            "id": 5968,
+            "slug": "patrick-dubois",
+            "url": "/about-us/patrick-dubois"
+        },
+        "next": {
+            "name": "William Forret",
+            "id": 6004,
+            "slug": "william-forret",
+            "url": "/about-us/william-forret"
+        }
+    },
+    "seo": {
+        "titleRaw": [],
+        "descriptionRaw": "",
+        "keywords": [],
+        "score": "",
+        "social": {
+            "twitter": {
+                "handle": "",
+                "title": "Mélanie Charbonneau - Exonetik (EN)",
+                "imageId": "",
+                "description": ""
+            },
+            "facebook": {
+                "handle": "",
+                "title": "Mélanie Charbonneau - Exonetik (EN)",
+                "imageId": "",
+                "description": ""
+            }
+        },
+        "advanced": {
+            "robots": [],
+            "canonical": ""
+        }
+    },
+    "urls": {
+        "en": "/about-us/melanie-charbonneau",
+        "fr": "/fr/a-propos/melanie-chabonneau"
+    }
+}

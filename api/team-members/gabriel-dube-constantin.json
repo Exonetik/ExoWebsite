@@ -1,0 +1,68 @@
+{
+    "member": {
+        "name": "Gabriel Dubé-Constantin",
+        "title": "Candidate to profession of mechanical engineer",
+        "photo": {
+            "landscape": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/Gabriel-Dubé-Constantin.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/Gabriel-Dubé-Constantin.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Gabriel-Dubé-Constantin.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/Gabriel-Dubé-Constantin.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/Gabriel-Dubé-Constantin.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Gabriel-Dubé-Constantin.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Gabriel-Dubé-Constantin.jpg",
+                "width": "2052",
+                "height": "2304"
+            },
+            "portrait": {
+                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/Gabriel-Dubé-Constantin.jpg",
+                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/Gabriel-Dubé-Constantin.jpg",
+                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Gabriel-Dubé-Constantin.jpg",
+                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/Gabriel-Dubé-Constantin.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/Gabriel-Dubé-Constantin.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Gabriel-Dubé-Constantin.jpg 3x",
+                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Gabriel-Dubé-Constantin.jpg",
+                "width": "2052",
+                "height": "2304"
+            }
+        },
+        "linkedin": null,
+        "description": "As a candidate to profession of mechanical engineer (CEP), Gabriel is involved in the development and improvement of our production line. With his team spirit honed through his passion for volleyball as well as his technical expertise developed during his internships at Exonetik, Gabriel is an important field asset for the company.",
+        "previous": {
+            "name": "William Forret",
+            "id": 6004,
+            "slug": "william-forret",
+            "url": "/about-us/william-forret"
+        },
+        "next": {
+            "name": "Donald Brouillard",
+            "id": 6054,
+            "slug": "donald-brouillard",
+            "url": "/about-us/donald-brouillard"
+        }
+    },
+    "seo": {
+        "titleRaw": [],
+        "descriptionRaw": "",
+        "keywords": [],
+        "score": "",
+        "social": {
+            "twitter": {
+                "handle": "",
+                "title": "Gabriel Dubé-Constantin - Exonetik (EN)",
+                "imageId": "",
+                "description": ""
+            },
+            "facebook": {
+                "handle": "",
+                "title": "Gabriel Dubé-Constantin - Exonetik (EN)",
+                "imageId": "",
+                "description": ""
+            }
+        },
+        "advanced": {
+            "robots": [],
+            "canonical": ""
+        }
+    },
+    "urls": {
+        "en": "/about-us/gabriel-dube-constantin",
+        "fr": "/fr/a-propos/gabriel-dube-constantin"
+    }
+}
