@@ -13,11 +13,11 @@
                 "contentPosition": "left",
                 "content": "<p>Commercial turbines in the sub-megawatt range are more reliable and require less maintenance than Diesel engines. However, their poor thermal efficiency compared to Diesel engines (38% vs 45%) limits their marked penetration.<br /><br />Exonetik Turbo has invented an innovative patented architecture allowing up to 50% thermal efficiency and 5kW/kg power-density, where the standard metallic turbine is replaced with ceramics, allowing a resistance to foreign object damage and high temperatures.<br /></p>",
                 "image": {
-                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x437_crop_center-center_none/turbo-gauche@3x-compressed.jpg",
-                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x875_crop_center-center_none/turbo-gauche@3x-compressed.jpg",
-                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/turbo-gauche@3x-compressed.jpg",
-                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x437_crop_center-center_none/turbo-gauche@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x875_crop_center-center_none/turbo-gauche@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/turbo-gauche@3x-compressed.jpg 3x",
-                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/turbo-gauche@3x-compressed.jpg",
+                    "1x": "/exonetik/assets-prod/_512x437_crop_center-center_none/turbo-gauche@3x-compressed.jpg",
+                    "2x": "/exonetik/assets-prod/_1025x875_crop_center-center_none/turbo-gauche@3x-compressed.jpg",
+                    "3x": "/exonetik/assets-prod/turbo-gauche@3x-compressed.jpg",
+                    "srcset": "/exonetik/assets-prod/_512x437_crop_center-center_none/turbo-gauche@3x-compressed.jpg 1x, /exonetik/assets-prod/_1025x875_crop_center-center_none/turbo-gauche@3x-compressed.jpg 2x, /exonetik/assets-prod/turbo-gauche@3x-compressed.jpg 3x",
+                    "original": "/exonetik/assets-prod/turbo-gauche@3x-compressed.jpg",
                     "width": "2049",
                     "height": "1749"
                 }
@@ -26,11 +26,11 @@
                 "contentPosition": "right",
                 "content": "<p>Exonetik Turbo has invented an innovative patented architecture allowing up to 50% thermal efficiency and 5kW/kg power-density, where the standard metallic turbine is replaced with ceramics, allowing a resistance to foreign object damage and high temperatures.</p>",
                 "image": {
-                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x377_crop_center-center_none/turbo-droite@3x-compressed_2021-01-25-205518.jpg",
-                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x755_crop_center-center_none/turbo-droite@3x-compressed_2021-01-25-205518.jpg",
-                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/turbo-droite@3x-compressed_2021-01-25-205518.jpg",
-                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x377_crop_center-center_none/turbo-droite@3x-compressed_2021-01-25-205518.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x755_crop_center-center_none/turbo-droite@3x-compressed_2021-01-25-205518.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/turbo-droite@3x-compressed_2021-01-25-205518.jpg 3x",
-                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/turbo-droite@3x-compressed_2021-01-25-205518.jpg",
+                    "1x": "/exonetik/assets-prod/_512x377_crop_center-center_none/turbo-droite@3x-compressed_2021-01-25-205518.jpg",
+                    "2x": "/exonetik/assets-prod/_1025x755_crop_center-center_none/turbo-droite@3x-compressed_2021-01-25-205518.jpg",
+                    "3x": "/exonetik/assets-prod/turbo-droite@3x-compressed_2021-01-25-205518.jpg",
+                    "srcset": "/exonetik/assets-prod/_512x377_crop_center-center_none/turbo-droite@3x-compressed_2021-01-25-205518.jpg 1x, /exonetik/assets-prod/_1025x755_crop_center-center_none/turbo-droite@3x-compressed_2021-01-25-205518.jpg 2x, /exonetik/assets-prod/turbo-droite@3x-compressed_2021-01-25-205518.jpg 3x",
+                    "original": "/exonetik/assets-prod/turbo-droite@3x-compressed_2021-01-25-205518.jpg",
                     "width": "2049",
                     "height": "1509"
                 }

@@ -24,11 +24,11 @@
                             {
                                 "alt": "robotics 1",
                                 "photo": {
-                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x377_crop_center-center_none/Robotics-gauche@3x-compressed.jpg",
-                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x755_crop_center-center_none/Robotics-gauche@3x-compressed.jpg",
-                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Robotics-gauche@3x-compressed.jpg",
-                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x377_crop_center-center_none/Robotics-gauche@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x755_crop_center-center_none/Robotics-gauche@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Robotics-gauche@3x-compressed.jpg 3x",
-                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Robotics-gauche@3x-compressed.jpg",
+                                    "1x": "/exonetik/assets-prod/_512x377_crop_center-center_none/Robotics-gauche@3x-compressed.jpg",
+                                    "2x": "/exonetik/assets-prod/_1025x755_crop_center-center_none/Robotics-gauche@3x-compressed.jpg",
+                                    "3x": "/exonetik/assets-prod/Robotics-gauche@3x-compressed.jpg",
+                                    "srcset": "/exonetik/assets-prod/_512x377_crop_center-center_none/Robotics-gauche@3x-compressed.jpg 1x, /exonetik/assets-prod/_1025x755_crop_center-center_none/Robotics-gauche@3x-compressed.jpg 2x, /exonetik/assets-prod/Robotics-gauche@3x-compressed.jpg 3x",
+                                    "original": "/exonetik/assets-prod/Robotics-gauche@3x-compressed.jpg",
                                     "width": "2049",
                                     "height": "1509"
                                 }
@@ -36,11 +36,11 @@
                             {
                                 "alt": "robotics 2",
                                 "photo": {
-                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_171x224_crop_center-center_none/Robotics-droite@3x.jpg",
-                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_342x449_crop_center-center_none/Robotics-droite@3x.jpg",
-                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Robotics-droite@3x.jpg",
-                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_171x224_crop_center-center_none/Robotics-droite@3x.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_342x449_crop_center-center_none/Robotics-droite@3x.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Robotics-droite@3x.jpg 3x",
-                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Robotics-droite@3x.jpg",
+                                    "1x": "/exonetik/assets-prod/_171x224_crop_center-center_none/Robotics-droite@3x.jpg",
+                                    "2x": "/exonetik/assets-prod/_342x449_crop_center-center_none/Robotics-droite@3x.jpg",
+                                    "3x": "/exonetik/assets-prod/Robotics-droite@3x.jpg",
+                                    "srcset": "/exonetik/assets-prod/_171x224_crop_center-center_none/Robotics-droite@3x.jpg 1x, /exonetik/assets-prod/_342x449_crop_center-center_none/Robotics-droite@3x.jpg 2x, /exonetik/assets-prod/Robotics-droite@3x.jpg 3x",
+                                    "original": "/exonetik/assets-prod/Robotics-droite@3x.jpg",
                                     "width": "684",
                                     "height": "897"
                                 }
@@ -50,11 +50,11 @@
                             {
                                 "alt": null,
                                 "photo": {
-                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_342x509_crop_center-center_none/Tech-Robotics-droite-grand@3x-compressed.jpg",
-                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_684x1017_crop_center-center_none/Tech-Robotics-droite-grand@3x-compressed.jpg",
-                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Robotics-droite-grand@3x-compressed.jpg",
-                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_342x509_crop_center-center_none/Tech-Robotics-droite-grand@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_684x1017_crop_center-center_none/Tech-Robotics-droite-grand@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Robotics-droite-grand@3x-compressed.jpg 3x",
-                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Robotics-droite-grand@3x-compressed.jpg",
+                                    "1x": "/exonetik/assets-prod/_342x509_crop_center-center_none/Tech-Robotics-droite-grand@3x-compressed.jpg",
+                                    "2x": "/exonetik/assets-prod/_684x1017_crop_center-center_none/Tech-Robotics-droite-grand@3x-compressed.jpg",
+                                    "3x": "/exonetik/assets-prod/Tech-Robotics-droite-grand@3x-compressed.jpg",
+                                    "srcset": "/exonetik/assets-prod/_342x509_crop_center-center_none/Tech-Robotics-droite-grand@3x-compressed.jpg 1x, /exonetik/assets-prod/_684x1017_crop_center-center_none/Tech-Robotics-droite-grand@3x-compressed.jpg 2x, /exonetik/assets-prod/Tech-Robotics-droite-grand@3x-compressed.jpg 3x",
+                                    "original": "/exonetik/assets-prod/Tech-Robotics-droite-grand@3x-compressed.jpg",
                                     "width": "1368",
                                     "height": "2034"
                                 }
@@ -62,11 +62,11 @@
                             {
                                 "alt": null,
                                 "photo": {
-                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_171x239_crop_center-center_none/Tech-Robotics-droite-petit@3x-compressed.jpg",
-                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_342x479_crop_center-center_none/Tech-Robotics-droite-petit@3x-compressed.jpg",
-                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Robotics-droite-petit@3x-compressed.jpg",
-                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_171x239_crop_center-center_none/Tech-Robotics-droite-petit@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_342x479_crop_center-center_none/Tech-Robotics-droite-petit@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Robotics-droite-petit@3x-compressed.jpg 3x",
-                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Robotics-droite-petit@3x-compressed.jpg",
+                                    "1x": "/exonetik/assets-prod/_171x239_crop_center-center_none/Tech-Robotics-droite-petit@3x-compressed.jpg",
+                                    "2x": "/exonetik/assets-prod/_342x479_crop_center-center_none/Tech-Robotics-droite-petit@3x-compressed.jpg",
+                                    "3x": "/exonetik/assets-prod/Tech-Robotics-droite-petit@3x-compressed.jpg",
+                                    "srcset": "/exonetik/assets-prod/_171x239_crop_center-center_none/Tech-Robotics-droite-petit@3x-compressed.jpg 1x, /exonetik/assets-prod/_342x479_crop_center-center_none/Tech-Robotics-droite-petit@3x-compressed.jpg 2x, /exonetik/assets-prod/Tech-Robotics-droite-petit@3x-compressed.jpg 3x",
+                                    "original": "/exonetik/assets-prod/Tech-Robotics-droite-petit@3x-compressed.jpg",
                                     "width": "684",
                                     "height": "957"
                                 }
@@ -83,11 +83,11 @@
                             {
                                 "alt": "aerospace",
                                 "photo": {
-                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_427x437_crop_center-center_none/Aerospace-droite@3x-compressed.jpg",
-                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_854x875_crop_center-center_none/Aerospace-droite@3x-compressed.jpg",
-                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Aerospace-droite@3x-compressed.jpg",
-                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_427x437_crop_center-center_none/Aerospace-droite@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_854x875_crop_center-center_none/Aerospace-droite@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Aerospace-droite@3x-compressed.jpg 3x",
-                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Aerospace-droite@3x-compressed.jpg",
+                                    "1x": "/exonetik/assets-prod/_427x437_crop_center-center_none/Aerospace-droite@3x-compressed.jpg",
+                                    "2x": "/exonetik/assets-prod/_854x875_crop_center-center_none/Aerospace-droite@3x-compressed.jpg",
+                                    "3x": "/exonetik/assets-prod/Aerospace-droite@3x-compressed.jpg",
+                                    "srcset": "/exonetik/assets-prod/_427x437_crop_center-center_none/Aerospace-droite@3x-compressed.jpg 1x, /exonetik/assets-prod/_854x875_crop_center-center_none/Aerospace-droite@3x-compressed.jpg 2x, /exonetik/assets-prod/Aerospace-droite@3x-compressed.jpg 3x",
+                                    "original": "/exonetik/assets-prod/Aerospace-droite@3x-compressed.jpg",
                                     "width": "1707",
                                     "height": "1749"
                                 }
@@ -95,11 +95,11 @@
                             {
                                 "alt": "aerospace-2",
                                 "photo": {
-                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_171x385_crop_center-center_none/Aerospace-gauche@3x-compressed.jpg",
-                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_342x770_crop_center-center_none/Aerospace-gauche@3x-compressed.jpg",
-                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Aerospace-gauche@3x-compressed.jpg",
-                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_171x385_crop_center-center_none/Aerospace-gauche@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_342x770_crop_center-center_none/Aerospace-gauche@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Aerospace-gauche@3x-compressed.jpg 3x",
-                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Aerospace-gauche@3x-compressed.jpg",
+                                    "1x": "/exonetik/assets-prod/_171x385_crop_center-center_none/Aerospace-gauche@3x-compressed.jpg",
+                                    "2x": "/exonetik/assets-prod/_342x770_crop_center-center_none/Aerospace-gauche@3x-compressed.jpg",
+                                    "3x": "/exonetik/assets-prod/Aerospace-gauche@3x-compressed.jpg",
+                                    "srcset": "/exonetik/assets-prod/_171x385_crop_center-center_none/Aerospace-gauche@3x-compressed.jpg 1x, /exonetik/assets-prod/_342x770_crop_center-center_none/Aerospace-gauche@3x-compressed.jpg 2x, /exonetik/assets-prod/Aerospace-gauche@3x-compressed.jpg 3x",
+                                    "original": "/exonetik/assets-prod/Aerospace-gauche@3x-compressed.jpg",
                                     "width": "684",
                                     "height": "1539"
                                 }
@@ -109,11 +109,11 @@
                             {
                                 "alt": null,
                                 "photo": {
-                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_768x515_crop_center-center_none/Tech-aerospace-dessus@3x-compressed.jpg",
-                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1536x1031_crop_center-center_none/Tech-aerospace-dessus@3x-compressed.jpg",
-                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-aerospace-dessus@3x-compressed.jpg",
-                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_768x515_crop_center-center_none/Tech-aerospace-dessus@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1536x1031_crop_center-center_none/Tech-aerospace-dessus@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-aerospace-dessus@3x-compressed.jpg 3x",
-                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-aerospace-dessus@3x-compressed.jpg",
+                                    "1x": "/exonetik/assets-prod/_768x515_crop_center-center_none/Tech-aerospace-dessus@3x-compressed.jpg",
+                                    "2x": "/exonetik/assets-prod/_1536x1031_crop_center-center_none/Tech-aerospace-dessus@3x-compressed.jpg",
+                                    "3x": "/exonetik/assets-prod/Tech-aerospace-dessus@3x-compressed.jpg",
+                                    "srcset": "/exonetik/assets-prod/_768x515_crop_center-center_none/Tech-aerospace-dessus@3x-compressed.jpg 1x, /exonetik/assets-prod/_1536x1031_crop_center-center_none/Tech-aerospace-dessus@3x-compressed.jpg 2x, /exonetik/assets-prod/Tech-aerospace-dessus@3x-compressed.jpg 3x",
+                                    "original": "/exonetik/assets-prod/Tech-aerospace-dessus@3x-compressed.jpg",
                                     "width": "3072",
                                     "height": "2061"
                                 }
@@ -130,11 +130,11 @@
                             {
                                 "alt": "Automotive1",
                                 "photo": {
-                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_256x369_crop_center-center_none/Automotive-gauche@3x-compressed_2021-01-25-211404.jpg",
-                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x738_crop_center-center_none/Automotive-gauche@3x-compressed_2021-01-25-211404.jpg",
-                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Automotive-gauche@3x-compressed_2021-01-25-211404.jpg",
-                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_256x369_crop_center-center_none/Automotive-gauche@3x-compressed_2021-01-25-211404.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x738_crop_center-center_none/Automotive-gauche@3x-compressed_2021-01-25-211404.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Automotive-gauche@3x-compressed_2021-01-25-211404.jpg 3x",
-                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Automotive-gauche@3x-compressed_2021-01-25-211404.jpg",
+                                    "1x": "/exonetik/assets-prod/_256x369_crop_center-center_none/Automotive-gauche@3x-compressed_2021-01-25-211404.jpg",
+                                    "2x": "/exonetik/assets-prod/_512x738_crop_center-center_none/Automotive-gauche@3x-compressed_2021-01-25-211404.jpg",
+                                    "3x": "/exonetik/assets-prod/Automotive-gauche@3x-compressed_2021-01-25-211404.jpg",
+                                    "srcset": "/exonetik/assets-prod/_256x369_crop_center-center_none/Automotive-gauche@3x-compressed_2021-01-25-211404.jpg 1x, /exonetik/assets-prod/_512x738_crop_center-center_none/Automotive-gauche@3x-compressed_2021-01-25-211404.jpg 2x, /exonetik/assets-prod/Automotive-gauche@3x-compressed_2021-01-25-211404.jpg 3x",
+                                    "original": "/exonetik/assets-prod/Automotive-gauche@3x-compressed_2021-01-25-211404.jpg",
                                     "width": "1023",
                                     "height": "1476"
                                 }
@@ -142,11 +142,11 @@
                             {
                                 "alt": "automotive2",
                                 "photo": {
-                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_171x275_crop_center-center_none/Automotive-droite@3x.jpg",
-                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_342x551_crop_center-center_none/Automotive-droite@3x.jpg",
-                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Automotive-droite@3x.jpg",
-                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_171x275_crop_center-center_none/Automotive-droite@3x.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_342x551_crop_center-center_none/Automotive-droite@3x.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Automotive-droite@3x.jpg 3x",
-                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Automotive-droite@3x.jpg",
+                                    "1x": "/exonetik/assets-prod/_171x275_crop_center-center_none/Automotive-droite@3x.jpg",
+                                    "2x": "/exonetik/assets-prod/_342x551_crop_center-center_none/Automotive-droite@3x.jpg",
+                                    "3x": "/exonetik/assets-prod/Automotive-droite@3x.jpg",
+                                    "srcset": "/exonetik/assets-prod/_171x275_crop_center-center_none/Automotive-droite@3x.jpg 1x, /exonetik/assets-prod/_342x551_crop_center-center_none/Automotive-droite@3x.jpg 2x, /exonetik/assets-prod/Automotive-droite@3x.jpg 3x",
+                                    "original": "/exonetik/assets-prod/Automotive-droite@3x.jpg",
                                     "width": "684",
                                     "height": "1101"
                                 }
@@ -156,11 +156,11 @@
                             {
                                 "alt": null,
                                 "photo": {
-                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_256x396_crop_center-center_none/Tech-Automotive-droite@3x-compressed.jpg",
-                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x792_crop_center-center_none/Tech-Automotive-droite@3x-compressed.jpg",
-                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Automotive-droite@3x-compressed.jpg",
-                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_256x396_crop_center-center_none/Tech-Automotive-droite@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x792_crop_center-center_none/Tech-Automotive-droite@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Automotive-droite@3x-compressed.jpg 3x",
-                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Automotive-droite@3x-compressed.jpg",
+                                    "1x": "/exonetik/assets-prod/_256x396_crop_center-center_none/Tech-Automotive-droite@3x-compressed.jpg",
+                                    "2x": "/exonetik/assets-prod/_512x792_crop_center-center_none/Tech-Automotive-droite@3x-compressed.jpg",
+                                    "3x": "/exonetik/assets-prod/Tech-Automotive-droite@3x-compressed.jpg",
+                                    "srcset": "/exonetik/assets-prod/_256x396_crop_center-center_none/Tech-Automotive-droite@3x-compressed.jpg 1x, /exonetik/assets-prod/_512x792_crop_center-center_none/Tech-Automotive-droite@3x-compressed.jpg 2x, /exonetik/assets-prod/Tech-Automotive-droite@3x-compressed.jpg 3x",
+                                    "original": "/exonetik/assets-prod/Tech-Automotive-droite@3x-compressed.jpg",
                                     "width": "1023",
                                     "height": "1584"
                                 }
@@ -168,11 +168,11 @@
                             {
                                 "alt": null,
                                 "photo": {
-                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_256x369_crop_center-center_none/Tech-Automotive-gauche@3x-compressed.jpg",
-                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x738_crop_center-center_none/Tech-Automotive-gauche@3x-compressed.jpg",
-                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Automotive-gauche@3x-compressed.jpg",
-                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_256x369_crop_center-center_none/Tech-Automotive-gauche@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x738_crop_center-center_none/Tech-Automotive-gauche@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Automotive-gauche@3x-compressed.jpg 3x",
-                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Automotive-gauche@3x-compressed.jpg",
+                                    "1x": "/exonetik/assets-prod/_256x369_crop_center-center_none/Tech-Automotive-gauche@3x-compressed.jpg",
+                                    "2x": "/exonetik/assets-prod/_512x738_crop_center-center_none/Tech-Automotive-gauche@3x-compressed.jpg",
+                                    "3x": "/exonetik/assets-prod/Tech-Automotive-gauche@3x-compressed.jpg",
+                                    "srcset": "/exonetik/assets-prod/_256x369_crop_center-center_none/Tech-Automotive-gauche@3x-compressed.jpg 1x, /exonetik/assets-prod/_512x738_crop_center-center_none/Tech-Automotive-gauche@3x-compressed.jpg 2x, /exonetik/assets-prod/Tech-Automotive-gauche@3x-compressed.jpg 3x",
+                                    "original": "/exonetik/assets-prod/Tech-Automotive-gauche@3x-compressed.jpg",
                                     "width": "1023",
                                     "height": "1476"
                                 }
@@ -189,11 +189,11 @@
                             {
                                 "alt": null,
                                 "photo": {
-                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_427x437_crop_center-center_none/Human-performance-droite@3x-compressed.jpg",
-                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_854x875_crop_center-center_none/Human-performance-droite@3x-compressed.jpg",
-                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Human-performance-droite@3x-compressed.jpg",
-                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_427x437_crop_center-center_none/Human-performance-droite@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_854x875_crop_center-center_none/Human-performance-droite@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Human-performance-droite@3x-compressed.jpg 3x",
-                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Human-performance-droite@3x-compressed.jpg",
+                                    "1x": "/exonetik/assets-prod/_427x437_crop_center-center_none/Human-performance-droite@3x-compressed.jpg",
+                                    "2x": "/exonetik/assets-prod/_854x875_crop_center-center_none/Human-performance-droite@3x-compressed.jpg",
+                                    "3x": "/exonetik/assets-prod/Human-performance-droite@3x-compressed.jpg",
+                                    "srcset": "/exonetik/assets-prod/_427x437_crop_center-center_none/Human-performance-droite@3x-compressed.jpg 1x, /exonetik/assets-prod/_854x875_crop_center-center_none/Human-performance-droite@3x-compressed.jpg 2x, /exonetik/assets-prod/Human-performance-droite@3x-compressed.jpg 3x",
+                                    "original": "/exonetik/assets-prod/Human-performance-droite@3x-compressed.jpg",
                                     "width": "1707",
                                     "height": "1749"
                                 }
@@ -201,11 +201,11 @@
                             {
                                 "alt": null,
                                 "photo": {
-                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_171x385_crop_center-center_none/Human-performance-gauche@3x-compressed.jpg",
-                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_342x770_crop_center-center_none/Human-performance-gauche@3x-compressed.jpg",
-                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Human-performance-gauche@3x-compressed.jpg",
-                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_171x385_crop_center-center_none/Human-performance-gauche@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_342x770_crop_center-center_none/Human-performance-gauche@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Human-performance-gauche@3x-compressed.jpg 3x",
-                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Human-performance-gauche@3x-compressed.jpg",
+                                    "1x": "/exonetik/assets-prod/_171x385_crop_center-center_none/Human-performance-gauche@3x-compressed.jpg",
+                                    "2x": "/exonetik/assets-prod/_342x770_crop_center-center_none/Human-performance-gauche@3x-compressed.jpg",
+                                    "3x": "/exonetik/assets-prod/Human-performance-gauche@3x-compressed.jpg",
+                                    "srcset": "/exonetik/assets-prod/_171x385_crop_center-center_none/Human-performance-gauche@3x-compressed.jpg 1x, /exonetik/assets-prod/_342x770_crop_center-center_none/Human-performance-gauche@3x-compressed.jpg 2x, /exonetik/assets-prod/Human-performance-gauche@3x-compressed.jpg 3x",
+                                    "original": "/exonetik/assets-prod/Human-performance-gauche@3x-compressed.jpg",
                                     "width": "684",
                                     "height": "1539"
                                 }
@@ -215,11 +215,11 @@
                             {
                                 "alt": null,
                                 "photo": {
-                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x437_crop_center-center_none/Tech-Human-performance-droite@3x-compressed.jpg",
-                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x875_crop_center-center_none/Tech-Human-performance-droite@3x-compressed.jpg",
-                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Human-performance-droite@3x-compressed.jpg",
-                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x437_crop_center-center_none/Tech-Human-performance-droite@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x875_crop_center-center_none/Tech-Human-performance-droite@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Human-performance-droite@3x-compressed.jpg 3x",
-                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Human-performance-droite@3x-compressed.jpg",
+                                    "1x": "/exonetik/assets-prod/_512x437_crop_center-center_none/Tech-Human-performance-droite@3x-compressed.jpg",
+                                    "2x": "/exonetik/assets-prod/_1025x875_crop_center-center_none/Tech-Human-performance-droite@3x-compressed.jpg",
+                                    "3x": "/exonetik/assets-prod/Tech-Human-performance-droite@3x-compressed.jpg",
+                                    "srcset": "/exonetik/assets-prod/_512x437_crop_center-center_none/Tech-Human-performance-droite@3x-compressed.jpg 1x, /exonetik/assets-prod/_1025x875_crop_center-center_none/Tech-Human-performance-droite@3x-compressed.jpg 2x, /exonetik/assets-prod/Tech-Human-performance-droite@3x-compressed.jpg 3x",
+                                    "original": "/exonetik/assets-prod/Tech-Human-performance-droite@3x-compressed.jpg",
                                     "width": "2049",
                                     "height": "1749"
                                 }
@@ -227,11 +227,11 @@
                             {
                                 "alt": null,
                                 "photo": {
-                                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x377_crop_center-center_none/Tech-Human-performance-gauche@3x-compressed.jpg",
-                                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x755_crop_center-center_none/Tech-Human-performance-gauche@3x-compressed.jpg",
-                                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Human-performance-gauche@3x-compressed.jpg",
-                                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x377_crop_center-center_none/Tech-Human-performance-gauche@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x755_crop_center-center_none/Tech-Human-performance-gauche@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Human-performance-gauche@3x-compressed.jpg 3x",
-                                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Tech-Human-performance-gauche@3x-compressed.jpg",
+                                    "1x": "/exonetik/assets-prod/_512x377_crop_center-center_none/Tech-Human-performance-gauche@3x-compressed.jpg",
+                                    "2x": "/exonetik/assets-prod/_1025x755_crop_center-center_none/Tech-Human-performance-gauche@3x-compressed.jpg",
+                                    "3x": "/exonetik/assets-prod/Tech-Human-performance-gauche@3x-compressed.jpg",
+                                    "srcset": "/exonetik/assets-prod/_512x377_crop_center-center_none/Tech-Human-performance-gauche@3x-compressed.jpg 1x, /exonetik/assets-prod/_1025x755_crop_center-center_none/Tech-Human-performance-gauche@3x-compressed.jpg 2x, /exonetik/assets-prod/Tech-Human-performance-gauche@3x-compressed.jpg 3x",
+                                    "original": "/exonetik/assets-prod/Tech-Human-performance-gauche@3x-compressed.jpg",
                                     "width": "2049",
                                     "height": "1509"
                                 }
@@ -250,11 +250,11 @@
                     "jsonUrl": "https://www.exonetik.com/fr/api/pages/medias/6910.json",
                     "shortDescription": null,
                     "banner": {
-                        "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_67x99_crop_center-center_none/Exonetik-robotic-arms.jpg",
-                        "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_134x197_crop_center-center_none/Exonetik-robotic-arms.jpg",
-                        "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/Exonetik-robotic-arms.jpg",
-                        "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_67x99_crop_center-center_none/Exonetik-robotic-arms.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_134x197_crop_center-center_none/Exonetik-robotic-arms.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/Exonetik-robotic-arms.jpg 3x",
-                        "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/Exonetik-robotic-arms.jpg",
+                        "1x": "/exonetik/assets-prod/assets/_67x99_crop_center-center_none/Exonetik-robotic-arms.jpg",
+                        "2x": "/exonetik/assets-prod/assets/_134x197_crop_center-center_none/Exonetik-robotic-arms.jpg",
+                        "3x": "/exonetik/assets-prod/assets/Exonetik-robotic-arms.jpg",
+                        "srcset": "/exonetik/assets-prod/assets/_67x99_crop_center-center_none/Exonetik-robotic-arms.jpg 1x, /exonetik/assets-prod/assets/_134x197_crop_center-center_none/Exonetik-robotic-arms.jpg 2x, /exonetik/assets-prod/assets/Exonetik-robotic-arms.jpg 3x",
+                        "original": "/exonetik/assets-prod/assets/Exonetik-robotic-arms.jpg",
                         "width": "267",
                         "height": "394"
                     }
@@ -265,11 +265,11 @@
                     "jsonUrl": "https://www.exonetik.com/fr/api/pages/medias/6457.json",
                     "shortDescription": "<p><span dir=\"ltr\"></span>La raison d’être d’Exonetik est de repousser les limites de la synergie entre les humains et les machines.</p>\n\n",
                     "banner": {
-                        "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_87x67_crop_center-center_none/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg",
-                        "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_173x133_crop_center-center_none/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg",
-                        "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg",
-                        "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_87x67_crop_center-center_none/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_173x133_crop_center-center_none/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg 3x",
-                        "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg",
+                        "1x": "/exonetik/assets-prod/assets/_87x67_crop_center-center_none/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg",
+                        "2x": "/exonetik/assets-prod/assets/_173x133_crop_center-center_none/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg",
+                        "3x": "/exonetik/assets-prod/assets/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg",
+                        "srcset": "/exonetik/assets-prod/assets/_87x67_crop_center-center_none/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg 1x, /exonetik/assets-prod/assets/_173x133_crop_center-center_none/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg 2x, /exonetik/assets-prod/assets/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg 3x",
+                        "original": "/exonetik/assets-prod/assets/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg",
                         "width": "346",
                         "height": "266"
                     }

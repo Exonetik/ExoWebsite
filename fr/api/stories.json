@@ -6,11 +6,11 @@
             "jsonUrl": "https://www.exonetik.com/fr/api/medias/fiche-technique-des-bras-robotiques-exonetik.json",
             "shortDescription": null,
             "banner": {
-                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_67x99_crop_center-center_none/Exonetik-robotic-arms.jpg",
-                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_134x197_crop_center-center_none/Exonetik-robotic-arms.jpg",
-                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/Exonetik-robotic-arms.jpg",
-                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_67x99_crop_center-center_none/Exonetik-robotic-arms.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_134x197_crop_center-center_none/Exonetik-robotic-arms.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/Exonetik-robotic-arms.jpg 3x",
-                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/Exonetik-robotic-arms.jpg",
+                "1x": "/exonetik/assets-prod/assets/_67x99_crop_center-center_none/Exonetik-robotic-arms.jpg",
+                "2x": "/exonetik/assets-prod/assets/_134x197_crop_center-center_none/Exonetik-robotic-arms.jpg",
+                "3x": "/exonetik/assets-prod/assets/Exonetik-robotic-arms.jpg",
+                "srcset": "/exonetik/assets-prod/assets/_67x99_crop_center-center_none/Exonetik-robotic-arms.jpg 1x, /exonetik/assets-prod/assets/_134x197_crop_center-center_none/Exonetik-robotic-arms.jpg 2x, /exonetik/assets-prod/assets/Exonetik-robotic-arms.jpg 3x",
+                "original": "/exonetik/assets-prod/assets/Exonetik-robotic-arms.jpg",
                 "width": "267",
                 "height": "394"
             },
@@ -22,11 +22,11 @@
             "jsonUrl": "https://www.exonetik.com/fr/api/medias/politique-qualite.json",
             "shortDescription": "<p><span dir=\"ltr\"></span>La raison d’être d’Exonetik est de repousser les limites de la synergie entre les humains et les machines.</p>\n\n",
             "banner": {
-                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_87x67_crop_center-center_none/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg",
-                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_173x133_crop_center-center_none/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg",
-                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg",
-                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_87x67_crop_center-center_none/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_173x133_crop_center-center_none/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg 3x",
-                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg",
+                "1x": "/exonetik/assets-prod/assets/_87x67_crop_center-center_none/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg",
+                "2x": "/exonetik/assets-prod/assets/_173x133_crop_center-center_none/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg",
+                "3x": "/exonetik/assets-prod/assets/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg",
+                "srcset": "/exonetik/assets-prod/assets/_87x67_crop_center-center_none/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg 1x, /exonetik/assets-prod/assets/_173x133_crop_center-center_none/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg 2x, /exonetik/assets-prod/assets/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg 3x",
+                "original": "/exonetik/assets-prod/assets/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg",
                 "width": "346",
                 "height": "266"
             },

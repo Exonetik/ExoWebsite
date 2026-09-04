@@ -5,11 +5,11 @@
         "photo": {
             "landscape": {},
             "portrait": {
-                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_180x198_crop_center-center_none/LucBordeleau.jpg",
-                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_361x396_crop_center-center_none/LucBordeleau.jpg",
-                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/LucBordeleau.jpg",
-                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_180x198_crop_center-center_none/LucBordeleau.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_361x396_crop_center-center_none/LucBordeleau.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/LucBordeleau.jpg 3x",
-                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/LucBordeleau.jpg",
+                "1x": "/exonetik/assets-prod/_180x198_crop_center-center_none/LucBordeleau.jpg",
+                "2x": "/exonetik/assets-prod/_361x396_crop_center-center_none/LucBordeleau.jpg",
+                "3x": "/exonetik/assets-prod/LucBordeleau.jpg",
+                "srcset": "/exonetik/assets-prod/_180x198_crop_center-center_none/LucBordeleau.jpg 1x, /exonetik/assets-prod/_361x396_crop_center-center_none/LucBordeleau.jpg 2x, /exonetik/assets-prod/LucBordeleau.jpg 3x",
+                "original": "/exonetik/assets-prod/LucBordeleau.jpg",
                 "width": "721",
                 "height": "792"
             }

@@ -5,11 +5,11 @@
         "photo": {
             "landscape": {},
             "portrait": {
-                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/PD-popup-3x.jpg",
-                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/PD-popup-3x.jpg",
-                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PD-popup-3x.jpg",
-                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/PD-popup-3x.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/PD-popup-3x.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PD-popup-3x.jpg 3x",
-                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PD-popup-3x.jpg",
+                "1x": "/exonetik/assets-prod/_513x576_crop_center-center_none/PD-popup-3x.jpg",
+                "2x": "/exonetik/assets-prod/_1026x1152_crop_center-center_none/PD-popup-3x.jpg",
+                "3x": "/exonetik/assets-prod/PD-popup-3x.jpg",
+                "srcset": "/exonetik/assets-prod/_513x576_crop_center-center_none/PD-popup-3x.jpg 1x, /exonetik/assets-prod/_1026x1152_crop_center-center_none/PD-popup-3x.jpg 2x, /exonetik/assets-prod/PD-popup-3x.jpg 3x",
+                "original": "/exonetik/assets-prod/PD-popup-3x.jpg",
                 "width": "2052",
                 "height": "2304"
             }

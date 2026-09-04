@@ -4,20 +4,20 @@
         "title": "Candidat à la profession d'ingénieur mécanique",
         "photo": {
             "landscape": {
-                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/Gabriel-Dubé-Constantin.jpg",
-                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/Gabriel-Dubé-Constantin.jpg",
-                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Gabriel-Dubé-Constantin.jpg",
-                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/Gabriel-Dubé-Constantin.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/Gabriel-Dubé-Constantin.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Gabriel-Dubé-Constantin.jpg 3x",
-                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Gabriel-Dubé-Constantin.jpg",
+                "1x": "/exonetik/assets-prod/_513x576_crop_center-center_none/Gabriel-Dubé-Constantin.jpg",
+                "2x": "/exonetik/assets-prod/_1026x1152_crop_center-center_none/Gabriel-Dubé-Constantin.jpg",
+                "3x": "/exonetik/assets-prod/Gabriel-Dubé-Constantin.jpg",
+                "srcset": "/exonetik/assets-prod/_513x576_crop_center-center_none/Gabriel-Dubé-Constantin.jpg 1x, /exonetik/assets-prod/_1026x1152_crop_center-center_none/Gabriel-Dubé-Constantin.jpg 2x, /exonetik/assets-prod/Gabriel-Dubé-Constantin.jpg 3x",
+                "original": "/exonetik/assets-prod/Gabriel-Dubé-Constantin.jpg",
                 "width": "2052",
                 "height": "2304"
             },
             "portrait": {
-                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/Gabriel-Dubé-Constantin.jpg",
-                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/Gabriel-Dubé-Constantin.jpg",
-                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Gabriel-Dubé-Constantin.jpg",
-                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/Gabriel-Dubé-Constantin.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/Gabriel-Dubé-Constantin.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Gabriel-Dubé-Constantin.jpg 3x",
-                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Gabriel-Dubé-Constantin.jpg",
+                "1x": "/exonetik/assets-prod/_513x576_crop_center-center_none/Gabriel-Dubé-Constantin.jpg",
+                "2x": "/exonetik/assets-prod/_1026x1152_crop_center-center_none/Gabriel-Dubé-Constantin.jpg",
+                "3x": "/exonetik/assets-prod/Gabriel-Dubé-Constantin.jpg",
+                "srcset": "/exonetik/assets-prod/_513x576_crop_center-center_none/Gabriel-Dubé-Constantin.jpg 1x, /exonetik/assets-prod/_1026x1152_crop_center-center_none/Gabriel-Dubé-Constantin.jpg 2x, /exonetik/assets-prod/Gabriel-Dubé-Constantin.jpg 3x",
+                "original": "/exonetik/assets-prod/Gabriel-Dubé-Constantin.jpg",
                 "width": "2052",
                 "height": "2304"
             }

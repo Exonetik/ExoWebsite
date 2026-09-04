@@ -4,20 +4,20 @@
         "title": "Candidat à la profession d'ingénieur mécanique",
         "photo": {
             "landscape": {
-                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_750x1000_crop_center-center_none/Donald-Brouillard-1.jpg",
-                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1500x2000_crop_center-center_none/Donald-Brouillard-1.jpg",
-                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Donald-Brouillard-1.jpg",
-                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_750x1000_crop_center-center_none/Donald-Brouillard-1.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1500x2000_crop_center-center_none/Donald-Brouillard-1.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Donald-Brouillard-1.jpg 3x",
-                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Donald-Brouillard-1.jpg",
+                "1x": "/exonetik/assets-prod/_750x1000_crop_center-center_none/Donald-Brouillard-1.jpg",
+                "2x": "/exonetik/assets-prod/_1500x2000_crop_center-center_none/Donald-Brouillard-1.jpg",
+                "3x": "/exonetik/assets-prod/Donald-Brouillard-1.jpg",
+                "srcset": "/exonetik/assets-prod/_750x1000_crop_center-center_none/Donald-Brouillard-1.jpg 1x, /exonetik/assets-prod/_1500x2000_crop_center-center_none/Donald-Brouillard-1.jpg 2x, /exonetik/assets-prod/Donald-Brouillard-1.jpg 3x",
+                "original": "/exonetik/assets-prod/Donald-Brouillard-1.jpg",
                 "width": "3000",
                 "height": "4000"
             },
             "portrait": {
-                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_750x1000_crop_center-center_none/Donald-Brouillard-1.jpg",
-                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1500x2000_crop_center-center_none/Donald-Brouillard-1.jpg",
-                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Donald-Brouillard-1.jpg",
-                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_750x1000_crop_center-center_none/Donald-Brouillard-1.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1500x2000_crop_center-center_none/Donald-Brouillard-1.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Donald-Brouillard-1.jpg 3x",
-                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Donald-Brouillard-1.jpg",
+                "1x": "/exonetik/assets-prod/_750x1000_crop_center-center_none/Donald-Brouillard-1.jpg",
+                "2x": "/exonetik/assets-prod/_1500x2000_crop_center-center_none/Donald-Brouillard-1.jpg",
+                "3x": "/exonetik/assets-prod/Donald-Brouillard-1.jpg",
+                "srcset": "/exonetik/assets-prod/_750x1000_crop_center-center_none/Donald-Brouillard-1.jpg 1x, /exonetik/assets-prod/_1500x2000_crop_center-center_none/Donald-Brouillard-1.jpg 2x, /exonetik/assets-prod/Donald-Brouillard-1.jpg 3x",
+                "original": "/exonetik/assets-prod/Donald-Brouillard-1.jpg",
                 "width": "3000",
                 "height": "4000"
             }

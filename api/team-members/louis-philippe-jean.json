@@ -4,20 +4,20 @@
         "title": "Mechanical Engineer",
         "photo": {
             "landscape": {
-                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_576x325_crop_center-center_none/LPJ-popup-tablette@3x-compressed.jpg",
-                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1152x650_crop_center-center_none/LPJ-popup-tablette@3x-compressed.jpg",
-                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/LPJ-popup-tablette@3x-compressed.jpg",
-                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_576x325_crop_center-center_none/LPJ-popup-tablette@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1152x650_crop_center-center_none/LPJ-popup-tablette@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/LPJ-popup-tablette@3x-compressed.jpg 3x",
-                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/LPJ-popup-tablette@3x-compressed.jpg",
+                "1x": "/exonetik/assets-prod/_576x325_crop_center-center_none/LPJ-popup-tablette@3x-compressed.jpg",
+                "2x": "/exonetik/assets-prod/_1152x650_crop_center-center_none/LPJ-popup-tablette@3x-compressed.jpg",
+                "3x": "/exonetik/assets-prod/LPJ-popup-tablette@3x-compressed.jpg",
+                "srcset": "/exonetik/assets-prod/_576x325_crop_center-center_none/LPJ-popup-tablette@3x-compressed.jpg 1x, /exonetik/assets-prod/_1152x650_crop_center-center_none/LPJ-popup-tablette@3x-compressed.jpg 2x, /exonetik/assets-prod/LPJ-popup-tablette@3x-compressed.jpg 3x",
+                "original": "/exonetik/assets-prod/LPJ-popup-tablette@3x-compressed.jpg",
                 "width": "2304",
                 "height": "1299"
             },
             "portrait": {
-                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/LPJ-popup@3x-compressed.jpg",
-                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/LPJ-popup@3x-compressed.jpg",
-                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/LPJ-popup@3x-compressed.jpg",
-                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_513x576_crop_center-center_none/LPJ-popup@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1026x1152_crop_center-center_none/LPJ-popup@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/LPJ-popup@3x-compressed.jpg 3x",
-                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/LPJ-popup@3x-compressed.jpg",
+                "1x": "/exonetik/assets-prod/_513x576_crop_center-center_none/LPJ-popup@3x-compressed.jpg",
+                "2x": "/exonetik/assets-prod/_1026x1152_crop_center-center_none/LPJ-popup@3x-compressed.jpg",
+                "3x": "/exonetik/assets-prod/LPJ-popup@3x-compressed.jpg",
+                "srcset": "/exonetik/assets-prod/_513x576_crop_center-center_none/LPJ-popup@3x-compressed.jpg 1x, /exonetik/assets-prod/_1026x1152_crop_center-center_none/LPJ-popup@3x-compressed.jpg 2x, /exonetik/assets-prod/LPJ-popup@3x-compressed.jpg 3x",
+                "original": "/exonetik/assets-prod/LPJ-popup@3x-compressed.jpg",
                 "width": "2052",
                 "height": "2304"
             }

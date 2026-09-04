@@ -4,20 +4,20 @@
         "title": "Candidat à la profession d’ingénieur mécanique",
         "photo": {
             "landscape": {
-                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_294x387_crop_center-center_none/AlexStJean_2026-03-18-184107_bqoq.jpg",
-                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_588x773_crop_center-center_none/AlexStJean_2026-03-18-184107_bqoq.jpg",
-                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/AlexStJean_2026-03-18-184107_bqoq.jpg",
-                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_294x387_crop_center-center_none/AlexStJean_2026-03-18-184107_bqoq.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_588x773_crop_center-center_none/AlexStJean_2026-03-18-184107_bqoq.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/AlexStJean_2026-03-18-184107_bqoq.jpg 3x",
-                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/AlexStJean_2026-03-18-184107_bqoq.jpg",
+                "1x": "/exonetik/assets-prod/_294x387_crop_center-center_none/AlexStJean_2026-03-18-184107_bqoq.jpg",
+                "2x": "/exonetik/assets-prod/_588x773_crop_center-center_none/AlexStJean_2026-03-18-184107_bqoq.jpg",
+                "3x": "/exonetik/assets-prod/AlexStJean_2026-03-18-184107_bqoq.jpg",
+                "srcset": "/exonetik/assets-prod/_294x387_crop_center-center_none/AlexStJean_2026-03-18-184107_bqoq.jpg 1x, /exonetik/assets-prod/_588x773_crop_center-center_none/AlexStJean_2026-03-18-184107_bqoq.jpg 2x, /exonetik/assets-prod/AlexStJean_2026-03-18-184107_bqoq.jpg 3x",
+                "original": "/exonetik/assets-prod/AlexStJean_2026-03-18-184107_bqoq.jpg",
                 "width": "1175",
                 "height": "1546"
             },
             "portrait": {
-                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_294x387_crop_center-center_none/AlexStJean_2026-03-18-184107_bqoq.jpg",
-                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_588x773_crop_center-center_none/AlexStJean_2026-03-18-184107_bqoq.jpg",
-                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/AlexStJean_2026-03-18-184107_bqoq.jpg",
-                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_294x387_crop_center-center_none/AlexStJean_2026-03-18-184107_bqoq.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_588x773_crop_center-center_none/AlexStJean_2026-03-18-184107_bqoq.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/AlexStJean_2026-03-18-184107_bqoq.jpg 3x",
-                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/AlexStJean_2026-03-18-184107_bqoq.jpg",
+                "1x": "/exonetik/assets-prod/_294x387_crop_center-center_none/AlexStJean_2026-03-18-184107_bqoq.jpg",
+                "2x": "/exonetik/assets-prod/_588x773_crop_center-center_none/AlexStJean_2026-03-18-184107_bqoq.jpg",
+                "3x": "/exonetik/assets-prod/AlexStJean_2026-03-18-184107_bqoq.jpg",
+                "srcset": "/exonetik/assets-prod/_294x387_crop_center-center_none/AlexStJean_2026-03-18-184107_bqoq.jpg 1x, /exonetik/assets-prod/_588x773_crop_center-center_none/AlexStJean_2026-03-18-184107_bqoq.jpg 2x, /exonetik/assets-prod/AlexStJean_2026-03-18-184107_bqoq.jpg 3x",
+                "original": "/exonetik/assets-prod/AlexStJean_2026-03-18-184107_bqoq.jpg",
                 "width": "1175",
                 "height": "1546"
             }

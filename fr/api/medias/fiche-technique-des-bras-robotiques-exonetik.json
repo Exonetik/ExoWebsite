@@ -3,24 +3,24 @@
         "title": "Fiche technique des bras robotiques Exonetik",
         "url": "/fr/medias/fiche-technique-des-bras-robotiques-exonetik",
         "shortDescription": null,
-        "banner": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/Exonetik-robotic-arms.jpg",
+        "banner": "/exonetik/assets-prod/assets/Exonetik-robotic-arms.jpg",
         "content": [
             {
                 "type": "text",
                 "sectionTitle": "Télécharger la fiche technique ici:",
-                "text": "<h1><a href=\"https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Exonetik-robotic-arms-datasheet-ID-48840.pdf\">https://s3.us-east-2.amazonaws...</a></h1>"
+                "text": "<h1><a href=\"/exonetik/assets-prod/Exonetik-robotic-arms-datasheet-ID-48840.pdf\">https://s3.us-east-2.amazonaws...</a></h1>"
             },
             {
                 "type": "image",
-                "image": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/success-stories/Slide1.JPG"
+                "image": "/exonetik/assets-prod/success-stories/Slide1.JPG"
             },
             {
                 "type": "image",
-                "image": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/success-stories/Slide2.JPG"
+                "image": "/exonetik/assets-prod/success-stories/Slide2.JPG"
             },
             {
                 "type": "image",
-                "image": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/success-stories/Slide3.JPG"
+                "image": "/exonetik/assets-prod/success-stories/Slide3.JPG"
             }
         ],
         "nextMedia": {
@@ -29,11 +29,11 @@
             "slug": "politique-qualite",
             "url": "/fr/medias/politique-qualite",
             "banner": {
-                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_87x67_crop_center-center_none/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg",
-                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_173x133_crop_center-center_none/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg",
-                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg",
-                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_87x67_crop_center-center_none/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_173x133_crop_center-center_none/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg 3x",
-                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg",
+                "1x": "/exonetik/assets-prod/assets/_87x67_crop_center-center_none/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg",
+                "2x": "/exonetik/assets-prod/assets/_173x133_crop_center-center_none/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg",
+                "3x": "/exonetik/assets-prod/assets/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg",
+                "srcset": "/exonetik/assets-prod/assets/_87x67_crop_center-center_none/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg 1x, /exonetik/assets-prod/assets/_173x133_crop_center-center_none/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg 2x, /exonetik/assets-prod/assets/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg 3x",
+                "original": "/exonetik/assets-prod/assets/Thumb_mark-of-trust-certified-ISO-9001-quality-management-systems-black-logo-En-GB-1019-Copy_2024-10-28-144819_ettk.jpg",
                 "width": "346",
                 "height": "266"
             }

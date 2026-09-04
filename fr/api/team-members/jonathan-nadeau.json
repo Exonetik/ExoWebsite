@@ -4,20 +4,20 @@
         "title": "Ingénieur de tests",
         "photo": {
             "landscape": {
-                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1037x692_crop_center-center_none/Jerôme-Marchand_2021-02-12-185449.jpg",
-                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_2075x1384_crop_center-center_none/Jerôme-Marchand_2021-02-12-185449.jpg",
-                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Jerôme-Marchand_2021-02-12-185449.jpg",
-                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1037x692_crop_center-center_none/Jerôme-Marchand_2021-02-12-185449.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_2075x1384_crop_center-center_none/Jerôme-Marchand_2021-02-12-185449.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Jerôme-Marchand_2021-02-12-185449.jpg 3x",
-                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/Jerôme-Marchand_2021-02-12-185449.jpg",
+                "1x": "/exonetik/assets-prod/_1037x692_crop_center-center_none/Jerôme-Marchand_2021-02-12-185449.jpg",
+                "2x": "/exonetik/assets-prod/_2075x1384_crop_center-center_none/Jerôme-Marchand_2021-02-12-185449.jpg",
+                "3x": "/exonetik/assets-prod/Jerôme-Marchand_2021-02-12-185449.jpg",
+                "srcset": "/exonetik/assets-prod/_1037x692_crop_center-center_none/Jerôme-Marchand_2021-02-12-185449.jpg 1x, /exonetik/assets-prod/_2075x1384_crop_center-center_none/Jerôme-Marchand_2021-02-12-185449.jpg 2x, /exonetik/assets-prod/Jerôme-Marchand_2021-02-12-185449.jpg 3x",
+                "original": "/exonetik/assets-prod/Jerôme-Marchand_2021-02-12-185449.jpg",
                 "width": "4149",
                 "height": "2767"
             },
             "portrait": {
-                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x576_crop_center-center_none/JM-popup@3x-compressed_2021-02-12-185432.jpg",
-                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x1152_crop_center-center_none/JM-popup@3x-compressed_2021-02-12-185432.jpg",
-                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/JM-popup@3x-compressed_2021-02-12-185432.jpg",
-                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x576_crop_center-center_none/JM-popup@3x-compressed_2021-02-12-185432.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x1152_crop_center-center_none/JM-popup@3x-compressed_2021-02-12-185432.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/JM-popup@3x-compressed_2021-02-12-185432.jpg 3x",
-                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/JM-popup@3x-compressed_2021-02-12-185432.jpg",
+                "1x": "/exonetik/assets-prod/_512x576_crop_center-center_none/JM-popup@3x-compressed_2021-02-12-185432.jpg",
+                "2x": "/exonetik/assets-prod/_1025x1152_crop_center-center_none/JM-popup@3x-compressed_2021-02-12-185432.jpg",
+                "3x": "/exonetik/assets-prod/JM-popup@3x-compressed_2021-02-12-185432.jpg",
+                "srcset": "/exonetik/assets-prod/_512x576_crop_center-center_none/JM-popup@3x-compressed_2021-02-12-185432.jpg 1x, /exonetik/assets-prod/_1025x1152_crop_center-center_none/JM-popup@3x-compressed_2021-02-12-185432.jpg 2x, /exonetik/assets-prod/JM-popup@3x-compressed_2021-02-12-185432.jpg 3x",
+                "original": "/exonetik/assets-prod/JM-popup@3x-compressed_2021-02-12-185432.jpg",
                 "width": "2049",
                 "height": "2304"
             }

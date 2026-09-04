@@ -4,11 +4,11 @@
             "title": "Together at Exonetik",
             "description": "<p>We believe that our people are the key to our success. Our team is composed of highly talented experts who thrive on the challenges provided by our innovative high tech work environment.</p>",
             "banner": {
-                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_856x383_crop_center-center_none/PageCareer-Together-Haut@3x-compressed.jpg",
-                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_1712x767_crop_center-center_none/PageCareer-Together-Haut@3x-compressed.jpg",
-                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/PageCareer-Together-Haut@3x-compressed.jpg",
-                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_856x383_crop_center-center_none/PageCareer-Together-Haut@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_1712x767_crop_center-center_none/PageCareer-Together-Haut@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/PageCareer-Together-Haut@3x-compressed.jpg 3x",
-                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/PageCareer-Together-Haut@3x-compressed.jpg",
+                "1x": "/exonetik/assets-prod/assets/_856x383_crop_center-center_none/PageCareer-Together-Haut@3x-compressed.jpg",
+                "2x": "/exonetik/assets-prod/assets/_1712x767_crop_center-center_none/PageCareer-Together-Haut@3x-compressed.jpg",
+                "3x": "/exonetik/assets-prod/assets/PageCareer-Together-Haut@3x-compressed.jpg",
+                "srcset": "/exonetik/assets-prod/assets/_856x383_crop_center-center_none/PageCareer-Together-Haut@3x-compressed.jpg 1x, /exonetik/assets-prod/assets/_1712x767_crop_center-center_none/PageCareer-Together-Haut@3x-compressed.jpg 2x, /exonetik/assets-prod/assets/PageCareer-Together-Haut@3x-compressed.jpg 3x",
+                "original": "/exonetik/assets-prod/assets/PageCareer-Together-Haut@3x-compressed.jpg",
                 "width": "3423",
                 "height": "1533"
             },
@@ -21,20 +21,20 @@
             "description": "Learning new things and solving challenges is in our DNA. We like to “get off the beaten track” to propose ingenious solutions. In our team, everyone helps one another to perform at their best to create exceptional products that will empower people trough greater human/machine interaction.",
             "images": [
                 {
-                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x377_crop_center-center_none/PageCareer-Together-Milieu@3x-compressed_2021-02-11-143349.jpg",
-                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x755_crop_center-center_none/PageCareer-Together-Milieu@3x-compressed_2021-02-11-143349.jpg",
-                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-Together-Milieu@3x-compressed_2021-02-11-143349.jpg",
-                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x377_crop_center-center_none/PageCareer-Together-Milieu@3x-compressed_2021-02-11-143349.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x755_crop_center-center_none/PageCareer-Together-Milieu@3x-compressed_2021-02-11-143349.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-Together-Milieu@3x-compressed_2021-02-11-143349.jpg 3x",
-                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-Together-Milieu@3x-compressed_2021-02-11-143349.jpg",
+                    "1x": "/exonetik/assets-prod/_512x377_crop_center-center_none/PageCareer-Together-Milieu@3x-compressed_2021-02-11-143349.jpg",
+                    "2x": "/exonetik/assets-prod/_1025x755_crop_center-center_none/PageCareer-Together-Milieu@3x-compressed_2021-02-11-143349.jpg",
+                    "3x": "/exonetik/assets-prod/PageCareer-Together-Milieu@3x-compressed_2021-02-11-143349.jpg",
+                    "srcset": "/exonetik/assets-prod/_512x377_crop_center-center_none/PageCareer-Together-Milieu@3x-compressed_2021-02-11-143349.jpg 1x, /exonetik/assets-prod/_1025x755_crop_center-center_none/PageCareer-Together-Milieu@3x-compressed_2021-02-11-143349.jpg 2x, /exonetik/assets-prod/PageCareer-Together-Milieu@3x-compressed_2021-02-11-143349.jpg 3x",
+                    "original": "/exonetik/assets-prod/PageCareer-Together-Milieu@3x-compressed_2021-02-11-143349.jpg",
                     "width": "2049",
                     "height": "1509"
                 },
                 {
-                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x437_crop_center-center_none/PageCareer-Together-Bas@3x-compressed_2021-02-11-143706.jpg",
-                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x875_crop_center-center_none/PageCareer-Together-Bas@3x-compressed_2021-02-11-143706.jpg",
-                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-Together-Bas@3x-compressed_2021-02-11-143706.jpg",
-                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x437_crop_center-center_none/PageCareer-Together-Bas@3x-compressed_2021-02-11-143706.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x875_crop_center-center_none/PageCareer-Together-Bas@3x-compressed_2021-02-11-143706.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-Together-Bas@3x-compressed_2021-02-11-143706.jpg 3x",
-                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-Together-Bas@3x-compressed_2021-02-11-143706.jpg",
+                    "1x": "/exonetik/assets-prod/_512x437_crop_center-center_none/PageCareer-Together-Bas@3x-compressed_2021-02-11-143706.jpg",
+                    "2x": "/exonetik/assets-prod/_1025x875_crop_center-center_none/PageCareer-Together-Bas@3x-compressed_2021-02-11-143706.jpg",
+                    "3x": "/exonetik/assets-prod/PageCareer-Together-Bas@3x-compressed_2021-02-11-143706.jpg",
+                    "srcset": "/exonetik/assets-prod/_512x437_crop_center-center_none/PageCareer-Together-Bas@3x-compressed_2021-02-11-143706.jpg 1x, /exonetik/assets-prod/_1025x875_crop_center-center_none/PageCareer-Together-Bas@3x-compressed_2021-02-11-143706.jpg 2x, /exonetik/assets-prod/PageCareer-Together-Bas@3x-compressed_2021-02-11-143706.jpg 3x",
+                    "original": "/exonetik/assets-prod/PageCareer-Together-Bas@3x-compressed_2021-02-11-143706.jpg",
                     "width": "2049",
                     "height": "1749"
                 }
@@ -117,11 +117,11 @@
         "spontanousApplication": {
             "title": "Don't see your dream job? Be spontanous, send us your resume!",
             "banner": {
-                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x375_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg",
-                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_2049x750_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg",
-                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-SpontaneousApplication@3x-compressed.jpg",
-                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x375_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_2049x750_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-SpontaneousApplication@3x-compressed.jpg 3x",
-                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-SpontaneousApplication@3x-compressed.jpg",
+                "1x": "/exonetik/assets-prod/_1025x375_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg",
+                "2x": "/exonetik/assets-prod/_2049x750_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg",
+                "3x": "/exonetik/assets-prod/PageCareer-SpontaneousApplication@3x-compressed.jpg",
+                "srcset": "/exonetik/assets-prod/_1025x375_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg 1x, /exonetik/assets-prod/_2049x750_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg 2x, /exonetik/assets-prod/PageCareer-SpontaneousApplication@3x-compressed.jpg 3x",
+                "original": "/exonetik/assets-prod/PageCareer-SpontaneousApplication@3x-compressed.jpg",
                 "width": "4098",
                 "height": "1500"
             },
@@ -135,8 +135,8 @@
             "content": {
                 "description": "<p>We all love tech at Exonetik. We talk about it. We are passionate about it. We are definitely in the geek category. If that is something you can relate to, get in touch or have a look at our Instagram to learn a bit more about our passion for tech.</p>",
                 "images": [
-                    "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/career-photo-lovetech-gauche@3x-compressed_2021-01-25-204835.jpg",
-                    "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-WeLoveTech-Droite@3x-compressed.jpg"
+                    "/exonetik/assets-prod/career-photo-lovetech-gauche@3x-compressed_2021-01-25-204835.jpg",
+                    "/exonetik/assets-prod/PageCareer-WeLoveTech-Droite@3x-compressed.jpg"
                 ]
             },
             "link": {

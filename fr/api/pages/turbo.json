@@ -13,11 +13,11 @@
                 "contentPosition": "left",
                 "content": "<p>Même si les turbines commerciales de pointe dans la gamme des sous-mégawatt sont plus fiables et nécessitent moins d’entretien que les moteurs diesel, elles sont actuellement limitées à une efficacité de 38%, ce qui est sous la marque des 45% d’efficacité des moteurs diesel. La seule façon d’atteindre une efficacité plus élevée que celle des moteurs diesel est d’augmenter la température d’entrée de turbine en remplaçant les pales de métal par des pales en céramique.</p>\n<p>L’architecture novatrice brevetée de la turbine d’Exonetik prévoit le remplacement des pales standard en métal par des pales de céramique résistantes aux dommages externes et aux hautes températures et ayant le potentiel d’atteindre une efficacité thermale de 50% et une densité de puissance de 5kW/kg.<br /></p>",
                 "image": {
-                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x437_crop_center-center_none/turbo-gauche@3x-compressed.jpg",
-                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x875_crop_center-center_none/turbo-gauche@3x-compressed.jpg",
-                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/turbo-gauche@3x-compressed.jpg",
-                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x437_crop_center-center_none/turbo-gauche@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x875_crop_center-center_none/turbo-gauche@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/turbo-gauche@3x-compressed.jpg 3x",
-                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/turbo-gauche@3x-compressed.jpg",
+                    "1x": "/exonetik/assets-prod/_512x437_crop_center-center_none/turbo-gauche@3x-compressed.jpg",
+                    "2x": "/exonetik/assets-prod/_1025x875_crop_center-center_none/turbo-gauche@3x-compressed.jpg",
+                    "3x": "/exonetik/assets-prod/turbo-gauche@3x-compressed.jpg",
+                    "srcset": "/exonetik/assets-prod/_512x437_crop_center-center_none/turbo-gauche@3x-compressed.jpg 1x, /exonetik/assets-prod/_1025x875_crop_center-center_none/turbo-gauche@3x-compressed.jpg 2x, /exonetik/assets-prod/turbo-gauche@3x-compressed.jpg 3x",
+                    "original": "/exonetik/assets-prod/turbo-gauche@3x-compressed.jpg",
                     "width": "2049",
                     "height": "1749"
                 }
@@ -26,11 +26,11 @@
                 "contentPosition": "right",
                 "content": "<p>La technologie d'Exonetik Turbo permet une diminution de la consommation de carburant et donc d'émissions de CO2. Exonetik Turbo developpe actuellement la turbine en partenariat avec Recherche et développement pour la défense Canada (RDDC).</p>",
                 "image": {
-                    "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x377_crop_center-center_none/turbo-droite@3x-compressed_2021-01-25-205518.jpg",
-                    "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x755_crop_center-center_none/turbo-droite@3x-compressed_2021-01-25-205518.jpg",
-                    "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/turbo-droite@3x-compressed_2021-01-25-205518.jpg",
-                    "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x377_crop_center-center_none/turbo-droite@3x-compressed_2021-01-25-205518.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x755_crop_center-center_none/turbo-droite@3x-compressed_2021-01-25-205518.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/turbo-droite@3x-compressed_2021-01-25-205518.jpg 3x",
-                    "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/turbo-droite@3x-compressed_2021-01-25-205518.jpg",
+                    "1x": "/exonetik/assets-prod/_512x377_crop_center-center_none/turbo-droite@3x-compressed_2021-01-25-205518.jpg",
+                    "2x": "/exonetik/assets-prod/_1025x755_crop_center-center_none/turbo-droite@3x-compressed_2021-01-25-205518.jpg",
+                    "3x": "/exonetik/assets-prod/turbo-droite@3x-compressed_2021-01-25-205518.jpg",
+                    "srcset": "/exonetik/assets-prod/_512x377_crop_center-center_none/turbo-droite@3x-compressed_2021-01-25-205518.jpg 1x, /exonetik/assets-prod/_1025x755_crop_center-center_none/turbo-droite@3x-compressed_2021-01-25-205518.jpg 2x, /exonetik/assets-prod/turbo-droite@3x-compressed_2021-01-25-205518.jpg 3x",
+                    "original": "/exonetik/assets-prod/turbo-droite@3x-compressed_2021-01-25-205518.jpg",
                     "width": "2049",
                     "height": "1509"
                 }

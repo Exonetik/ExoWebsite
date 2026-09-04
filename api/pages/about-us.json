@@ -4,11 +4,11 @@
             "title": "About us",
             "description": "<p>We design, develop and manufacture magnetorheological actuators based on our scientific research. Our mission is to empower people trough greater human/machine interaction.<br /></p>\n<ul><li><br /></li>\n\n</ul>\n<p> </p>\n<p>By integrating our scientific expertise with our passion for innovation, we are committed to ensuring our customers' satisfaction through unrivalled collaboration, and to offering them unique opportunities to stand out in the marketplace thanks to our exceptional technology<br /></p>\n<ul><li><br /></li>\n\n</ul>\n<p> </p>\n<p><strong>To achieve our goals and deliver on our commitments, Exonetik's approach is to :</strong><br /></p>\n<ul><li><br /></li></ul>\n<p>- Implementing rigorous, efficient and constantly improving quality management processes and systems.<br /><br />- Comply with all applicable laws and regulations.<br /><br />- Maintain a safe and healthy working environment for our employees.<br /><br />- Communicate openly and honestly with all our stakeholders, including employees, customers and suppliers.<br /><br /><br /></p>",
             "banner": {
-                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_513x493_crop_center-center_none/PageAbout-About-Droite@3x-compressed.jpg",
-                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_1026x986_crop_center-center_none/PageAbout-About-Droite@3x-compressed.jpg",
-                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/PageAbout-About-Droite@3x-compressed.jpg",
-                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_513x493_crop_center-center_none/PageAbout-About-Droite@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/_1026x986_crop_center-center_none/PageAbout-About-Droite@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/PageAbout-About-Droite@3x-compressed.jpg 3x",
-                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/assets/PageAbout-About-Droite@3x-compressed.jpg",
+                "1x": "/exonetik/assets-prod/assets/_513x493_crop_center-center_none/PageAbout-About-Droite@3x-compressed.jpg",
+                "2x": "/exonetik/assets-prod/assets/_1026x986_crop_center-center_none/PageAbout-About-Droite@3x-compressed.jpg",
+                "3x": "/exonetik/assets-prod/assets/PageAbout-About-Droite@3x-compressed.jpg",
+                "srcset": "/exonetik/assets-prod/assets/_513x493_crop_center-center_none/PageAbout-About-Droite@3x-compressed.jpg 1x, /exonetik/assets-prod/assets/_1026x986_crop_center-center_none/PageAbout-About-Droite@3x-compressed.jpg 2x, /exonetik/assets-prod/assets/PageAbout-About-Droite@3x-compressed.jpg 3x",
+                "original": "/exonetik/assets-prod/assets/PageAbout-About-Droite@3x-compressed.jpg",
                 "width": "2052",
                 "height": "1971"
             }
@@ -17,37 +17,37 @@
             "title": "Key facts",
             "slides": [
                 {
-                    "icon": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/icon-keyfact-01.svg",
+                    "icon": "/exonetik/assets-prod/icon-keyfact-01.svg",
                     "title": "Founded in 2013 in Sherbrooke, Québec, Canada",
                     "description": "Exonetik is a Spin-off from the Université de Sherbrooke, where Jean-Sebastien Plante developped the MR technology with his team."
                 },
                 {
-                    "icon": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/icon-keyfact-02.svg",
+                    "icon": "/exonetik/assets-prod/icon-keyfact-02.svg",
                     "title": "+ 25 patents",
                     "description": "25 patent families protected in USA, Canada, UK, Germany, France, China and India."
                 },
                 {
-                    "icon": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/icon-keyfact-03.svg",
+                    "icon": "/exonetik/assets-prod/icon-keyfact-03.svg",
                     "title": "9 Development Partnerships with international companies",
                     "description": "We work with international partners to develop and improve their applications and create more powerful interactions for the end-user"
                 },
                 {
-                    "icon": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/icon-keyfact-04.svg",
+                    "icon": "/exonetik/assets-prod/icon-keyfact-04.svg",
                     "title": "Highly skilled Team of nearly 30 employees",
                     "description": "More than 50 pct of our team has at least a graduate degree (Master's degree)."
                 },
                 {
-                    "icon": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/icon-keyfact-05.svg",
+                    "icon": "/exonetik/assets-prod/icon-keyfact-05.svg",
                     "title": "90 pct of the Team has an Engineering background",
                     "description": "Our team is composed of mechanical, electronics, software and test engineers."
                 },
                 {
-                    "icon": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/icon-keyfact-06.svg",
+                    "icon": "/exonetik/assets-prod/icon-keyfact-06.svg",
                     "title": "We start the manufacturing of our first product in 2021",
                     "description": "We start the production of our first product in the summer of 2021 in our facilities in Sherbrooke."
                 },
                 {
-                    "icon": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/icon-keyfact-07.svg",
+                    "icon": "/exonetik/assets-prod/icon-keyfact-07.svg",
                     "title": "Exonetik is a Bootstrap company",
                     "description": "So far Exonetik has not seeked any outside investments."
                 }
@@ -69,11 +69,11 @@
                     "position": "right",
                     "size": "small",
                     "photo": {
-                        "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_171x224_crop_center-center_none/PageAbout-Team-Droite@3x-compressed.jpg",
-                        "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_342x449_crop_center-center_none/PageAbout-Team-Droite@3x-compressed.jpg",
-                        "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageAbout-Team-Droite@3x-compressed.jpg",
-                        "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_171x224_crop_center-center_none/PageAbout-Team-Droite@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_342x449_crop_center-center_none/PageAbout-Team-Droite@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageAbout-Team-Droite@3x-compressed.jpg 3x",
-                        "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageAbout-Team-Droite@3x-compressed.jpg",
+                        "1x": "/exonetik/assets-prod/_171x224_crop_center-center_none/PageAbout-Team-Droite@3x-compressed.jpg",
+                        "2x": "/exonetik/assets-prod/_342x449_crop_center-center_none/PageAbout-Team-Droite@3x-compressed.jpg",
+                        "3x": "/exonetik/assets-prod/PageAbout-Team-Droite@3x-compressed.jpg",
+                        "srcset": "/exonetik/assets-prod/_171x224_crop_center-center_none/PageAbout-Team-Droite@3x-compressed.jpg 1x, /exonetik/assets-prod/_342x449_crop_center-center_none/PageAbout-Team-Droite@3x-compressed.jpg 2x, /exonetik/assets-prod/PageAbout-Team-Droite@3x-compressed.jpg 3x",
+                        "original": "/exonetik/assets-prod/PageAbout-Team-Droite@3x-compressed.jpg",
                         "width": "684",
                         "height": "897"
                     }
@@ -83,11 +83,11 @@
                     "position": "left",
                     "size": "large",
                     "photo": {
-                        "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x377_crop_center-center_none/PageAbout-Team-Gauche@3x-compressed.jpg",
-                        "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x755_crop_center-center_none/PageAbout-Team-Gauche@3x-compressed.jpg",
-                        "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageAbout-Team-Gauche@3x-compressed.jpg",
-                        "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_512x377_crop_center-center_none/PageAbout-Team-Gauche@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x755_crop_center-center_none/PageAbout-Team-Gauche@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageAbout-Team-Gauche@3x-compressed.jpg 3x",
-                        "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageAbout-Team-Gauche@3x-compressed.jpg",
+                        "1x": "/exonetik/assets-prod/_512x377_crop_center-center_none/PageAbout-Team-Gauche@3x-compressed.jpg",
+                        "2x": "/exonetik/assets-prod/_1025x755_crop_center-center_none/PageAbout-Team-Gauche@3x-compressed.jpg",
+                        "3x": "/exonetik/assets-prod/PageAbout-Team-Gauche@3x-compressed.jpg",
+                        "srcset": "/exonetik/assets-prod/_512x377_crop_center-center_none/PageAbout-Team-Gauche@3x-compressed.jpg 1x, /exonetik/assets-prod/_1025x755_crop_center-center_none/PageAbout-Team-Gauche@3x-compressed.jpg 2x, /exonetik/assets-prod/PageAbout-Team-Gauche@3x-compressed.jpg 3x",
+                        "original": "/exonetik/assets-prod/PageAbout-Team-Gauche@3x-compressed.jpg",
                         "width": "2049",
                         "height": "1509"
                     }

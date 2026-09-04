@@ -39,11 +39,11 @@
         "spontanousApplication": {
             "title": "Don't see your dream job? Be spontanous, send us your resume!",
             "banner": {
-                "1x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x375_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg",
-                "2x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_2049x750_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg",
-                "3x": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-SpontaneousApplication@3x-compressed.jpg",
-                "srcset": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_1025x375_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg 1x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/_2049x750_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg 2x, https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-SpontaneousApplication@3x-compressed.jpg 3x",
-                "original": "https://s3.us-east-2.amazonaws.com/exonetik/assets-prod/PageCareer-SpontaneousApplication@3x-compressed.jpg",
+                "1x": "/exonetik/assets-prod/_1025x375_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg",
+                "2x": "/exonetik/assets-prod/_2049x750_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg",
+                "3x": "/exonetik/assets-prod/PageCareer-SpontaneousApplication@3x-compressed.jpg",
+                "srcset": "/exonetik/assets-prod/_1025x375_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg 1x, /exonetik/assets-prod/_2049x750_crop_center-center_none/PageCareer-SpontaneousApplication@3x-compressed.jpg 2x, /exonetik/assets-prod/PageCareer-SpontaneousApplication@3x-compressed.jpg 3x",
+                "original": "/exonetik/assets-prod/PageCareer-SpontaneousApplication@3x-compressed.jpg",
                 "width": "4098",
                 "height": "1500"
             },
