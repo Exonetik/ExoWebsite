@@ -16,24 +16,6 @@
                 "location": "Sherbrooke",
                 "type": "Permanent",
                 "slug": "systems-test-validation-specialist"
-            },
-            {
-                "title": "Ingénieur(e) en simulation et contrôle (Volet robotique)",
-                "url": "/careers/ingenieure-en-simulation-et-controle-volet-robotique",
-                "jsonUrl": "https://www.exonetik.com/api/careers/7087.json",
-                "publicationDate": 1773943920,
-                "location": "Sherbrooke",
-                "type": "Permanent",
-                "slug": "ingenieure-en-simulation-et-controle-volet-robotique"
-            },
-            {
-                "title": "Ingénieur(e) mécanique en conception de systèmes robotiques",
-                "url": "/careers/ingenieur-e-mecanique-en-conception-de-systemes-robotiques",
-                "jsonUrl": "https://www.exonetik.com/api/careers/7068.json",
-                "publicationDate": 1773943320,
-                "location": "Sherbrooke",
-                "type": "Permanent",
-                "slug": "ingenieur-e-mecanique-en-conception-de-systemes-robotiques"
             }
         ],
         "spontanousApplication": {

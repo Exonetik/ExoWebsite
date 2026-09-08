@@ -89,24 +89,6 @@
                 "location": "Sherbrooke (Qc)",
                 "type": "Permanent",
                 "slug": "gestionnaire-de-produits-robotique-product-manager-robotics"
-            },
-            {
-                "title": "Ingénieur(e) en simulation et contrôle (Volet robotique)",
-                "url": "/careers/ingenieure-en-simulation-et-controle-volet-robotique",
-                "jsonUrl": "https://www.exonetik.com/api/pages/careers/ingenieure-en-simulation-et-controle-volet-robotique.json",
-                "publicationDate": 1773943920,
-                "location": "Sherbrooke",
-                "type": "Permanent",
-                "slug": "ingenieure-en-simulation-et-controle-volet-robotique"
-            },
-            {
-                "title": "Ingénieur(e) mécanique en conception de systèmes robotiques",
-                "url": "/careers/ingenieur-e-mecanique-en-conception-de-systemes-robotiques",
-                "jsonUrl": "https://www.exonetik.com/api/pages/careers/ingenieur-e-mecanique-en-conception-de-systemes-robotiques.json",
-                "publicationDate": 1773943320,
-                "location": "Sherbrooke",
-                "type": "Permanent",
-                "slug": "ingenieur-e-mecanique-en-conception-de-systemes-robotiques"
             }
         ],
         "spontanousApplication": {
