@@ -73,15 +73,6 @@
         "availableJobsTitle": "Opportunités d'emploi",
         "availableJobs": [
             {
-                "title": "Spécialiste en essais et validation de systèmes",
-                "url": "/fr/carrieres/specialiste-en-essais-et-validation-de-systemes",
-                "jsonUrl": "https://www.exonetik.com/fr/api/pages/careers/specialiste-en-essais-et-validation-de-systemes.json",
-                "publicationDate": 1787602320,
-                "location": "Sherbrooke",
-                "type": "Permanent",
-                "slug": "specialiste-en-essais-et-validation-de-systemes"
-            },
-            {
                 "title": "Gestionnaire de produits – Robotique (Product Manager – Robotics)",
                 "url": "/fr/carrieres/gestionnaire-de-produits-robotique-product-manager-robotics",
                 "jsonUrl": "https://www.exonetik.com/fr/api/pages/careers/gestionnaire-de-produits-robotique-product-manager-robotics.json",
