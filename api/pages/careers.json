@@ -73,6 +73,15 @@
         "availableJobsTitle": "Job Opportunities",
         "availableJobs": [
             {
+                "title": "Electrical & Electronics Integration Engineer",
+                "url": "/careers/electrical-electronics-integration-engineer",
+                "jsonUrl": "https://www.exonetik.com/api/pages/careers/electrical-electronics-integration-engineer.json",
+                "publicationDate": 1791216000,
+                "location": "Sherbrooke",
+                "type": "Permanent",
+                "slug": "electrical-electronics-integration-engineer"
+            },
+            {
                 "title": "Product Manager – Robotics",
                 "url": "/careers/gestionnaire-de-produits-robotique-product-manager-robotics",
                 "jsonUrl": "https://www.exonetik.com/api/pages/careers/gestionnaire-de-produits-robotique-product-manager-robotics.json",

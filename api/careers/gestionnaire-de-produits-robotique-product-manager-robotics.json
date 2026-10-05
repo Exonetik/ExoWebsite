@@ -7,7 +7,17 @@
         "type": "Permanent",
         "description": "<p><strong>Your mission</strong></p>\nIn your role, you will be the link between customers, the market, and our engineering teams in order to define the right product, for the right market segments, with the right priorities.<br />\n<br />\n<p>You will combine strategic analysis, team collaboration, and a hands-on presence in the field to understand customer needs and market opportunities, then translate them into a clear and inspiring product vision.</p>\nYour decisions will determine more than the product’s success: they will shape the company’s strategic direction.<br />\n<br />\n<p><strong>You will contribute to:</strong></p>\n- Defining the product vision and strategy from the ground up.<br />\n- Analyzing and understanding markets, segments, use cases, and competitors.<br />\n- Developing the value proposition and positioning.<br />\n- Defining and supporting go-to-market plans and product launches.<br />\n- Supporting complex B2B sales cycles.<br />\n- Working closely with our engineering teams.<br />\n<br />\n<p><strong>You are probably the right person if...</strong></p>\n<p>- You like building rather than maintaining. Ambiguity does not paralyze you; it energizes you.<br />\n- You are curious and enjoy learning directly from customers.<br />\n- You turn ambiguity into strategy without waiting for someone to give you a framework.<br />\n- You do not need a large team to make an impact.<br />\n- You have significant experience (7 to 10 years) in product or commercial strategy in a B2B technology environment. Whether that comes from a business/marketing degree, an engineering background, or a more atypical path does not matter.<br />\n- You are available for regular in-office presence and customer visits.</p>\n<br />\n<p><strong>Why Exonetik?</strong></p>\n<p>Exonetik has a unique, patented technology and the ambition to transform an industry. What is missing now is the person who will bridge this technology and its market.</p>\nYou will not be joining to optimize a mature product. You will define what it becomes and see your decisions translate directly into the company’s strategic direction.<br />\n<br />\n<p>At Exonetik, you will have the freedom to propose, the responsibility to decide, and the satisfaction of seeing your ideas come to life.</p>\nDoes this opportunity speak to you? We would like to meet you.<br />\n<br />\n<br />\nSend your resume to <a href=\"mailto:hr@exonetik.com\">hr@exonetik.com</a><br />\n<br />\n<br />\n",
         "availableJobsTitle": "Job Opportunities",
-        "availableJobs": [],
+        "availableJobs": [
+            {
+                "title": "Electrical & Electronics Integration Engineer",
+                "url": "/careers/electrical-electronics-integration-engineer",
+                "jsonUrl": "https://www.exonetik.com/api/pages/careers/electrical-electronics-integration-engineer.json",
+                "publicationDate": 1791216000,
+                "location": "Sherbrooke",
+                "type": "Permanent",
+                "slug": "electrical-electronics-integration-engineer"
+            }
+        ],
         "spontanousApplication": {
             "title": "Don't see your dream job? Be spontanous, send us your resume!",
             "banner": {
