@@ -285,7 +285,9 @@
         "titleRaw": {
             "1": "High Dynamic MR Actuators"
         },
-        "descriptionRaw": "Exonetik designs, develops and manufactures custom-made magnetorheological actuators that enable novel functionalities.",
+        "descriptionRaw": {
+            "1": "In today's world, people and machines work closely together. With our high dynamic MR actuators we create better performance and value for our clients."
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -305,7 +307,9 @@
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "High Dynamic MR Actuators",
+        "description": "In today's world, people and machines work closely together. With our high dynamic MR actuators we create better performance and value for our clients."
     },
     "urls": {
         "en": "/",

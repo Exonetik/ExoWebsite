@@ -38,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Benoît Picard"
+        },
+        "descriptionRaw": {
+            "1": "Passionné de motorisation, Benoit, en plus de son diplôme de maîtrise, possède une expérience variée allant de la conception, à la validation, à la…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "Benoît Picard - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Passionné de motorisation, Benoit, en plus de son diplôme de maîtrise, possède une expérience variée allant de la conception, à la validation, à la…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Benoît Picard - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Passionné de motorisation, Benoit, en plus de son diplôme de maîtrise, possède une expérience variée allant de la conception, à la validation, à la…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Benoît Picard",
+        "description": "Passionné de motorisation, Benoit, en plus de son diplôme de maîtrise, possède une expérience variée allant de la conception, à la validation, à la…"
     },
     "urls": {
         "en": "/about-us/benoit-picard",

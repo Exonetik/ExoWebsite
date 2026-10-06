@@ -41,7 +41,9 @@
         "titleRaw": {
             "1": "Mathieu Parent"
         },
-        "descriptionRaw": "",
+        "descriptionRaw": {
+            "1": "With a mechanical engineering background, Mathieu tests our products to verify their life expectancy and resistance to external elements as well as…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -49,19 +51,21 @@
                 "handle": "",
                 "title": "Mathieu Parent - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "With a mechanical engineering background, Mathieu tests our products to verify their life expectancy and resistance to external elements as well as…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Mathieu Parent - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "With a mechanical engineering background, Mathieu tests our products to verify their life expectancy and resistance to external elements as well as…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Mathieu Parent",
+        "description": "With a mechanical engineering background, Mathieu tests our products to verify their life expectancy and resistance to external elements as well as…"
     },
     "urls": {
         "en": "/about-us/mathieu-parent",

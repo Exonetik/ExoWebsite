@@ -38,8 +38,12 @@
         ]
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Turbo"
+        },
+        "descriptionRaw": {
+            "1": "Exonetik Turbo collabore avec plusieurs grands joueurs en vue de mettre en marché une turbine en céramique à haute efficacité pouvant remplacer les…"
+        },
         "keywords": [],
         "score": "neutral",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "Turbo - Exonetik (FR)",
                 "imageId": null,
-                "description": ""
+                "description": "Exonetik Turbo collabore avec plusieurs grands joueurs en vue de mettre en marché une turbine en céramique à haute efficacité pouvant remplacer les…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Turbo - Exonetik (FR)",
                 "imageId": null,
-                "description": ""
+                "description": "Exonetik Turbo collabore avec plusieurs grands joueurs en vue de mettre en marché une turbine en céramique à haute efficacité pouvant remplacer les…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": null
-        }
+        },
+        "title": "Turbo",
+        "description": "Exonetik Turbo collabore avec plusieurs grands joueurs en vue de mettre en marché une turbine en céramique à haute efficacité pouvant remplacer les…"
     },
     "urls": {
         "en": "/turbo",

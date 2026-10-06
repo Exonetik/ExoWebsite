@@ -3,7 +3,15 @@
         "name": "Luc Bordeleau",
         "title": "Responsable TI",
         "photo": {
-            "landscape": {},
+            "landscape": {
+                "1x": "/exonetik/assets-prod/_180x198_crop_center-center_none/LucBordeleau.jpg",
+                "2x": "/exonetik/assets-prod/_361x396_crop_center-center_none/LucBordeleau.jpg",
+                "3x": "/exonetik/assets-prod/LucBordeleau.jpg",
+                "srcset": "/exonetik/assets-prod/_180x198_crop_center-center_none/LucBordeleau.jpg 1x, /exonetik/assets-prod/_361x396_crop_center-center_none/LucBordeleau.jpg 2x, /exonetik/assets-prod/LucBordeleau.jpg 3x",
+                "original": "/exonetik/assets-prod/LucBordeleau.jpg",
+                "width": "721",
+                "height": "792"
+            },
             "portrait": {
                 "1x": "/exonetik/assets-prod/_180x198_crop_center-center_none/LucBordeleau.jpg",
                 "2x": "/exonetik/assets-prod/_361x396_crop_center-center_none/LucBordeleau.jpg",
@@ -30,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Luc Bordeleau"
+        },
+        "descriptionRaw": {
+            "1": "Luc Bordeleau, Responsable TI chez Exonetik."
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -39,19 +51,21 @@
                 "handle": "",
                 "title": "Luc Bordeleau - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Luc Bordeleau, Responsable TI chez Exonetik."
             },
             "facebook": {
                 "handle": "",
                 "title": "Luc Bordeleau - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Luc Bordeleau, Responsable TI chez Exonetik."
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Luc Bordeleau",
+        "description": "Luc Bordeleau, Responsable TI chez Exonetik."
     },
     "urls": {
         "en": "/about-us/luc-bordeleau",

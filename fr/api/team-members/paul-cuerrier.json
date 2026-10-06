@@ -38,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Paul Cuerrier"
+        },
+        "descriptionRaw": {
+            "1": "Paul se démarque par ses compétences en électronique. Il possède à la fois une expérience pratique et académique en développement de logiciel embarqué…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "Paul Cuerrier - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Paul se démarque par ses compétences en électronique. Il possède à la fois une expérience pratique et académique en développement de logiciel embarqué…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Paul Cuerrier - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Paul se démarque par ses compétences en électronique. Il possède à la fois une expérience pratique et académique en développement de logiciel embarqué…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Paul Cuerrier",
+        "description": "Paul se démarque par ses compétences en électronique. Il possède à la fois une expérience pratique et académique en développement de logiciel embarqué…"
     },
     "urls": {
         "en": "/about-us/paul-cuerrier",

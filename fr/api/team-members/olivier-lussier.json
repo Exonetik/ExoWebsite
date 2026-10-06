@@ -39,9 +39,11 @@
     },
     "seo": {
         "titleRaw": {
-            "1": "Olivier Lussier, "
+            "1": "Olivier Lussier,"
         },
-        "descriptionRaw": "",
+        "descriptionRaw": {
+            "1": "Olivier est un expert en systèmes mécaniques complexes faisant de lui une ressource d'exception pour tout ce qui touche l'assemblage mécaniques de nos…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -49,19 +51,21 @@
                 "handle": "",
                 "title": "Olivier Lussier, - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Olivier est un expert en systèmes mécaniques complexes faisant de lui une ressource d'exception pour tout ce qui touche l'assemblage mécaniques de nos…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Olivier Lussier, - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Olivier est un expert en systèmes mécaniques complexes faisant de lui une ressource d'exception pour tout ce qui touche l'assemblage mécaniques de nos…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Olivier Lussier,",
+        "description": "Olivier est un expert en systèmes mécaniques complexes faisant de lui une ressource d'exception pour tout ce qui touche l'assemblage mécaniques de nos…"
     },
     "urls": {
         "en": "/about-us/olivier-lussier",

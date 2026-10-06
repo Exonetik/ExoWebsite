@@ -41,7 +41,9 @@
         "titleRaw": {
             "1": "Mathieu Parent"
         },
-        "descriptionRaw": "",
+        "descriptionRaw": {
+            "1": "Avec un bagage en génie mécanique, Mathieu est en charge de valider nos produits en vue de comprendre leur résistance aux éléments extérieurs, mais…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -49,19 +51,21 @@
                 "handle": "",
                 "title": "Mathieu Parent - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Avec un bagage en génie mécanique, Mathieu est en charge de valider nos produits en vue de comprendre leur résistance aux éléments extérieurs, mais…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Mathieu Parent - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Avec un bagage en génie mécanique, Mathieu est en charge de valider nos produits en vue de comprendre leur résistance aux éléments extérieurs, mais…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Mathieu Parent",
+        "description": "Avec un bagage en génie mécanique, Mathieu est en charge de valider nos produits en vue de comprendre leur résistance aux éléments extérieurs, mais…"
     },
     "urls": {
         "en": "/about-us/mathieu-parent",

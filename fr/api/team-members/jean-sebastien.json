@@ -41,7 +41,9 @@
         "titleRaw": {
             "1": "Jean Sébastien"
         },
-        "descriptionRaw": "",
+        "descriptionRaw": {
+            "1": "Jean-Sébastien est un expert dans le domaine des fluides magnétorhéologiques, une expertise développée lors de ses études doctorales au MIT. En tant que…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -49,19 +51,21 @@
                 "handle": "",
                 "title": "Jean Sébastien - Exonetik (FR)",
                 "imageId": "",
-                "description": ""
+                "description": "Jean-Sébastien est un expert dans le domaine des fluides magnétorhéologiques, une expertise développée lors de ses études doctorales au MIT. En tant que…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Jean Sébastien - Exonetik (FR)",
                 "imageId": "",
-                "description": ""
+                "description": "Jean-Sébastien est un expert dans le domaine des fluides magnétorhéologiques, une expertise développée lors de ses études doctorales au MIT. En tant que…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Jean Sébastien",
+        "description": "Jean-Sébastien est un expert dans le domaine des fluides magnétorhéologiques, une expertise développée lors de ses études doctorales au MIT. En tant que…"
     },
     "urls": {
         "en": "/about-us/jean-sebastien-plante",

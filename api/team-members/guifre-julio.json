@@ -41,7 +41,9 @@
         "titleRaw": {
             "1": "Patrick Chouinard"
         },
-        "descriptionRaw": "",
+        "descriptionRaw": {
+            "1": "Guifré's experience in managing complex development projects in the aerospace industry is crucial for Exonetik to deliver reliable products that exceed…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -49,19 +51,21 @@
                 "handle": "",
                 "title": "Guifré Juliò - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Guifré's experience in managing complex development projects in the aerospace industry is crucial for Exonetik to deliver reliable products that exceed…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Guifré Juliò - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Guifré's experience in managing complex development projects in the aerospace industry is crucial for Exonetik to deliver reliable products that exceed…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Patrick Chouinard",
+        "description": "Guifré's experience in managing complex development projects in the aerospace industry is crucial for Exonetik to deliver reliable products that exceed…"
     },
     "urls": {
         "en": "/about-us/guifre-julio",

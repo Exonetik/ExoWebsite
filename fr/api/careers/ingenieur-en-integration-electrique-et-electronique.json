@@ -29,7 +29,9 @@
         "titleRaw": {
             "1": "Ingénieur en intégration électrique et électronique"
         },
-        "descriptionRaw": "",
+        "descriptionRaw": {
+            "1": "Développement de produits | Intégration de systèmes | Électricité & électronique"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -37,19 +39,21 @@
                 "handle": "",
                 "title": "Ingénieur en intégration électrique et électronique - Exonetik (FR)",
                 "imageId": "",
-                "description": ""
+                "description": "Développement de produits | Intégration de systèmes | Électricité & électronique"
             },
             "facebook": {
                 "handle": "",
                 "title": "Ingénieur en intégration électrique et électronique - Exonetik (FR)",
                 "imageId": "",
-                "description": ""
+                "description": "Développement de produits | Intégration de systèmes | Électricité & électronique"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Ingénieur en intégration électrique et électronique",
+        "description": "Développement de produits | Intégration de systèmes | Électricité & électronique"
     },
     "urls": {
         "en": "/careers/electrical-electronics-integration-engineer",

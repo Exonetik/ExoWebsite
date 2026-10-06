@@ -38,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Patrick Chouinard"
+        },
+        "descriptionRaw": {
+            "1": "Patrick's postdoctoral studies led him to an outstanding technical knowledge in MR fluid actuator control. His profound understanding of our technology…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "Patrick Chouinard - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Patrick's postdoctoral studies led him to an outstanding technical knowledge in MR fluid actuator control. His profound understanding of our technology…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Patrick Chouinard - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Patrick's postdoctoral studies led him to an outstanding technical knowledge in MR fluid actuator control. His profound understanding of our technology…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Patrick Chouinard",
+        "description": "Patrick's postdoctoral studies led him to an outstanding technical knowledge in MR fluid actuator control. His profound understanding of our technology…"
     },
     "urls": {
         "en": "/about-us/patrick-chouinard",

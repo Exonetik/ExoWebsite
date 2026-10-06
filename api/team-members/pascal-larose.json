@@ -41,7 +41,9 @@
         "titleRaw": {
             "1": "Pascal Larose"
         },
-        "descriptionRaw": "",
+        "descriptionRaw": {
+            "1": "With a number of successfull start-ups in his track record, Pascal is now leading Exonetik on our growth journey making sure we create value for clients…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -49,19 +51,21 @@
                 "handle": "",
                 "title": "Pascal Larose - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "With a number of successfull start-ups in his track record, Pascal is now leading Exonetik on our growth journey making sure we create value for clients…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Pascal Larose - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "With a number of successfull start-ups in his track record, Pascal is now leading Exonetik on our growth journey making sure we create value for clients…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Pascal Larose",
+        "description": "With a number of successfull start-ups in his track record, Pascal is now leading Exonetik on our growth journey making sure we create value for clients…"
     },
     "urls": {
         "en": "/about-us/pascal-larose",

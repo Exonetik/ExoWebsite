@@ -38,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Jonathan Nadeau"
+        },
+        "descriptionRaw": {
+            "1": "Holding a Ph.D. in mechanical engineering and a Master's degree in electrical engineering, Jonathan is an important asset to our validation team because…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "Jonathan Nadeau - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Holding a Ph.D. in mechanical engineering and a Master's degree in electrical engineering, Jonathan is an important asset to our validation team because…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Jonathan Nadeau - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Holding a Ph.D. in mechanical engineering and a Master's degree in electrical engineering, Jonathan is an important asset to our validation team because…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Jonathan Nadeau",
+        "description": "Holding a Ph.D. in mechanical engineering and a Master's degree in electrical engineering, Jonathan is an important asset to our validation team because…"
     },
     "urls": {
         "en": "/about-us/jonathan-nadeau",

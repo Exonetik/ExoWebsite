@@ -117,7 +117,9 @@
         "titleRaw": {
             "1": "Careers"
         },
-        "descriptionRaw": "",
+        "descriptionRaw": {
+            "1": "We believe that our people are the key to our success. Our team is composed of highly talented experts who thrive on the challenges provided by our…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -125,19 +127,21 @@
                 "handle": "",
                 "title": "Careers - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "We believe that our people are the key to our success. Our team is composed of highly talented experts who thrive on the challenges provided by our…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Careers - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "We believe that our people are the key to our success. Our team is composed of highly talented experts who thrive on the challenges provided by our…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Careers",
+        "description": "We believe that our people are the key to our success. Our team is composed of highly talented experts who thrive on the challenges provided by our…"
     },
     "urls": {
         "en": "/careers",

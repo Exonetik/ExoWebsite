@@ -41,7 +41,9 @@
         "titleRaw": {
             "1": "Marc Denninger"
         },
-        "descriptionRaw": "",
+        "descriptionRaw": {
+            "1": "Marc détient un doctorat de l'Université de Sherbrooke lui ayant permis d'acquérir une expertise rarissime en conception avancée. Sa connaissance poussée…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -49,19 +51,21 @@
                 "handle": "",
                 "title": "Marc Denninger - Exonetik (FR)",
                 "imageId": "",
-                "description": ""
+                "description": "Marc détient un doctorat de l'Université de Sherbrooke lui ayant permis d'acquérir une expertise rarissime en conception avancée. Sa connaissance poussée…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Marc Denninger - Exonetik (FR)",
                 "imageId": "",
-                "description": ""
+                "description": "Marc détient un doctorat de l'Université de Sherbrooke lui ayant permis d'acquérir une expertise rarissime en conception avancée. Sa connaissance poussée…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Marc Denninger",
+        "description": "Marc détient un doctorat de l'Université de Sherbrooke lui ayant permis d'acquérir une expertise rarissime en conception avancée. Sa connaissance poussée…"
     },
     "urls": {
         "en": "/about-us/marc-denninger",

@@ -38,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Donald Brouillard"
+        },
+        "descriptionRaw": {
+            "1": "En tant que candidat à la profession d’ingénieur mécanique (CPI), Donald se spécialise en conception mécanique. Il a su mettre à profit ses aptitudes en…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "Donald Brouillard - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "En tant que candidat à la profession d’ingénieur mécanique (CPI), Donald se spécialise en conception mécanique. Il a su mettre à profit ses aptitudes en…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Donald Brouillard - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "En tant que candidat à la profession d’ingénieur mécanique (CPI), Donald se spécialise en conception mécanique. Il a su mettre à profit ses aptitudes en…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Donald Brouillard",
+        "description": "En tant que candidat à la profession d’ingénieur mécanique (CPI), Donald se spécialise en conception mécanique. Il a su mettre à profit ses aptitudes en…"
     },
     "urls": {
         "en": "/about-us/donald-brouillard",

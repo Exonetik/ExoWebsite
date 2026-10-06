@@ -41,7 +41,9 @@
         "titleRaw": {
             "1": "Claude Camiré"
         },
-        "descriptionRaw": "",
+        "descriptionRaw": {
+            "1": "Claude est un programmeur chevronné qui possède une expérience académique et pratique en électronique analogique ainsi qu'en programmation embarquée. Il…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -49,19 +51,21 @@
                 "handle": "",
                 "title": "Claude Camiré - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Claude est un programmeur chevronné qui possède une expérience académique et pratique en électronique analogique ainsi qu'en programmation embarquée. Il…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Claude Camiré - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Claude est un programmeur chevronné qui possède une expérience académique et pratique en électronique analogique ainsi qu'en programmation embarquée. Il…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Claude Camiré",
+        "description": "Claude est un programmeur chevronné qui possède une expérience académique et pratique en électronique analogique ainsi qu'en programmation embarquée. Il…"
     },
     "urls": {
         "en": "/about-us/claude-camire",

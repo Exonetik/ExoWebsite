@@ -38,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Etienne Bellerose"
+        },
+        "descriptionRaw": {
+            "1": "As a candidate to the Embedded Systems Engineer (ESE) profession, Etienne is involved in the software development and deployment. His technical skills…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "Etienne Bellerose - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "As a candidate to the Embedded Systems Engineer (ESE) profession, Etienne is involved in the software development and deployment. His technical skills…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Etienne Bellerose - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "As a candidate to the Embedded Systems Engineer (ESE) profession, Etienne is involved in the software development and deployment. His technical skills…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Etienne Bellerose",
+        "description": "As a candidate to the Embedded Systems Engineer (ESE) profession, Etienne is involved in the software development and deployment. His technical skills…"
     },
     "urls": {
         "en": "/about-us/etienne-bellerose",

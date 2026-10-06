@@ -65,7 +65,9 @@
         "titleRaw": {
             "1": "Contactez-nous"
         },
-        "descriptionRaw": "",
+        "descriptionRaw": {
+            "1": "Comment pouvons-nous vous aider? Pour toute question au sujet du traitement ou de la mise à jour de vos renseignements personnels ou pour nous faire part…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -73,19 +75,21 @@
                 "handle": "",
                 "title": "Contactez-nous - Exonetik (FR)",
                 "imageId": "",
-                "description": ""
+                "description": "Comment pouvons-nous vous aider? Pour toute question au sujet du traitement ou de la mise à jour de vos renseignements personnels ou pour nous faire part…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Contactez-nous - Exonetik (FR)",
                 "imageId": "",
-                "description": ""
+                "description": "Comment pouvons-nous vous aider? Pour toute question au sujet du traitement ou de la mise à jour de vos renseignements personnels ou pour nous faire part…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Contactez-nous",
+        "description": "Comment pouvons-nous vous aider? Pour toute question au sujet du traitement ou de la mise à jour de vos renseignements personnels ou pour nous faire part…"
     },
     "urls": {
         "en": "/contact-us",

@@ -28,8 +28,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Quality policy"
+        },
+        "descriptionRaw": {
+            "1": "Exonetik's purpose is to push back the limits of synergy between humans and machines."
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -37,19 +41,21 @@
                 "handle": "",
                 "title": "Politique Qualité - Exonetik (FR)",
                 "imageId": "",
-                "description": ""
+                "description": "Exonetik's purpose is to push back the limits of synergy between humans and machines."
             },
             "facebook": {
                 "handle": "",
                 "title": "Politique Qualité - Exonetik (FR)",
                 "imageId": "",
-                "description": ""
+                "description": "Exonetik's purpose is to push back the limits of synergy between humans and machines."
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Quality policy",
+        "description": "Exonetik's purpose is to push back the limits of synergy between humans and machines."
     },
     "urls": {
         "en": "/medias/politique-qualite",

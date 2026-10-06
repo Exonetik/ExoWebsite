@@ -38,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Paul Cuerrier"
+        },
+        "descriptionRaw": {
+            "1": "Paul stands out for his electrical skills. He has both practical and academic experience in embedded software development, bringing a great polyvalent…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "Paul Cuerrier - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Paul stands out for his electrical skills. He has both practical and academic experience in embedded software development, bringing a great polyvalent…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Paul Cuerrier - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Paul stands out for his electrical skills. He has both practical and academic experience in embedded software development, bringing a great polyvalent…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Paul Cuerrier",
+        "description": "Paul stands out for his electrical skills. He has both practical and academic experience in embedded software development, bringing a great polyvalent…"
     },
     "urls": {
         "en": "/about-us/paul-cuerrier",

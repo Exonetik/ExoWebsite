@@ -40,8 +40,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Exonetik robotic arms datasheet"
+        },
+        "descriptionRaw": {
+            "1": "Exonetik robotic arms datasheet"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -49,19 +53,21 @@
                 "handle": "",
                 "title": "Fiche technique des bras robotiques Exonetik - Exonetik (FR)",
                 "imageId": "",
-                "description": ""
+                "description": "Exonetik robotic arms datasheet"
             },
             "facebook": {
                 "handle": "",
                 "title": "Fiche technique des bras robotiques Exonetik - Exonetik (FR)",
                 "imageId": "",
-                "description": ""
+                "description": "Exonetik robotic arms datasheet"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Exonetik robotic arms datasheet",
+        "description": "Exonetik robotic arms datasheet"
     },
     "urls": {
         "en": "/medias/fiche-technique-des-bras-robotiques-exonetik",

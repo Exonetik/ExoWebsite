@@ -39,9 +39,11 @@
     },
     "seo": {
         "titleRaw": {
-            "1": "Olivier Lussier, "
+            "1": "Olivier Lussier,"
         },
-        "descriptionRaw": "",
+        "descriptionRaw": {
+            "1": "Olivier is an expert in complex mechanical system design and also an outstanding resource for everything related to the mechanical assembly of systems. He…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -49,19 +51,21 @@
                 "handle": "",
                 "title": "Olivier Lussier, - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Olivier is an expert in complex mechanical system design and also an outstanding resource for everything related to the mechanical assembly of systems. He…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Olivier Lussier, - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Olivier is an expert in complex mechanical system design and also an outstanding resource for everything related to the mechanical assembly of systems. He…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Olivier Lussier,",
+        "description": "Olivier is an expert in complex mechanical system design and also an outstanding resource for everything related to the mechanical assembly of systems. He…"
     },
     "urls": {
         "en": "/about-us/olivier-lussier",

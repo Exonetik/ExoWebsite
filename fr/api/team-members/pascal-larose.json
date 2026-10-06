@@ -41,7 +41,9 @@
         "titleRaw": {
             "1": "Pascal Larose"
         },
-        "descriptionRaw": "",
+        "descriptionRaw": {
+            "1": "Ayant démarré plusieurs entreprises qui ont connu du succès, Pascal mène les activités d'Exonetik avec la volonté de créer de la valeur pour les clients…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -49,19 +51,21 @@
                 "handle": "",
                 "title": "Pascal Larose - Exonetik (FR)",
                 "imageId": "",
-                "description": ""
+                "description": "Ayant démarré plusieurs entreprises qui ont connu du succès, Pascal mène les activités d'Exonetik avec la volonté de créer de la valeur pour les clients…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Pascal Larose - Exonetik (FR)",
                 "imageId": "",
-                "description": ""
+                "description": "Ayant démarré plusieurs entreprises qui ont connu du succès, Pascal mène les activités d'Exonetik avec la volonté de créer de la valeur pour les clients…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Pascal Larose",
+        "description": "Ayant démarré plusieurs entreprises qui ont connu du succès, Pascal mène les activités d'Exonetik avec la volonté de créer de la valeur pour les clients…"
     },
     "urls": {
         "en": "/about-us/pascal-larose",

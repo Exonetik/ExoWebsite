@@ -41,7 +41,9 @@
         "titleRaw": {
             "1": "Mathieu Vinette"
         },
-        "descriptionRaw": "",
+        "descriptionRaw": {
+            "1": "Jean-Sébastien is a leading expert in the field of magnetorheological fluids, an expertise he developed during his PhD studies at the MIT. As Chief…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -49,19 +51,21 @@
                 "handle": "",
                 "title": "Jean-Sébastien Plante - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Jean-Sébastien is a leading expert in the field of magnetorheological fluids, an expertise he developed during his PhD studies at the MIT. As Chief…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Jean-Sébastien Plante - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Jean-Sébastien is a leading expert in the field of magnetorheological fluids, an expertise he developed during his PhD studies at the MIT. As Chief…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Mathieu Vinette",
+        "description": "Jean-Sébastien is a leading expert in the field of magnetorheological fluids, an expertise he developed during his PhD studies at the MIT. As Chief…"
     },
     "urls": {
         "en": "/about-us/jean-sebastien-plante",

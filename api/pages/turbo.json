@@ -38,8 +38,12 @@
         ]
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Turbo"
+        },
+        "descriptionRaw": {
+            "1": "Exonetik Turbo is collaborating with various industry leaders to bring to market a highly efficient ceramic turbine that can replace metallic turbines by…"
+        },
         "keywords": [],
         "score": "neutral",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "Turbo - Exonetik (EN)",
                 "imageId": null,
-                "description": ""
+                "description": "Exonetik Turbo is collaborating with various industry leaders to bring to market a highly efficient ceramic turbine that can replace metallic turbines by…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Turbo - Exonetik (EN)",
                 "imageId": null,
-                "description": ""
+                "description": "Exonetik Turbo is collaborating with various industry leaders to bring to market a highly efficient ceramic turbine that can replace metallic turbines by…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": null
-        }
+        },
+        "title": "Turbo",
+        "description": "Exonetik Turbo is collaborating with various industry leaders to bring to market a highly efficient ceramic turbine that can replace metallic turbines by…"
     },
     "urls": {
         "en": "/turbo",

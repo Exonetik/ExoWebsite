@@ -38,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Louis | Philippe Jean"
+        },
+        "descriptionRaw": {
+            "1": "As a mechanical engineer, Louis-Philippe contributes notably to the design and the testing of turbines. He has a wealth of knowledge acquired through his…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "Louis-Philippe Jean - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "As a mechanical engineer, Louis-Philippe contributes notably to the design and the testing of turbines. He has a wealth of knowledge acquired through his…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Louis-Philippe Jean - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "As a mechanical engineer, Louis-Philippe contributes notably to the design and the testing of turbines. He has a wealth of knowledge acquired through his…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Louis | Philippe Jean",
+        "description": "As a mechanical engineer, Louis-Philippe contributes notably to the design and the testing of turbines. He has a wealth of knowledge acquired through his…"
     },
     "urls": {
         "en": "/about-us/louis-philippe-jean",

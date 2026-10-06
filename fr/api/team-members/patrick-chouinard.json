@@ -38,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Patrick Chouinard"
+        },
+        "descriptionRaw": {
+            "1": "Les études postdoctorales de Patrick lui ont permis d'acquérir une connaissance pointue des modes de contrôle des actionneurs à fluide MR. Sa profonde…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "Patrick Chouinard - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Les études postdoctorales de Patrick lui ont permis d'acquérir une connaissance pointue des modes de contrôle des actionneurs à fluide MR. Sa profonde…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Patrick Chouinard - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Les études postdoctorales de Patrick lui ont permis d'acquérir une connaissance pointue des modes de contrôle des actionneurs à fluide MR. Sa profonde…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Patrick Chouinard",
+        "description": "Les études postdoctorales de Patrick lui ont permis d'acquérir une connaissance pointue des modes de contrôle des actionneurs à fluide MR. Sa profonde…"
     },
     "urls": {
         "en": "/about-us/patrick-chouinard",

@@ -39,9 +39,11 @@
     },
     "seo": {
         "titleRaw": {
-            "1": "William East, "
+            "1": "William East,"
         },
-        "descriptionRaw": "",
+        "descriptionRaw": {
+            "1": "Avec une maîtrise en génie mécanique, William est un concepteur avancé qui est en mesure de créer des systèmes d'actionnement sur-mesure, principalement…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -49,19 +51,21 @@
                 "handle": "",
                 "title": "William East, - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Avec une maîtrise en génie mécanique, William est un concepteur avancé qui est en mesure de créer des systèmes d'actionnement sur-mesure, principalement…"
             },
             "facebook": {
                 "handle": "",
                 "title": "William East, - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Avec une maîtrise en génie mécanique, William est un concepteur avancé qui est en mesure de créer des systèmes d'actionnement sur-mesure, principalement…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "William East,",
+        "description": "Avec une maîtrise en génie mécanique, William est un concepteur avancé qui est en mesure de créer des systèmes d'actionnement sur-mesure, principalement…"
     },
     "urls": {
         "en": "/about-us/william-east",

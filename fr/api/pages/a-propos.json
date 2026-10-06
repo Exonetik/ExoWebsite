@@ -99,7 +99,9 @@
         "titleRaw": {
             "1": "À propos de nous"
         },
-        "descriptionRaw": "",
+        "descriptionRaw": {
+            "1": "Nous concevons et fabriquons des actionneurs à fluide magnétorhéologique issus de notre recherche scientifique. Notre raison d’être est de repousser les…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -107,19 +109,21 @@
                 "handle": "",
                 "title": "À propos de nous - Exonetik (FR)",
                 "imageId": "",
-                "description": ""
+                "description": "Nous concevons et fabriquons des actionneurs à fluide magnétorhéologique issus de notre recherche scientifique. Notre raison d’être est de repousser les…"
             },
             "facebook": {
                 "handle": "",
                 "title": "À propos de nous - Exonetik (FR)",
                 "imageId": "",
-                "description": ""
+                "description": "Nous concevons et fabriquons des actionneurs à fluide magnétorhéologique issus de notre recherche scientifique. Notre raison d’être est de repousser les…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "À propos de nous",
+        "description": "Nous concevons et fabriquons des actionneurs à fluide magnétorhéologique issus de notre recherche scientifique. Notre raison d’être est de repousser les…"
     },
     "urls": {
         "en": "/about-us",

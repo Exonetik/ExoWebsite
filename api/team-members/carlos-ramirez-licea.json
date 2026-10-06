@@ -39,9 +39,11 @@
     },
     "seo": {
         "titleRaw": {
-            "1": "Carlos Ramirez Licea,  "
+            "1": "Carlos Ramirez Licea,"
         },
-        "descriptionRaw": "",
+        "descriptionRaw": {
+            "1": "Carlos is a specialist in electrical circuit design and integration for research and development projects. He works as a team with the leaders of our…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -49,19 +51,21 @@
                 "handle": "",
                 "title": "Carlos Ramirez Licea, - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Carlos is a specialist in electrical circuit design and integration for research and development projects. He works as a team with the leaders of our…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Carlos Ramirez Licea, - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Carlos is a specialist in electrical circuit design and integration for research and development projects. He works as a team with the leaders of our…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Carlos Ramirez Licea,",
+        "description": "Carlos is a specialist in electrical circuit design and integration for research and development projects. He works as a team with the leaders of our…"
     },
     "urls": {
         "en": "/about-us/carlos-ramirez-licea",

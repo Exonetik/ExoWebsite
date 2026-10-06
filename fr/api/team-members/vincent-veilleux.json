@@ -38,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Vincent Veilleux"
+        },
+        "descriptionRaw": {
+            "1": "Le principal domaine d'expertise de Vincent est la programmation. En plus de ses études en génie informatique, Vincent a développé une expertise en…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "Vincent Veilleux - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Le principal domaine d'expertise de Vincent est la programmation. En plus de ses études en génie informatique, Vincent a développé une expertise en…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Vincent Veilleux - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Le principal domaine d'expertise de Vincent est la programmation. En plus de ses études en génie informatique, Vincent a développé une expertise en…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Vincent Veilleux",
+        "description": "Le principal domaine d'expertise de Vincent est la programmation. En plus de ses études en génie informatique, Vincent a développé une expertise en…"
     },
     "urls": {
         "en": "/about-us/vincent-veilleux",

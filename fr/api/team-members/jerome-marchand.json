@@ -38,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Jérôme Marchand"
+        },
+        "descriptionRaw": {
+            "1": "Jérôme a de nombreuses années d'expérience en conception électronique. Toujours à l'affût d'innovations, Jérôme est un expert en développement de…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "Jérôme Marchand - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Jérôme a de nombreuses années d'expérience en conception électronique. Toujours à l'affût d'innovations, Jérôme est un expert en développement de…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Jérôme Marchand - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Jérôme a de nombreuses années d'expérience en conception électronique. Toujours à l'affût d'innovations, Jérôme est un expert en développement de…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Jérôme Marchand",
+        "description": "Jérôme a de nombreuses années d'expérience en conception électronique. Toujours à l'affût d'innovations, Jérôme est un expert en développement de…"
     },
     "urls": {
         "en": "/about-us/jerome-marchand",

@@ -347,7 +347,9 @@
         "titleRaw": {
             "1": "Technology"
         },
-        "descriptionRaw": "",
+        "descriptionRaw": {
+            "1": "We make high performance magnetorheological fluid (MR) actuators to empower people through greater human/machine interaction."
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -355,19 +357,21 @@
                 "handle": "",
                 "title": "Technology - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "We make high performance magnetorheological fluid (MR) actuators to empower people through greater human/machine interaction."
             },
             "facebook": {
                 "handle": "",
                 "title": "Technology - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "We make high performance magnetorheological fluid (MR) actuators to empower people through greater human/machine interaction."
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Technology",
+        "description": "We make high performance magnetorheological fluid (MR) actuators to empower people through greater human/machine interaction."
     },
     "urls": {
         "en": "/technology",

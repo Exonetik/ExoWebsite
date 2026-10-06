@@ -38,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Benoît Picard"
+        },
+        "descriptionRaw": {
+            "1": "Passionate of motorization, Benoit, in addition to his master's degree, has a varied experience covering design, testing, calibration and certification of…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "Benoît Picard - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Passionate of motorization, Benoit, in addition to his master's degree, has a varied experience covering design, testing, calibration and certification of…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Benoît Picard - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Passionate of motorization, Benoit, in addition to his master's degree, has a varied experience covering design, testing, calibration and certification of…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Benoît Picard",
+        "description": "Passionate of motorization, Benoit, in addition to his master's degree, has a varied experience covering design, testing, calibration and certification of…"
     },
     "urls": {
         "en": "/about-us/benoit-picard",

@@ -38,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Jean | Philippe Lucking Bigué"
+        },
+        "descriptionRaw": {
+            "1": "Jean-Philippe's significant scientific knowledge of MR fluids was acquired through his postdoctoral studies in a dedicated lab. He now uses these…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "Jean-Philippe Lucking Bigué - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Jean-Philippe's significant scientific knowledge of MR fluids was acquired through his postdoctoral studies in a dedicated lab. He now uses these…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Jean-Philippe Lucking Bigué - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Jean-Philippe's significant scientific knowledge of MR fluids was acquired through his postdoctoral studies in a dedicated lab. He now uses these…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Jean | Philippe Lucking Bigué",
+        "description": "Jean-Philippe's significant scientific knowledge of MR fluids was acquired through his postdoctoral studies in a dedicated lab. He now uses these…"
     },
     "urls": {
         "en": "/about-us/jean-philippe-lucking-bigue",

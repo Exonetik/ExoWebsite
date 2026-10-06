@@ -39,9 +39,11 @@
     },
     "seo": {
         "titleRaw": {
-            "1": "Carlos Ramirez Licea,  "
+            "1": "Carlos Ramirez Licea,"
         },
-        "descriptionRaw": "",
+        "descriptionRaw": {
+            "1": "Carlos est un spécialiste en conception et en intégration de circuits électroniques embarqués pour des projets de recherche et développement. De concert…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -49,19 +51,21 @@
                 "handle": "",
                 "title": "Carlos Ramirez Licea, - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Carlos est un spécialiste en conception et en intégration de circuits électroniques embarqués pour des projets de recherche et développement. De concert…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Carlos Ramirez Licea, - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Carlos est un spécialiste en conception et en intégration de circuits électroniques embarqués pour des projets de recherche et développement. De concert…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Carlos Ramirez Licea,",
+        "description": "Carlos est un spécialiste en conception et en intégration de circuits électroniques embarqués pour des projets de recherche et développement. De concert…"
     },
     "urls": {
         "en": "/about-us/carlos-ramirez-licea",

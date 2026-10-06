@@ -38,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Louis | Philippe Jean"
+        },
+        "descriptionRaw": {
+            "1": "En tant qu'ingénieur mécanique, Louis-Philippe contribue à la conception et à la validation des turbines. Ses connaissances ont été acquises à la fois au…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "Louis-Philippe Jean - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "En tant qu'ingénieur mécanique, Louis-Philippe contribue à la conception et à la validation des turbines. Ses connaissances ont été acquises à la fois au…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Louis-Philippe Jean - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "En tant qu'ingénieur mécanique, Louis-Philippe contribue à la conception et à la validation des turbines. Ses connaissances ont été acquises à la fois au…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Louis | Philippe Jean",
+        "description": "En tant qu'ingénieur mécanique, Louis-Philippe contribue à la conception et à la validation des turbines. Ses connaissances ont été acquises à la fois au…"
     },
     "urls": {
         "en": "/about-us/louis-philippe-jean",

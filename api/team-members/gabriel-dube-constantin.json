@@ -38,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Gabriel Dubé | Constantin"
+        },
+        "descriptionRaw": {
+            "1": "As a candidate to profession of mechanical engineer (CEP), Gabriel is involved in the development and improvement of our production line. With his team…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "Gabriel Dubé-Constantin - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "As a candidate to profession of mechanical engineer (CEP), Gabriel is involved in the development and improvement of our production line. With his team…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Gabriel Dubé-Constantin - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "As a candidate to profession of mechanical engineer (CEP), Gabriel is involved in the development and improvement of our production line. With his team…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Gabriel Dubé | Constantin",
+        "description": "As a candidate to profession of mechanical engineer (CEP), Gabriel is involved in the development and improvement of our production line. With his team…"
     },
     "urls": {
         "en": "/about-us/gabriel-dube-constantin",

@@ -347,7 +347,9 @@
         "titleRaw": {
             "1": "Technologie"
         },
-        "descriptionRaw": "",
+        "descriptionRaw": {
+            "1": "Nous développons des actionneurs à fluide magnétorhéologique (MR) haute performance en vue de donner plus de pouvoir aux gens via de meilleures…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -355,19 +357,21 @@
                 "handle": "",
                 "title": "Technologie - Exonetik (FR)",
                 "imageId": "",
-                "description": ""
+                "description": "Nous développons des actionneurs à fluide magnétorhéologique (MR) haute performance en vue de donner plus de pouvoir aux gens via de meilleures…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Technologie - Exonetik (FR)",
                 "imageId": "",
-                "description": ""
+                "description": "Nous développons des actionneurs à fluide magnétorhéologique (MR) haute performance en vue de donner plus de pouvoir aux gens via de meilleures…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Technologie",
+        "description": "Nous développons des actionneurs à fluide magnétorhéologique (MR) haute performance en vue de donner plus de pouvoir aux gens via de meilleures…"
     },
     "urls": {
         "en": "/technology",

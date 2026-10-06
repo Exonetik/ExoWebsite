@@ -38,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Vincent Veilleux"
+        },
+        "descriptionRaw": {
+            "1": "Vincent's main field of expertise is programming. In addition to his general education in computer science engineering, Vincent has developed an expertise…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "Vincent Veilleux - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Vincent's main field of expertise is programming. In addition to his general education in computer science engineering, Vincent has developed an expertise…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Vincent Veilleux - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Vincent's main field of expertise is programming. In addition to his general education in computer science engineering, Vincent has developed an expertise…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Vincent Veilleux",
+        "description": "Vincent's main field of expertise is programming. In addition to his general education in computer science engineering, Vincent has developed an expertise…"
     },
     "urls": {
         "en": "/about-us/vincent-veilleux",

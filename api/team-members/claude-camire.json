@@ -41,7 +41,9 @@
         "titleRaw": {
             "1": "Claude Camiré"
         },
-        "descriptionRaw": "",
+        "descriptionRaw": {
+            "1": "Claude is a seasoned programmer. He has practical and academic experience in analog electronics and embedded software development, making him an important…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -49,19 +51,21 @@
                 "handle": "",
                 "title": "Claude Camiré - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Claude is a seasoned programmer. He has practical and academic experience in analog electronics and embedded software development, making him an important…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Claude Camiré - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Claude is a seasoned programmer. He has practical and academic experience in analog electronics and embedded software development, making him an important…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Claude Camiré",
+        "description": "Claude is a seasoned programmer. He has practical and academic experience in analog electronics and embedded software development, making him an important…"
     },
     "urls": {
         "en": "/about-us/claude-camire",

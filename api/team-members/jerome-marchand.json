@@ -38,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Jérôme Marchand"
+        },
+        "descriptionRaw": {
+            "1": "Jérôme has several years of experience in hardware design. A proponent of innovation, Jérôme is an expert in the development of innovative solutions, from…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "Jérôme Marchand - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Jérôme has several years of experience in hardware design. A proponent of innovation, Jérôme is an expert in the development of innovative solutions, from…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Jérôme Marchand - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Jérôme has several years of experience in hardware design. A proponent of innovation, Jérôme is an expert in the development of innovative solutions, from…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Jérôme Marchand",
+        "description": "Jérôme has several years of experience in hardware design. A proponent of innovation, Jérôme is an expert in the development of innovative solutions, from…"
     },
     "urls": {
         "en": "/about-us/jerome-marchand",

@@ -41,7 +41,9 @@
         "titleRaw": {
             "1": "Mathieu Vinette copy copy"
         },
-        "descriptionRaw": "",
+        "descriptionRaw": {
+            "1": "Marc holds a Ph.D. from the Université de Sherbrooke and many jointly acquired skills, mainly in advance design. His extensive knowledge of MR fluid…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -49,19 +51,21 @@
                 "handle": "",
                 "title": "Marc Denninger - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Marc holds a Ph.D. from the Université de Sherbrooke and many jointly acquired skills, mainly in advance design. His extensive knowledge of MR fluid…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Marc Denninger - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Marc holds a Ph.D. from the Université de Sherbrooke and many jointly acquired skills, mainly in advance design. His extensive knowledge of MR fluid…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Mathieu Vinette copy copy",
+        "description": "Marc holds a Ph.D. from the Université de Sherbrooke and many jointly acquired skills, mainly in advance design. His extensive knowledge of MR fluid…"
     },
     "urls": {
         "en": "/about-us/marc-denninger",

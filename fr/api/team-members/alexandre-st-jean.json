@@ -38,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Alexandre St | Jean"
+        },
+        "descriptionRaw": {
+            "1": "Alexandre St-Jean a développé une expertise approfondie en robotique collaborative et en actionneurs magnétorhéologiques durant son doctorat. Il applique…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "Alexandre St-Jean - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Alexandre St-Jean a développé une expertise approfondie en robotique collaborative et en actionneurs magnétorhéologiques durant son doctorat. Il applique…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Alexandre St-Jean - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Alexandre St-Jean a développé une expertise approfondie en robotique collaborative et en actionneurs magnétorhéologiques durant son doctorat. Il applique…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Alexandre St | Jean",
+        "description": "Alexandre St-Jean a développé une expertise approfondie en robotique collaborative et en actionneurs magnétorhéologiques durant son doctorat. Il applique…"
     },
     "urls": {
         "en": "/about-us/alexandre-st-jean",

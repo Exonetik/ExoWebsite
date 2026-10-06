@@ -29,7 +29,9 @@
         "titleRaw": {
             "1": "Electrical & Electronics Integration Engineer"
         },
-        "descriptionRaw": "",
+        "descriptionRaw": {
+            "1": "Product Development | Systems Integration | Electrical & Electronics"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -37,19 +39,21 @@
                 "handle": "",
                 "title": "Electrical & Electronics Integration Engineer - Exonetik",
                 "imageId": "",
-                "description": ""
+                "description": "Product Development | Systems Integration | Electrical & Electronics"
             },
             "facebook": {
                 "handle": "",
                 "title": "Electrical & Electronics Integration Engineer - Exonetik",
                 "imageId": "",
-                "description": ""
+                "description": "Product Development | Systems Integration | Electrical & Electronics"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Electrical & Electronics Integration Engineer",
+        "description": "Product Development | Systems Integration | Electrical & Electronics"
     },
     "urls": {
         "en": "/careers/electrical-electronics-integration-engineer",

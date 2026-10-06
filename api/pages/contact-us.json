@@ -62,8 +62,12 @@
         ]
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Contact us"
+        },
+        "descriptionRaw": {
+            "1": "Please tell us more about how we can help you? If you have any questions or concerns about the processing or updating of your personal information, please…"
+        },
         "keywords": [],
         "score": "neutral",
         "social": {
@@ -71,19 +75,21 @@
                 "handle": "",
                 "title": "Contact us - Exonetik (EN)",
                 "imageId": null,
-                "description": ""
+                "description": "Please tell us more about how we can help you? If you have any questions or concerns about the processing or updating of your personal information, please…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Contact us - Exonetik (EN)",
                 "imageId": null,
-                "description": ""
+                "description": "Please tell us more about how we can help you? If you have any questions or concerns about the processing or updating of your personal information, please…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": null
-        }
+        },
+        "title": "Contact us",
+        "description": "Please tell us more about how we can help you? If you have any questions or concerns about the processing or updating of your personal information, please…"
     },
     "urls": {
         "en": "/contact-us",

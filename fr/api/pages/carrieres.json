@@ -114,8 +114,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Carrières"
+        },
+        "descriptionRaw": {
+            "1": "Nous croyons que les gens sont la clé de notre succès. Notre équipe est composée d'experts talentueux qui carburent aux défis inhérents à notre…"
+        },
         "keywords": [],
         "score": "neutral",
         "social": {
@@ -123,19 +127,21 @@
                 "handle": "",
                 "title": "Careers - Exonetik (EN)",
                 "imageId": null,
-                "description": ""
+                "description": "Nous croyons que les gens sont la clé de notre succès. Notre équipe est composée d'experts talentueux qui carburent aux défis inhérents à notre…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Careers - Exonetik (EN)",
                 "imageId": null,
-                "description": ""
+                "description": "Nous croyons que les gens sont la clé de notre succès. Notre équipe est composée d'experts talentueux qui carburent aux défis inhérents à notre…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": null
-        }
+        },
+        "title": "Carrières",
+        "description": "Nous croyons que les gens sont la clé de notre succès. Notre équipe est composée d'experts talentueux qui carburent aux défis inhérents à notre…"
     },
     "urls": {
         "en": "/careers",

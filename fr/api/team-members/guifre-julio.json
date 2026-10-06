@@ -41,7 +41,9 @@
         "titleRaw": {
             "1": "Guifré Juliò"
         },
-        "descriptionRaw": "",
+        "descriptionRaw": {
+            "1": "L'expérience de Guifré en gestion de projets aérospatiaux complexes est cruciale pour le développement de produits fiables qui excèdent les attentes des…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -49,19 +51,21 @@
                 "handle": "",
                 "title": "Guifré Juliò - Exonetik (FR)",
                 "imageId": "",
-                "description": ""
+                "description": "L'expérience de Guifré en gestion de projets aérospatiaux complexes est cruciale pour le développement de produits fiables qui excèdent les attentes des…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Guifré Juliò - Exonetik (FR)",
                 "imageId": "",
-                "description": ""
+                "description": "L'expérience de Guifré en gestion de projets aérospatiaux complexes est cruciale pour le développement de produits fiables qui excèdent les attentes des…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Guifré Juliò",
+        "description": "L'expérience de Guifré en gestion de projets aérospatiaux complexes est cruciale pour le développement de produits fiables qui excèdent les attentes des…"
     },
     "urls": {
         "en": "/about-us/guifre-julio",

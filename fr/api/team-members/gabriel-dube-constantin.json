@@ -38,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Gabriel Dubé | Constantin"
+        },
+        "descriptionRaw": {
+            "1": "En tant que candidat à la profession d’ingénieur mécanique (CPI), Gabriel s’implique notamment dans le développement et l’amélioration de notre de…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "Gabriel Dubé-Constantin - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "En tant que candidat à la profession d’ingénieur mécanique (CPI), Gabriel s’implique notamment dans le développement et l’amélioration de notre de…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Gabriel Dubé-Constantin - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "En tant que candidat à la profession d’ingénieur mécanique (CPI), Gabriel s’implique notamment dans le développement et l’amélioration de notre de…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Gabriel Dubé | Constantin",
+        "description": "En tant que candidat à la profession d’ingénieur mécanique (CPI), Gabriel s’implique notamment dans le développement et l’amélioration de notre de…"
     },
     "urls": {
         "en": "/about-us/gabriel-dube-constantin",

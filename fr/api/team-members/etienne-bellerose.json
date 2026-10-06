@@ -38,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Etienne Bellerose"
+        },
+        "descriptionRaw": {
+            "1": "En tant que candidat à la profession d’ingénieur en systèmes embarqués (CPI), Etienne s’implique notamment dans le déploiement et le perfectionnement de…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "Etienne Bellerose - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "En tant que candidat à la profession d’ingénieur en systèmes embarqués (CPI), Etienne s’implique notamment dans le déploiement et le perfectionnement de…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Etienne Bellerose - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "En tant que candidat à la profession d’ingénieur en systèmes embarqués (CPI), Etienne s’implique notamment dans le déploiement et le perfectionnement de…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Etienne Bellerose",
+        "description": "En tant que candidat à la profession d’ingénieur en systèmes embarqués (CPI), Etienne s’implique notamment dans le déploiement et le perfectionnement de…"
     },
     "urls": {
         "en": "/about-us/etienne-bellerose",

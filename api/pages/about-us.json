@@ -99,7 +99,9 @@
         "titleRaw": {
             "1": "About us"
         },
-        "descriptionRaw": "",
+        "descriptionRaw": {
+            "1": "We design, develop and manufacture magnetorheological actuators based on our scientific research. Our mission is to empower people trough greater…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -107,19 +109,21 @@
                 "handle": "",
                 "title": "About us - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "We design, develop and manufacture magnetorheological actuators based on our scientific research. Our mission is to empower people trough greater…"
             },
             "facebook": {
                 "handle": "",
                 "title": "About us - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "We design, develop and manufacture magnetorheological actuators based on our scientific research. Our mission is to empower people trough greater…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "About us",
+        "description": "We design, develop and manufacture magnetorheological actuators based on our scientific research. Our mission is to empower people trough greater…"
     },
     "urls": {
         "en": "/about-us",

@@ -38,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "François Lessard"
+        },
+        "descriptionRaw": {
+            "1": "François holds a master's degree in electrical engineering, making him an expert in the development of electronic and electromechanical systems. His…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "François Lessard - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "François holds a master's degree in electrical engineering, making him an expert in the development of electronic and electromechanical systems. His…"
             },
             "facebook": {
                 "handle": "",
                 "title": "François Lessard - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "François holds a master's degree in electrical engineering, making him an expert in the development of electronic and electromechanical systems. His…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "François Lessard",
+        "description": "François holds a master's degree in electrical engineering, making him an expert in the development of electronic and electromechanical systems. His…"
     },
     "urls": {
         "en": "/about-us/francois-lessard",

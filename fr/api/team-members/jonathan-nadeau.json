@@ -38,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Jonathan Nadeau"
+        },
+        "descriptionRaw": {
+            "1": "Avec un doctorat en génie mécanique et une maîtrise en génie électrique, Jonathan est un joueur clé de l'équipe de tests en raison de sa vision complète…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "Jonathan Nadeau - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Avec un doctorat en génie mécanique et une maîtrise en génie électrique, Jonathan est un joueur clé de l'équipe de tests en raison de sa vision complète…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Jonathan Nadeau - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Avec un doctorat en génie mécanique et une maîtrise en génie électrique, Jonathan est un joueur clé de l'équipe de tests en raison de sa vision complète…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Jonathan Nadeau",
+        "description": "Avec un doctorat en génie mécanique et une maîtrise en génie électrique, Jonathan est un joueur clé de l'équipe de tests en raison de sa vision complète…"
     },
     "urls": {
         "en": "/about-us/jonathan-nadeau",

@@ -38,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Donald Brouillard"
+        },
+        "descriptionRaw": {
+            "1": "As a candidate to the profession of Mechanical Engineer (CEP), Donald specializes in mechanical design. He has put his design skills to good use through…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "Donald Brouillard - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "As a candidate to the profession of Mechanical Engineer (CEP), Donald specializes in mechanical design. He has put his design skills to good use through…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Donald Brouillard - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "As a candidate to the profession of Mechanical Engineer (CEP), Donald specializes in mechanical design. He has put his design skills to good use through…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Donald Brouillard",
+        "description": "As a candidate to the profession of Mechanical Engineer (CEP), Donald specializes in mechanical design. He has put his design skills to good use through…"
     },
     "urls": {
         "en": "/about-us/donald-brouillard",

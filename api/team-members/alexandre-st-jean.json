@@ -38,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Alexandre St | Jean"
+        },
+        "descriptionRaw": {
+            "1": "Alexandre St-Jean developed deep expertise in collaborative robotics and magnetorheological actuators during his PhD. He now applies this knowledge to…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "Alexandre St-Jean - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Alexandre St-Jean developed deep expertise in collaborative robotics and magnetorheological actuators during his PhD. He now applies this knowledge to…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Alexandre St-Jean - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Alexandre St-Jean developed deep expertise in collaborative robotics and magnetorheological actuators during his PhD. He now applies this knowledge to…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Alexandre St | Jean",
+        "description": "Alexandre St-Jean developed deep expertise in collaborative robotics and magnetorheological actuators during his PhD. He now applies this knowledge to…"
     },
     "urls": {
         "en": "/about-us/alexandre-st-jean",

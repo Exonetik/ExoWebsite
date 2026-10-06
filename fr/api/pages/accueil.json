@@ -285,7 +285,9 @@
         "titleRaw": {
             "1": "Actionneurs MR haute performance"
         },
-        "descriptionRaw": "Conception et fabrication d'actionneurs à fluide magnétorhéologique et turbines de céramique en compression. Approche de codéveloppement de produits. ",
+        "descriptionRaw": {
+            "1": "Dans le monde actuel, les humains et les machines travaillent en étroite interaction. Nos actionneurs MR haute performance offrent à nos clients une…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -305,7 +307,9 @@
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Actionneurs MR haute performance",
+        "description": "Dans le monde actuel, les humains et les machines travaillent en étroite interaction. Nos actionneurs MR haute performance offrent à nos clients une…"
     },
     "urls": {
         "en": "/",

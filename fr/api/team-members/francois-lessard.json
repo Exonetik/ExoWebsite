@@ -38,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "François Lessard"
+        },
+        "descriptionRaw": {
+            "1": "Détenteur d'une maîtrise en génie électrique, François est expert en développement de systèmes électriques et électromécaniques. Son leadership, sa…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "François Lessard - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Détenteur d'une maîtrise en génie électrique, François est expert en développement de systèmes électriques et électromécaniques. Son leadership, sa…"
             },
             "facebook": {
                 "handle": "",
                 "title": "François Lessard - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Détenteur d'une maîtrise en génie électrique, François est expert en développement de systèmes électriques et électromécaniques. Son leadership, sa…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "François Lessard",
+        "description": "Détenteur d'une maîtrise en génie électrique, François est expert en développement de systèmes électriques et électromécaniques. Son leadership, sa…"
     },
     "urls": {
         "en": "/about-us/francois-lessard",

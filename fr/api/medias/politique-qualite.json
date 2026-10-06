@@ -28,8 +28,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Politique Qualité"
+        },
+        "descriptionRaw": {
+            "1": "La raison d’être d’Exonetik est de repousser les limites de la synergie entre les humains et les machines."
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -37,19 +41,21 @@
                 "handle": "",
                 "title": "Politique Qualité - Exonetik (FR)",
                 "imageId": "",
-                "description": ""
+                "description": "La raison d’être d’Exonetik est de repousser les limites de la synergie entre les humains et les machines."
             },
             "facebook": {
                 "handle": "",
                 "title": "Politique Qualité - Exonetik (FR)",
                 "imageId": "",
-                "description": ""
+                "description": "La raison d’être d’Exonetik est de repousser les limites de la synergie entre les humains et les machines."
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Politique Qualité",
+        "description": "La raison d’être d’Exonetik est de repousser les limites de la synergie entre les humains et les machines."
     },
     "urls": {
         "en": "/medias/politique-qualite",

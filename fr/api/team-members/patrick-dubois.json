@@ -3,7 +3,15 @@
         "name": "Patrick Dubois",
         "title": "Ingénieur mécanique jr",
         "photo": {
-            "landscape": {},
+            "landscape": {
+                "1x": "/exonetik/assets-prod/_513x576_crop_center-center_none/PD-popup-3x.jpg",
+                "2x": "/exonetik/assets-prod/_1026x1152_crop_center-center_none/PD-popup-3x.jpg",
+                "3x": "/exonetik/assets-prod/PD-popup-3x.jpg",
+                "srcset": "/exonetik/assets-prod/_513x576_crop_center-center_none/PD-popup-3x.jpg 1x, /exonetik/assets-prod/_1026x1152_crop_center-center_none/PD-popup-3x.jpg 2x, /exonetik/assets-prod/PD-popup-3x.jpg 3x",
+                "original": "/exonetik/assets-prod/PD-popup-3x.jpg",
+                "width": "2052",
+                "height": "2304"
+            },
             "portrait": {
                 "1x": "/exonetik/assets-prod/_513x576_crop_center-center_none/PD-popup-3x.jpg",
                 "2x": "/exonetik/assets-prod/_1026x1152_crop_center-center_none/PD-popup-3x.jpg",
@@ -30,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Patrick Dubois"
+        },
+        "descriptionRaw": {
+            "1": "Détenteur d’un doctorat en génie mécanique, Patrick aidera l’entreprise à amener notre technologie Turbo sur le marché avec ses connaissances en…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -39,19 +51,21 @@
                 "handle": "",
                 "title": "Patrick Dubois - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Détenteur d’un doctorat en génie mécanique, Patrick aidera l’entreprise à amener notre technologie Turbo sur le marché avec ses connaissances en…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Patrick Dubois - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Détenteur d’un doctorat en génie mécanique, Patrick aidera l’entreprise à amener notre technologie Turbo sur le marché avec ses connaissances en…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Patrick Dubois",
+        "description": "Détenteur d’un doctorat en génie mécanique, Patrick aidera l’entreprise à amener notre technologie Turbo sur le marché avec ses connaissances en…"
     },
     "urls": {
         "en": "/about-us/patrick-dubois",

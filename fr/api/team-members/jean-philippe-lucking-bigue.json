@@ -38,8 +38,12 @@
         }
     },
     "seo": {
-        "titleRaw": [],
-        "descriptionRaw": "",
+        "titleRaw": {
+            "1": "Jean | Philippe Lucking Bigué"
+        },
+        "descriptionRaw": {
+            "1": "La connaissance scientifique fondamentale du fluide MR acquise par Jean-Philippe au cours de ses études doctorales et postdoctorales lui permet de…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -47,19 +51,21 @@
                 "handle": "",
                 "title": "Jean-Philippe Lucking Bigué - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "La connaissance scientifique fondamentale du fluide MR acquise par Jean-Philippe au cours de ses études doctorales et postdoctorales lui permet de…"
             },
             "facebook": {
                 "handle": "",
                 "title": "Jean-Philippe Lucking Bigué - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "La connaissance scientifique fondamentale du fluide MR acquise par Jean-Philippe au cours de ses études doctorales et postdoctorales lui permet de…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Jean | Philippe Lucking Bigué",
+        "description": "La connaissance scientifique fondamentale du fluide MR acquise par Jean-Philippe au cours de ses études doctorales et postdoctorales lui permet de…"
     },
     "urls": {
         "en": "/about-us/jean-philippe-lucking-bigue",

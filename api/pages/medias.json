@@ -7,7 +7,9 @@
         "titleRaw": {
             "1": "Media"
         },
-        "descriptionRaw": "",
+        "descriptionRaw": {
+            "1": "Discover our products and our quality certification"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -15,19 +17,21 @@
                 "handle": "",
                 "title": "Medias - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Discover our products and our quality certification"
             },
             "facebook": {
                 "handle": "",
                 "title": "Medias - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Discover our products and our quality certification"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "Media",
+        "description": "Discover our products and our quality certification"
     },
     "urls": {
         "en": "/medias",

@@ -39,9 +39,11 @@
     },
     "seo": {
         "titleRaw": {
-            "1": "William East, "
+            "1": "William East,"
         },
-        "descriptionRaw": "",
+        "descriptionRaw": {
+            "1": "Holding a master's degree in mechanical engineering, William is a highly skilled designer which allow him to create custom actuation systems, particularly…"
+        },
         "keywords": [],
         "score": "",
         "social": {
@@ -49,19 +51,21 @@
                 "handle": "",
                 "title": "William East, - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Holding a master's degree in mechanical engineering, William is a highly skilled designer which allow him to create custom actuation systems, particularly…"
             },
             "facebook": {
                 "handle": "",
                 "title": "William East, - Exonetik (EN)",
                 "imageId": "",
-                "description": ""
+                "description": "Holding a master's degree in mechanical engineering, William is a highly skilled designer which allow him to create custom actuation systems, particularly…"
             }
         },
         "advanced": {
             "robots": [],
             "canonical": ""
-        }
+        },
+        "title": "William East,",
+        "description": "Holding a master's degree in mechanical engineering, William is a highly skilled designer which allow him to create custom actuation systems, particularly…"
     },
     "urls": {
         "en": "/about-us/william-east",
