@@ -36,7 +36,16 @@ function clean(file) {
   after = after.replace(/https?:\/\/localhost(?::\d+)?/g, SITE)
                .replace(/https?:\/\/127\.0\.0\.1(?::\d+)?/g, SITE);
 
-  // 2. drop the desktop smooth-scroll state from <html>
+  // 2. drop the third-party tags the Google Maps widget injects into the page
+  //    while it runs. Captured, they make every visitor load Google Maps and
+  //    Google Fonts even though the map itself is no longer on the page, and
+  //    they pile up with each capture.
+  after = after
+    .replace(/<script[^>]*src="https:\/\/maps\.(googleapis|gstatic)\.com[^"]*"[^>]*>\s*<\/script>/g, '')
+    .replace(/<link[^>]*href="https:\/\/fonts\.(googleapis|gstatic)\.com[^"]*"[^>]*>/g, '')
+    .replace(/<link[^>]*href="https:\/\/maps\.gstatic\.com[^"]*"[^>]*>/g, '');
+
+  // 3. drop the desktop smooth-scroll state from <html>
   after = after.replace(/<html([^>]*)>/, (m, attrs) =>
     '<html' + attrs.replace(/\s*class="([^"]*)"/, (full, cls) => {
       const kept = cls.split(/\s+/).filter(c => c && c !== 'has-scroll-smooth' && c !== 'has-scroll-init');
