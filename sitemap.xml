@@ -32,14 +32,7 @@
     <xhtml:link rel="alternate" hreflang="en-CA" href="https://www.exonetik.com/about-us/benoit-picard"/>
     <xhtml:link rel="alternate" hreflang="fr-CA" href="https://www.exonetik.com/fr/a-propos/benoit-picard"/>
   </url>
-  <url>
-    <loc>https://www.exonetik.com/about-us/carlos-ramirez-licea</loc>
-    <lastmod>2026-10-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://www.exonetik.com/about-us/carlos-ramirez-licea"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://www.exonetik.com/fr/a-propos/carlos-ramirez-licea"/>
-  </url>
+  
   <url>
     <loc>https://www.exonetik.com/about-us/claude-camire</loc>
     <lastmod>2026-10-06</lastmod>
@@ -200,22 +193,8 @@
     <xhtml:link rel="alternate" hreflang="en-CA" href="https://www.exonetik.com/about-us/patrick-dubois"/>
     <xhtml:link rel="alternate" hreflang="fr-CA" href="https://www.exonetik.com/fr/a-propos/patrick-dubois"/>
   </url>
-  <url>
-    <loc>https://www.exonetik.com/about-us/paul-cuerrier</loc>
-    <lastmod>2026-10-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://www.exonetik.com/about-us/paul-cuerrier"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://www.exonetik.com/fr/a-propos/paul-cuerrier"/>
-  </url>
-  <url>
-    <loc>https://www.exonetik.com/about-us/sonia-houle</loc>
-    <lastmod>2026-10-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://www.exonetik.com/about-us/sonia-houle"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://www.exonetik.com/fr/a-propos/sonia-houle"/>
-  </url>
+  
+  
   <url>
     <loc>https://www.exonetik.com/about-us/vincent-veilleux</loc>
     <lastmod>2026-10-06</lastmod>
@@ -304,14 +283,7 @@
     <xhtml:link rel="alternate" hreflang="en-CA" href="https://www.exonetik.com/about-us/benoit-picard"/>
     <xhtml:link rel="alternate" hreflang="fr-CA" href="https://www.exonetik.com/fr/a-propos/benoit-picard"/>
   </url>
-  <url>
-    <loc>https://www.exonetik.com/fr/a-propos/carlos-ramirez-licea</loc>
-    <lastmod>2026-10-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://www.exonetik.com/about-us/carlos-ramirez-licea"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://www.exonetik.com/fr/a-propos/carlos-ramirez-licea"/>
-  </url>
+  
   <url>
     <loc>https://www.exonetik.com/fr/a-propos/claude-camire</loc>
     <lastmod>2026-10-06</lastmod>
@@ -472,22 +444,8 @@
     <xhtml:link rel="alternate" hreflang="en-CA" href="https://www.exonetik.com/about-us/patrick-dubois"/>
     <xhtml:link rel="alternate" hreflang="fr-CA" href="https://www.exonetik.com/fr/a-propos/patrick-dubois"/>
   </url>
-  <url>
-    <loc>https://www.exonetik.com/fr/a-propos/paul-cuerrier</loc>
-    <lastmod>2026-10-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://www.exonetik.com/about-us/paul-cuerrier"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://www.exonetik.com/fr/a-propos/paul-cuerrier"/>
-  </url>
-  <url>
-    <loc>https://www.exonetik.com/fr/a-propos/sonia-houle</loc>
-    <lastmod>2026-10-06</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-    <xhtml:link rel="alternate" hreflang="en-CA" href="https://www.exonetik.com/about-us/sonia-houle"/>
-    <xhtml:link rel="alternate" hreflang="fr-CA" href="https://www.exonetik.com/fr/a-propos/sonia-houle"/>
-  </url>
+  
+  
   <url>
     <loc>https://www.exonetik.com/fr/a-propos/vincent-veilleux</loc>
     <lastmod>2026-10-06</lastmod>

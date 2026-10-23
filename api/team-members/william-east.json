@@ -25,16 +25,16 @@
         "linkedin": "https://www.linkedin.com/in/william-east-9705a7108/",
         "description": "Holding a master's degree in mechanical engineering, William is a highly skilled designer which allow him to create custom actuation systems, particularly in the automotive sector.",
         "previous": {
-            "name": "Paul Cuerrier",
-            "id": 1576,
-            "slug": "paul-cuerrier",
-            "url": "/about-us/paul-cuerrier"
+            "name": "Mathieu Parent",
+            "id": 1566,
+            "slug": "mathieu-parent",
+            "url": "/about-us/mathieu-parent"
         },
         "next": {
-            "name": "Sonia Houle",
-            "id": 5955,
-            "slug": "sonia-houle",
-            "url": "/about-us/sonia-houle"
+            "name": "Mathieu Gervais",
+            "id": 5964,
+            "slug": "mathieu-gervais",
+            "url": "/about-us/mathieu-gervais"
         }
     },
     "seo": {

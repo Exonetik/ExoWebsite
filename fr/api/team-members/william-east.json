@@ -25,16 +25,16 @@
         "linkedin": "https://www.linkedin.com/in/william-east-9705a7108/",
         "description": "Avec une maîtrise en génie mécanique, William est un concepteur avancé qui est en mesure de créer des systèmes d'actionnement sur-mesure, principalement pour le secteur automobile.",
         "previous": {
-            "name": "Paul Cuerrier",
-            "id": 1576,
-            "slug": "paul-cuerrier",
-            "url": "/fr/a-propos/paul-cuerrier"
+            "name": "Mathieu Parent",
+            "id": 1566,
+            "slug": "mathieu-parent",
+            "url": "/fr/a-propos/mathieu-parent"
         },
         "next": {
-            "name": "Sonia Houle",
-            "id": 5955,
-            "slug": "sonia-houle",
-            "url": "/fr/a-propos/sonia-houle"
+            "name": "Mathieu Gervais",
+            "id": 5964,
+            "slug": "mathieu-gervais",
+            "url": "/fr/a-propos/mathieu-gervais"
         }
     },
     "seo": {
