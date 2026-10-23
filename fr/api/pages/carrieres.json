@@ -73,6 +73,15 @@
         "availableJobsTitle": "Opportunités d'emploi",
         "availableJobs": [
             {
+                "title": "Directeur(trice) des finances et de l’administration",
+                "url": "/fr/carrieres/directeur-finances-et-administration",
+                "jsonUrl": "https://www.exonetik.com/fr/api/pages/careers/directeur-finances-et-administration.json",
+                "publicationDate": 1792713600,
+                "location": "Sherbrooke",
+                "type": "Permanent",
+                "slug": "directeur-finances-et-administration"
+            },
+            {
                 "title": "Ingénieur en intégration électrique et électronique",
                 "url": "/fr/carrieres/ingenieur-en-integration-electrique-et-electronique",
                 "jsonUrl": "https://www.exonetik.com/fr/api/pages/careers/ingenieur-en-integration-electrique-et-electronique.json",
